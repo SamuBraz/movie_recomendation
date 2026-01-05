@@ -1,0 +1,1573 @@
+,movieId,tag
+0,1,"pixar,pixar,fun"
+1,2,"fantasy,magic board game,Robin Williams,game"
+2,3,"moldy,old"
+3,5,"pregnancy,remake"
+4,7,remake
+5,11,"politics,president"
+6,14,"politics,president"
+7,16,Mafia
+8,17,Jane Austen
+9,21,Hollywood
+10,22,serial killer
+11,25,alcoholism
+12,26,Shakespeare
+13,28,"In Netflix queue,Jane Austen"
+14,29,kidnapping
+15,31,"high school,teacher"
+16,32,"time travel,time travel,Brad Pitt,Bruce Willis,mindfuck,Post apocalyptic,post-apocalyptic,remake,time travel,twist ending"
+17,34,"Animal movie,pigs,villain nonexistent or not needed for good story"
+18,36,"death penalty,Nun"
+19,38,twins
+20,39,"chick flick,funny,Paul Rudd,quotable,seen more than once,Emma,Jane Austen"
+21,40,"In Netflix queue,South Africa"
+22,41,Shakespeare
+23,43,England
+24,45,Journalism
+25,46,wedding
+26,47,"mystery,twist ending,serial killer"
+27,50,"mindfuck,suspense,thriller,tricky,twist ending,heist"
+28,52,"adoption,prostitution"
+29,58,writing
+30,62,music
+31,92,Jekyll and Hyde
+32,96,theater
+33,101,"crime,off-beat comedy,quirky"
+34,104,"test tag,golf,Adam Sandler"
+35,107,muppets
+36,110,"beautiful scenery,epic,historical,inspirational,Medieval,mel gibson,Oscar (Best Cinematography),revenge,sword fight,Scotland"
+37,111,assassination
+38,116,Holocaust
+39,122,dating
+40,140,journalism
+41,147,"addiction,heroin,Leonardo DiCaprio,Mark Wahlberg"
+42,150,"moon,NASA,space"
+43,153,"superhero,superhero"
+44,160,Michael Crichton
+45,161,submarine
+46,162,In Netflix queue
+47,175,"controversial,New York City,Nudity (Full Frontal)"
+48,185,computers
+49,199,Made me cry
+50,215,generation X
+51,216,"school,Adam Sandler,stop looking at me swan"
+52,222,Ireland
+53,223,"cynical,hilarious,independent film,quirky,witty,generation X"
+54,224,"mental illness,psychology"
+55,230,Stephen King
+56,232,In Netflix queue
+57,235,movie business
+58,237,"basketball,France,infertility"
+59,246,basketball
+60,247,Australia
+61,248,"bad,Sinbad"
+62,249,Beethoven
+63,252,Einstein
+64,257,court
+65,260,"classic,space action,action,sci-fi,EPIC,great soundtrack,classic sci-fi,engrossing adventure,EPIC,classic,Nerd,classic sci-fi,space action,space epic,oldie but goodie,sci-fi,Star Wars,ROBOTS AND ANDROIDS,space,classic sci-fi,sci-fi,space adventure,Star Wars,darth vader,luke skywalker,space opera"
+66,261,Louisa May Alcott
+67,262,"England,Girl Power,India"
+68,272,"England,mental illness"
+69,273,gothic
+70,277,Christmas
+71,279,In Netflix queue
+72,280,prison
+73,282,"disability,twins"
+74,288,"brutality,controversial,dark comedy,psychedelic,satire,stylized"
+75,290,In Netflix queue
+76,293,"assassin,Jean Reno,hit men,Action,assassin,assassination,assassins,awkward romance,corruption,crime,disturbing,drama,French,friendship,Gary Oldman,great acting,Guns,hit men,hitman,humorous,imdb top 250,Jean Reno,Lolita theme,loneliness,love story,Luc Besson,Natalie Portman,organized crime,police,police corruption,quirky,sniper,tense,touching,unique"
+77,296,"good dialogue,great soundtrack,non-linear,cult film,drugs,Quentin Tarantino,Tarantino,hit men,1990s,achronological,action,action packed,aggressive,amazing,amazing dialogues,anthology,assassin,atmospheric,AWESOME,bad ass,bad language,bad-ass,bible,biblical references,big boys with guns,big name actors,Black comedy,black humor,black humour,blood,blood splatters,bloody,bruce willis,brutality,casual violence,character development,characters,classic,classic movie,coke,comedy,conversation,cool,cool style,crime,crime scene scrubbing,cult,cult classic,cult film,dance,dancing,dark,dark comedy,dark humor,dialogue,different,diner,disjointed timeline,disturbing,drama,drug overdose,drugs,drugs & music,ensemble cast,entertaining,entirely dialogue,episodic,exciting,fast paced,fast-paced,film noir,film-noir,foul language,fun,funny,gangster,gangsters,genius,golden watch,good dialogue,good music,gore,great acting,great dialogue,great soundtrack,gritty,guns,Harvey Keitel,heroin,Highly quotable,hit men,hitman,homosexuality,humour,iconic,imdb top 250,innovative,intellectual,intelligent,intense,interesting,intertwining storylines,interwoven storylines,ironic,irony,John Travolta,killer-as-protagonist,los angeles,Mafia,masterpiece,meaningless violence,milkshake,mobster,mobsters,monologue,motherfucker,multiple stories,multiple storylines,neo-noir,noir,non-linear,non-linear timeline,nonlinear,nonlinear narrative,nonlinear storyline,nonlinear timeline,notable soundtrack,offensive,organised crime,organized crime,original,original plot,out of order,Palme d'Or,parody,philosophical,pop culture references,psychological,pulp,Quentin Tarantino,quirky,Quotable,r:disturbing violent content including rape,r:disturbing violent images,r:graphic sexuality,r:some violence,r:strong bloody violence,r:strong language,r:sustained strong stylized violence,r:violence,random,rape,retro,Roger Avary,royal with cheese,Samuel L. Jackson,sarcasm,satire,sexy,smart writing,sophisticated,soundtrack,splatter,Steve Buscemi,storytelling,stylish,stylized,suspense,Tarantino,thought-provoking,thriller,travolta,twist ending,Uma Thurman,unique,unpredictable,unusual,very funny,violence,violent,witty"
+78,300,TV
+79,307,Death
+80,308,"marriage,cynical"
+81,316,time travel
+82,317,Christmas
+83,318,"prison,Stephen King,wrongful imprisonment,Morgan Freeman"
+84,326,In Netflix queue
+85,329,Enterprise
+86,337,mental illness
+87,338,serial killer
+88,339,coma
+89,342,"Australia,weddings"
+90,345,"cross dressing,men in drag,remade"
+91,349,Tom Clancy
+92,350,John Grisham
+93,351,interracial romance
+94,356,"shrimp,Vietnam,bubba gump shrimp,lieutenant dan,stupid is as stupid does,bittersweet,emotional,heartwarming,touching"
+95,357,wedding
+96,361,gambling
+97,363,"Holocaust,In Netflix queue"
+98,364,"Disney,Disney animated feature,Oscar (Best Music - Original Score),soundtrack,Disney"
+99,371,journalism
+100,377,bus
+101,380,spies
+102,381,alcoholism
+103,410,"black comedy,Christina Ricci,Christopher Lloyd,dark comedy,family,gothic"
+104,412,Edith Wharton
+105,413,Comedy
+106,421,horses
+107,425,"mental illness,Oscar (Best Actress)"
+108,431,"Al Pacino,gangster,mafia"
+109,440,President
+110,454,John Grisham
+111,457,based on a TV show
+112,471,hula hoop
+113,474,assassination
+114,475,Ireland
+115,477,biopic
+116,480,Dinosaur
+117,488,"Japan,sexuality"
+118,497,Shakespeare
+119,500,"cross dressing,divorce,men in drag"
+120,508,AIDs
+121,513,"radio,show business"
+122,515,"Butler,Housekeeper"
+123,516,military
+124,522,"Australia,racism,violence"
+125,524,football
+126,527,"moving,thought-provoking,Holocaust,based on a true story,biography,disturbing,holocaust"
+127,529,chess
+128,531,In Netflix queue
+129,534,C.S. Lewis
+130,535,large cast
+131,538,race
+132,539,Empire State Building
+133,540,bad
+134,541,"sci-fi,robots,androids,artificial intelligence,atmospheric,cyberpunk,future,mindfuck,Philip K. Dick,atmospheric,dreamlike,existentialism,philosophical"
+135,543,beat poetry
+136,551,"Christmas,Halloween"
+137,552,knights
+138,556,politics
+139,562,adolescence
+140,586,christmas
+141,587,overrated
+142,588,Disney
+143,589,"apocalypse,Arnold Schwarzenegger,nuclear war,sci-fi,Suspense,time travel,robots,Scifi masterpiece"
+144,590,"American Indians,Native Americans"
+145,592,superhero
+146,593,"Hannibal Lector,disturbing,drama,gothic,psychology,suspense"
+147,594,Disney
+148,595,Disney
+149,596,Disney
+150,597,prostitution
+151,608,"based on a true story,dark comedy,KIDNAPPING,Steve Buscemi,Coen Brothers"
+152,616,Disney
+153,628,"edward norton,psychology,suspense,thought-provoking,twist ending,priest"
+154,638,babies
+155,647,Gulf War
+156,648,based on a TV show
+157,668,India
+158,670,India
+159,671,spoof
+160,673,Bugs Bunny
+161,707,bad
+162,708,Veterinarian
+163,720,Aardman
+164,728,In Netflix queue
+165,733,"Alcatraz,Michael Bay,terrorism"
+166,736,Disaster
+167,745,Aardman
+168,748,aliens
+169,750,"dark comedy,Atomic bomb,black comedy,dark comedy,satire,purity of essence,Slim Pickens,black comedy,dark comedy,Quirky"
+170,778,"based on a book,dark comedy,narrated,drug abuse"
+171,780,aliens
+172,800,In Netflix queue
+173,805,John Grisham
+174,818,based on a TV show
+175,830,adultery
+176,832,"kidnapping,GIVE ME BACK MY SON!,It was melodramatic and kind of dumb,Mel Gibson"
+177,836,seen at the cinema
+178,838,Jane Austen
+179,852,golf
+180,858,Mafia
+181,892,Shakespeare
+182,898,divorce
+183,899,movie business
+184,900,France
+185,902,Capote
+186,903,"falling,Alfred Hitchcock,Atmospheric,imdb top 250,James Stewart"
+187,904,"voyeurism,imdb top 250,James Stewart,mystery,photographer,photography"
+188,905,Screwball
+189,906,Brooch
+190,907,divorce
+191,908,"Mount Rushmore,Alfred Hitchcock,imdb top 250"
+192,909,adultery
+193,910,men in drag
+194,911,heist
+195,912,start of a beautiful friendship
+196,913,statue
+197,914,George Bernard Shaw
+198,915,rich guy - poor girl
+199,916,"Italy,royalty"
+200,918,1900s
+201,919,"Dorothy,Toto"
+202,920,Civil War
+203,921,television
+204,922,"movies,eerie,movie business"
+205,923,Rosebud
+206,924,"Hal,space,aliens,apes,Arthur C. Clarke,artificial intelligence,atmospheric,cinematography,classic,computer,confusing ending,cult film,Dull,future,futuristic,imdb top 250,masterpiece,meditative,music,mystery,Oscar (Best Effects - Visual Effects),overrated,philosophical,relaxing,revolutionary,robots,sci-fi,setting:space/space ship,slow,slow paced,soundtrack,space,space travel,spacecraft,Stanley Kubrick,superb soundtrack,surreal,technology,tedious,visual,visually appealing"
+207,926,Hollywood
+208,927,divorce
+209,928,Mrs. DeWinter
+210,929,"Europe,journalism,war"
+211,930,assassination
+212,931,amnesia
+213,934,wedding
+214,936,"Cold War,Russia"
+215,938,prostitution
+216,940,swashbuckler
+217,941,swashbuckler
+218,943,ghosts
+219,944,Shangri-La
+220,945,Astaire and Rogers
+221,947,"butler,homeless,screwball"
+222,948,oil
+223,950,Nick and Nora Charles
+224,951,Screwball
+225,952,race
+226,953,Christmas
+227,954,Politics
+228,955,"leopard,screwball"
+229,956,adoption
+230,965,fugitive
+231,968,zombies
+232,969,missionary
+233,970,crime
+234,971,Tennessee Williams
+235,973,journalism
+236,976,Hemingway
+237,986,Animal movie
+238,991,Ireland
+239,994,food
+240,1006,"death penalty,John Grisham"
+241,1010,"Disney,race"
+242,1013,twins
+243,1022,Disney
+244,1025,"Disney,King Arthur"
+245,1028,"Disney,nanny"
+246,1029,Disney
+247,1030,Disney
+248,1032,Disney
+249,1033,Disney
+250,1035,Rogers and Hammerstein
+251,1041,In Netflix queue
+252,1042,Music
+253,1059,"Amazing Cinematography,Leonardo DiCaprio,shakespeare,updated classics,Shakespeare"
+254,1066,Astaire and Rogers
+255,1068,anti-Semitism
+256,1076,governess
+257,1079,fish
+258,1080,"Bible,parody,religion"
+259,1081,cross dressing
+260,1082,politics
+261,1084,"1920s,gangsters"
+262,1088,"dance,music"
+263,1089,"ensemble cast,nonlinear,Quentin Tarantino,stylized,heist,violence,humorous,neo-noir,Quentin Tarantino,religion,Tarantino"
+264,1090,Vietnam
+265,1093,"1960s,Jim Morrison,music"
+266,1096,Holocaust
+267,1097,aliens
+268,1101,"predictable,Navy"
+269,1103,"1950s,adolescence"
+270,1104,Tennessee Williams
+271,1120,freedom of expression
+272,1124,aging
+273,1125,Clousseau
+274,1135,military
+275,1136,"british comedy,Monty Python,England,King Arthur"
+276,1147,"boxing,In Netflix queue"
+277,1148,Aardman
+278,1171,politics
+279,1177,Italy
+280,1178,"court,military"
+281,1179,crime
+282,1183,adultery
+283,1185,In Netflix queue
+284,1187,disability
+285,1188,"Australia,dance"
+286,1189,"In Netflix queue,police"
+287,1193,"emotional,jack nicholson,mental illness"
+288,1196,"I am your father,space,space opera,classic,George Lucas,Harrison Ford,music,original plot,sci-fi,sequel"
+289,1197,"Inigo Montoya,six-fingered man"
+290,1198,"adventure,archaeology,indiana jones,Steven Spielberg,treasure hunt,archaeology,ark of the covenant,indiana jones"
+291,1200,"action,aliens,horror,sci-fi,space,space craft,SPACE TRAVEL,suspense,space"
+292,1201,spaghetti western
+293,1203,"court,claustrophobic,confrontational,earnest,good dialogue,great screenplay,gritty,Motivational,thought-provoking"
+294,1204,Middle East
+295,1206,brainwashing
+296,1207,"Harper Lee,racism"
+297,1208,Vietnam
+298,1209,spaghetti western
+299,1210,"darth vader,luke skywalker,space opera"
+300,1212,"ferris wheel,Venice,zither"
+301,1213,Mafia
+302,1214,aliens
+303,1217,samurai
+304,1219,"Alfred Hitchcock,psychology,suspenseful,tense,Norman Bates,Alfred Hitchcock,black and white,imdb top 250,remade"
+305,1220,Saturday Night Live
+306,1221,"Al Pacino,Mafia,Mafia"
+307,1222,"Vietnam,anti-war"
+308,1223,moon
+309,1224,Shakespeare
+310,1225,"Mozart,Salieri"
+311,1228,boxing
+312,1230,New York
+313,1231,"NASA,space"
+314,1233,submarine
+315,1234,The Entertainer
+316,1235,May-December romance
+317,1237,"chess,death,atmospheric,cerebral,existentialism,philosophical,reflective"
+318,1240,"Action,artificial intelligence,robots,Sci-Fi,special effects,tense,time travel,robots"
+319,1242,Civil War
+320,1243,Shakespeare sort of
+321,1244,black and white
+322,1245,Mafia
+323,1246,"highschool,High School"
+324,1247,Simon and Garfunkel
+325,1249,hit men
+326,1250,POW
+327,1252,incest
+328,1253,aliens
+329,1254,Cold
+330,1257,skiing
+331,1258,"atmospheric,disturbing,Horror,jack nicholson,masterpiece,psychological,Stanley Kubrick,suspense,Stephen King"
+332,1259,Stephen King
+333,1260,"serial killer,atmospheric,chilly,creepy,menacing,mental illness,oninous"
+334,1262,POW
+335,1263,Vietnam
+336,1266,revenge
+337,1267,"assassination,brainwashing"
+338,1269,murder
+339,1270,time travel
+340,1272,World War II
+341,1274,"animation,anime,visually stunning"
+342,1276,prison
+343,1277,In Netflix queue
+344,1278,spoof
+345,1280,In Netflix queue
+346,1281,Nazis
+347,1282,Disney
+348,1283,gunfight
+349,1284,Hammett
+350,1285,high school
+351,1288,"music,heavy metal,mockumentary,music"
+352,1291,"archaeology,Holy Grail"
+353,1292,television
+354,1293,India
+355,1296,E. M. Forster
+356,1299,"Cambodia,Vietnam"
+357,1301,"Shakespeare sort of,space"
+358,1302,baseball
+359,1303,India
+360,1304,crime
+361,1307,New York
+362,1333,birds
+363,1343,"horror,Juliette Lewis,Martin Scorsese,Robert De Niro,remake"
+364,1344,lawyer
+365,1345,"high school,prom,Stephen King"
+366,1348,vampires
+367,1350,demons
+368,1353,personals ads
+369,1354,religion
+370,1356,Borg
+371,1357,music
+372,1358,ex-con
+373,1361,In Netflix queue
+374,1363,religion
+375,1366,Arthur Miller
+376,1367,"dogs,remake"
+377,1372,Klingons
+378,1374,Captain Kirk
+379,1376,whales
+380,1377,superhero
+381,1380,high school
+382,1381,high school
+383,1387,Shark
+384,1389,shark
+385,1393,sports
+386,1394,Coen Brothers
+387,1396,spying
+388,1398,Hemingway
+389,1407,"slasher,spoof"
+390,1408,"Hawkeye,James Fennimore Cooper"
+391,1411,Shakespeare
+392,1413,Conan
+393,1416,Andrew Lloyd Weber
+394,1423,"In Netflix queue,Vietnam"
+395,1441,"mental illness,Not Seen"
+396,1446,In Netflix queue
+397,1449,mockumentary
+398,1466,Mafia
+399,1474,jungle
+400,1485,lawyer
+401,1496,Tolstoy
+402,1500,"hit men,reunion"
+403,1513,reunion
+404,1537,ballroom dance
+405,1542,In Netflix queue
+406,1544,dinosaurs
+407,1545,death
+408,1569,"romantic comedy,wedding,weddings"
+409,1573,transplants
+410,1580,aliens
+411,1586,military
+412,1608,president
+413,1610,Tom Clancy
+414,1617,Police
+415,1625,"mindfuck,Mystery,plot twist,psychological,suspense,twist ending,twist ending,Mystery"
+416,1635,1970s
+417,1643,"England,Queen Victoria"
+418,1645,lawyers
+419,1650,Henry James
+420,1653,"future,intelligent,thought-provoking"
+421,1663,military
+422,1672,In Netflix queue
+423,1674,Amish
+424,1680,alternate universe
+425,1682,TV
+426,1683,Henry James
+427,1704,"inspirational,heartwarming,inspirational"
+428,1711,Savannah
+429,1717,"sequel,slasher,spoof"
+430,1719,"Canada,death"
+431,1721,"shipwreck,romance"
+432,1726,"Kevin Costner,Post apocalyptic"
+433,1732,"Coen Brothers,black comedy,bowling,classic,coen brothers,comedy,crime,Cult classic,cult film,dark comedy,deadpan,drugs,funny,great dialogue,great soundtrack,Highly quotable,imdb top 250,Jeff Bridges,John Goodman,Julianne Moore,kidnapping,marijuana,Nudity (Full Frontal),off-beat comedy,Philip Seymour Hoffman,quirky,ransom,rug,sarcasm,satirical,Steve Buscemi,violence"
+434,1735,Charles Dickens
+435,1748,amnesia
+436,1777,1980s
+437,1779,good
+438,1797,In Netflix queue
+439,1801,seen more than once
+440,1810,politics
+441,1834,twist ending
+442,1836,No DVD at Netflix
+443,1893,In Netflix queue
+444,1900,In Netflix queue
+445,1902,generation X
+446,1909,conspiracy
+447,1912,heist
+448,1913,Australia
+449,1916,"avant-garde romantic comedy,elegiac,melancholy,quirky,wry"
+450,1917,space
+451,1921,"hallucinatory,mental illness,mindfuck,paranoid,mathematics,artsy,atmospheric,cerebral,enigmatic,existentialism,hallucinatory,insanity,paranoia,paranoid,surreal,tense,visually appealing"
+452,1923,"Ben Stiller,Ben Stiller,crude humor,goofy"
+453,1931,ships
+454,1938,alcoholism
+455,1940,"anti-Semitism,Judaism"
+456,1942,"Huey Long,In Netflix queue,Robert Penn Warren"
+457,1945,"boxing,coulda been a contender"
+458,1947,Gangs
+459,1948,British
+460,1950,racism
+461,1951,Dickens
+462,1952,prostitution
+463,1953,"drugs,police"
+464,1954,"boxing,sports"
+465,1955,divorce
+466,1957,"Olympics,sports"
+467,1959,"adultery,Africa"
+468,1960,China
+469,1961,autism
+470,1962,rasicm
+471,1975,Jason
+472,1976,Jason
+473,1977,Jason
+474,1978,Jason
+475,1979,Jason
+476,1983,halloween
+477,1984,halloween
+478,1994,ghosts
+479,1995,ghosts
+480,1996,ghosts
+481,1997,demons
+482,2006,"California,Mexico"
+483,2011,time travel
+484,2019,samurai
+485,2020,adultery
+486,2022,"Bible,Katzanzakis"
+487,2023,"Al Pacino,Andy Garcia,Classic,Francis Ford Coppola,mafia"
+488,2028,World War II
+489,2054,Disney
+490,2058,police
+491,2059,twins
+492,2064,"General Motors,Michigan"
+493,2065,In Netflix queue
+494,2066,memory
+495,2070,music
+496,2071,"AIDs,In Netflix queue"
+497,2076,"sexuality,suburbia"
+498,2078,Disney
+499,2080,Disney
+500,2085,Disney
+501,2097,"carnival,Ray Bradbury"
+502,2100,mermaid
+503,2108,weather forecaster
+504,2114,S.E. Hinton
+505,2115,archaeology
+506,2116,"Tolkein,classic"
+507,2118,Stephen King
+508,2121,Stephen King
+509,2122,Stephen King
+510,2124,"black comedy,Christina Ricci,Christopher Lloyd,Family,gothic,quirky"
+511,2138,"atmospheric,beautiful"
+512,2139,mice
+513,2145,"1980s,high school"
+514,2146,post-college
+515,2160,"Atmospheric,creepy,paranoia,scary,suspense,demons"
+516,2167,vampires
+517,2171,"aquarium,Boston,personals ads"
+518,2186,murder
+519,2187,theater
+520,2194,"Capone,gangsters"
+521,2202,survival
+522,2203,small towns
+523,2206,paranoia
+524,2208,train
+525,2243,journalism
+526,2247,Mafia
+527,2248,"In Your Eyes,Lloyd Dobbler"
+528,2249,Mafia
+529,2268,"court,military"
+530,2291,freaks
+531,2295,Screwball
+532,2296,SNL
+533,2300,Broadway
+534,2302,court
+535,2310,adolescence
+536,2312,death penalty
+537,2313,freaks
+538,2324,"Holocaust,bittersweet,emotional,Heartwarming,poignant,sentimental,tear jerker,tearjerking"
+539,2329,"thought-provoking,racism,edward norton,emotional,politics"
+540,2334,terrorism
+541,2335,football
+542,2336,England
+543,2351,In Netflix queue
+544,2355,Pixar
+545,2357,South America
+546,2360,In Netflix queue
+547,2387,"dark comedy,dark humor"
+548,2390,In Netflix queue
+549,2391,heist
+550,2393,"cameo:Whoopi Goldberg,space opera,Star Trek"
+551,2394,"Bible,Moses"
+552,2396,England
+553,2410,boxing
+554,2411,boxing
+555,2412,boxing
+556,2420,martial arts
+557,2421,martial arts
+558,2422,martial arts
+559,2423,christmas
+560,2424,"e-mail,remake"
+561,2431,"doctors,bad"
+562,2442,In Netflix queue
+563,2463,kidnapping
+564,2467,religion
+565,2470,Australia
+566,2471,Australia
+567,2491,food
+568,2494,"Holocaust,Hungary"
+569,2502,"stapler,workplace"
+570,2505,Nicolas Cage
+571,2506,disability
+572,2517,Stephen King
+573,2529,twist ending
+574,2550,ghosts
+575,2553,evil children
+576,2554,evil children
+577,2565,Siam
+578,2571,"martial arts,sci-fi,alternate universe,philosophy,post apocalyptic"
+579,2572,Shakespeare sort of
+580,2579,"black and white,Christopher Nolan,directorial debut,mindfuck,not linear,Twist Ending,black and white"
+581,2581,high school
+582,2583,southern US
+583,2598,golfing
+584,2600,virtual reality
+585,2612,motherhood
+586,2616,comic book
+587,2628,"prequel,the Force"
+588,2640,superhero
+589,2641,superhero
+590,2642,superhero
+591,2648,In Netflix queue
+592,2660,aliens
+593,2662,classic
+594,2664,1950s
+595,2677,In Netflix queue
+596,2692,alternate endings
+597,2693,Star Trek
+598,2694,Adam Sandler
+599,2699,spiders
+600,2700,"adult humor,controversial,crude humor,free speech,parody,satire,south park,Trey Parker"
+601,2706,"best comedy,Chris Klein,dumb,Jason Biggs,not funny,pizza beer,Seann William Scott,teen"
+602,2710,"claims to be true,video"
+603,2712,sexuality
+604,2716,ghosts
+605,2717,Ghosts
+606,2719,remake
+607,2723,superhero
+608,2726,heist
+609,2728,"crucifixion,Rome,slavery"
+610,2731,"emotional,gentle,heartwarming,lyrical,reflective"
+611,2745,"Missionary,Priest"
+612,2750,"nostalgia,radio"
+613,2761,"robots,animation"
+614,2762,"Atmospheric,Bruce Willis,ghosts,imdb top 250,mindfuck,stylized,twist ending,ghosts,I see dead people"
+615,2787,Stephen King
+616,2791,"aviation,spoof"
+617,2797,children
+618,2801,gambling
+619,2803,lawyers
+620,2804,Christmas
+621,2827,aliens
+622,2863,Beatles
+623,2871,river
+624,2872,"England,King Arthur"
+625,2905,In Netflix queue
+626,2915,prostitution
+627,2918,High School
+628,2919,"Academy award (Best Supporting Actress),Indonesia,journalism"
+629,2927,adultery
+630,2935,gambling
+631,2937,screwball
+632,2939,In Netflix queue
+633,2940,nightclub
+634,2941,island
+635,2943,Vietnam
+636,2951,bad
+637,2952,gambling
+638,2953,"family,funny,Macaulay Culkin,sequel"
+639,2959,"dark comedy,psychology,thought-provoking,twist ending,dark comedy,violence,action,atmospheric,based on a book,Brad Pitt,challenging,Chuck Palahniuk,classic,clever,complicated,consumerism,crime,dark,dark comedy,David Fincher,disturbing,double life,Edward Norton,fighting,great acting,helena bonham carter,imaginary friend,imdb top 250,mental illness,mind-blowing,mindfuck,narrated,Nudity (Topless),Palahnuik,philosophical,philosophy,postmodern,powerful ending,psychological,psychological thriller,psychology,quirky,satirical,schizophrenia,social commentary,societal criticism,stylized,surreal,TERRORISM,thought-provoking,twist,twist ending,violence,violent"
+640,2966,"brothers,lawn mower"
+641,2967,evil children
+642,2968,time travel
+643,2987,live action/animation
+644,3000,"anime,adventure,atmospheric,fantasy world,Studio Ghibli,surreal"
+645,3006,"tobacco,true story"
+646,3007,In Netflix queue
+647,3011,dance marathon
+648,3028,Shakespeare
+649,3030,samurai
+650,3039,"class,Dan Aykroyd"
+651,3040,camp
+652,3044,"memory,music"
+653,3052,"irreverent,jay and silent bob,Kevin Smith,satire,religion"
+654,3060,In Netflix queue
+655,3071,high school
+656,3072,New York
+657,3077,"In Netflix queue,Up series"
+658,3081,Ichabod Crane
+659,3087,"christmas,new york"
+660,3095,"depression,dust bowl"
+661,3097,remade
+662,3098,"baseball,sports"
+663,3101,adultery
+664,3108,homeless
+665,3111,racism
+666,3114,"animation,Disney,funny,original,Pixar,sequel,Tom Hanks,Pixar"
+667,3115,men in drag
+668,3125,Graham Greene
+669,3134,"downbeat,poignant"
+670,3135,fatherhood
+671,3147,Stephen King
+672,3152,black-and-white
+673,3160,L.A.
+674,3174,Andy Kaufman
+675,3175,spoof
+676,3176,"based on a book,creepy,disturbing,Jude Law,murder,obsession,psychology,secrets,serial killer,suspense,Europe,murder"
+677,3178,boxing
+678,3181,Shakespeare
+679,3186,"asylum,based on a true story,Brittany Murphy,Mental Hospital,psychology,winona ryder"
+680,3192,In Netflix queue
+681,3210,high school
+682,3211,"a dingo ate my baby,Australia"
+683,3247,nuns
+684,3250,In Netflix queue
+685,3258,plastic surgery
+686,3259,Ireland
+687,3260,E.M. Forster
+688,3263,basketball
+689,3265,"gun fu,heroic bloodshed"
+690,3266,"black comedy,crazy,dark,dark comedy,dark humor,serial killer"
+691,3270,figure skating
+692,3273,"slasher,spoof"
+693,3281,sexuality
+694,3306,"big top,circus"
+695,3307,blind
+696,3310,orphans
+697,3317,writing
+698,3330,"adolescence,sexuality"
+699,3338,In Netflix queue
+700,3341,remade
+701,3360,basketball
+702,3384,subway
+703,3385,Peace Corp
+704,3386,"politics,president"
+705,3408,"scandal,true story"
+706,3420,lawyers
+707,3421,"college,TOGA"
+708,3424,"racism,great cinematography"
+709,3429,aardman
+710,3435,Insurance
+711,3447,Pearl S Buck
+712,3451,"Hepburn and Tracy,interracial marriage,prejudice,racism"
+713,3456,In Netflix queue
+714,3461,island
+715,3462,factory
+716,3468,pool
+717,3469,"court,evolution,religion"
+718,3475,class
+719,3481,"music,Nick Hornby"
+720,3489,Peter Pan
+721,3498,In Netflix queue
+722,3499,"claustrophobic,horror,scary,stephen king,suspenseful,tense,thriller"
+723,3502,death
+724,3504,journalism
+725,3507,In Netflix queue
+726,3512,transplants
+727,3515,alternate endings
+728,3526,families
+729,3527,"aliens,sci-fi,scifi cult,aliens,Arnold Schwarzenegger,dialogue,guns,Jesse Ventura,macho,sci-fi,scifi cult"
+730,3528,psychiatrist
+731,3536,"priest,rabbi"
+732,3546,show business
+733,3548,1920s
+734,3549,Gambling
+735,3552,golf
+736,3556,"sofia coppola,1970s,suicide"
+737,3559,In Netflix queue
+738,3566,"business,religion"
+739,3578,"ancient Rome,Epic,history,imdb top 250,revenge,Rome,Russell Crowe,Romans"
+740,3608,Pee Wee Herman
+741,3629,mining
+742,3671,"dark humor,easygoing,silly"
+743,3675,Christmas
+744,3676,"In Netflix queue,art house,Atmospheric,creepy,cryptic,dark,disturbing,dreamlike,enigmatic,fucked up,gruesome,hallucinatory,Insane,paranoid,strange,surreal,weird"
+745,3683,Coen Brothers
+746,3712,television
+747,3723,Shakespeare
+748,3724,Vietnam
+749,3730,spying
+750,3735,police
+751,3793,"action,comic book,hugh jackman,marvel,superhero,superhero"
+752,3801,court
+753,3811,court
+754,3816,missing children
+755,3844,diabetes
+756,3849,disability
+757,3859,"In Netflix queue,televangelist"
+758,3877,superhero
+759,3897,"music,journalism,music,Rolling Stone"
+760,3910,"blindness,factory"
+761,3911,"satire,Dogs"
+762,3932,invisibility
+763,3948,"comedy,Robert De Niro"
+764,3949,"drug abuse,depressing,psychology"
+765,3951,In Netflix queue
+766,3967,ballet
+767,3983,family
+768,3988,Dr. Seuss
+769,3994,"superhero,atmospheric,comics,father-son relationship,mindfuck,unique,atmospheric,somber"
+770,3996,"china,martial arts"
+771,4007,business
+772,4012,stand-up comedy
+773,4015,bad
+774,4019,writing
+775,4024,Edith Wharton
+776,4025,pageant
+777,4027,bluegrass
+778,4029,movies
+779,4034,"drugs,based on a TV show"
+780,4046,Quakers
+781,4077,psychopaths
+782,4105,zombies
+783,4113,Tennessee Williams
+784,4117,In Netflix queue
+785,4138,demons
+786,4144,"atmospheric,Beautiful,bittersweet,dreamy,elegant,heartbreaking,intimate,loneliness,long takes,longing,melancholic,melancholy,moody,nocturnal,romantic,Unique,visually appealing,visually stunning"
+787,4160,death penalty
+788,4164,"homeless,New York"
+789,4166,reality TV
+790,4171,Eugene O'Neill
+791,4174,In Netflix queue
+792,4184,Christmas
+793,4189,"Bible,religion"
+794,4190,"preacher,religion"
+795,4191,sexuality
+796,4194,In Netflix queue
+797,4204,virginity
+798,4210,"Hannibal Lecter,serial killer"
+799,4211,von Bulow
+800,4214,college
+801,4218,In Netflix queue
+802,4221,football
+803,4223,"Ed Harris,Jude Law,Rachel Weisz,sniper,World War II"
+804,4226,"dark,Mindfuck,nonlinear,psychology,twist ending,mystery,psychological,twist ending,Backwards. memory,mystery,twist ending,cerebral,dreamlike"
+805,4232,spying
+806,4246,singletons
+807,4259,Nabokov
+808,4262,Al Pacino
+809,4263,alcoholism
+810,4292,Union
+811,4296,death
+812,4306,fairy tales
+813,4312,In Netflix queue
+814,4316,figure skating
+815,4326,"race,rasicm"
+816,4333,Strangers on a Train
+817,4343,"really bad,Seann William Scott"
+818,4347,Holocaust
+819,4356,In Netflix queue
+820,4359,adultery
+821,4361,men in drag
+822,4370,"android(s)/cyborg(s),artificial intelligence,Bittersweet,Steven Spielberg,robots"
+823,4380,accident
+824,4396,race
+825,4404,In Netflix queue
+826,4446,sci-fi
+827,4447,lawyers
+828,4448,"heist,boring"
+829,4454,"claymation,creativity,dystopia,free to download,imagination,no dialogue,social commentary"
+830,4465,rape
+831,4476,twins
+832,4477,circus
+833,4489,"Africa,immigrants"
+834,4495,New York
+835,4526,aliens
+836,4537,hippies
+837,4545,robots
+838,4546,"kidnapping,remade"
+839,4552,"""artsy"",atmospheric,gritty,hallucinatory,surreal,visually stunning"
+840,4558,twins
+841,4571,time travel
+842,4600,doctors
+843,4612,reciprocal spectator
+844,4621,babies
+845,4623,baseball
+846,4638,dinosaurs
+847,4639,"Hollywood,movie business"
+848,4641,adolescence
+849,4677,dogs
+850,4678,television
+851,4688,In Netflix queue
+852,4708,reciprocal spectator
+853,4725,"mental hospital,psychology,suspense,Well Done"
+854,4787,prodigies
+855,4801,family
+856,4808,remake
+857,4809,"Nuclear disaster,union"
+858,4812,"NASA,space"
+859,4816,"ben stiller,comedy,David Bowie,goofy,mindless one liners,Will Ferrell"
+860,4823,wedding
+861,4835,Loretta Lynn
+862,4857,"Judaism,Tradition!"
+863,4874,"aliens,psychiatrist"
+864,4878,"atmospheric,cult film,dreamlike,hallucinatory,psychological,surreal,time travel,jake gyllenhaal,time travel,dreamlike,hallucinatory,mental illness,psychology,social commentary,teen,thought-provoking,atmospheric,cerebral,dreamlike,enigmatic,hallucinatory,mental illness,mindfuck,philosophy,psychological,quirky,surreal,thought-provoking,weird"
+865,4881,Coen Brothers
+866,4896,"Everything you want is here,alan rickman,harry potter,humorous,Magic,Magic,Wizards"
+867,4902,ghosts
+868,4920,psychology
+869,4963,heist
+870,4969,In Netflix queue
+871,4970,"nightclub,singers"
+872,4973,whimsical
+873,4979,new york
+874,4980,time travel
+875,4993,"fantasy,high fantasy,Magic,mythology,tolkien,wizards,Tolkein"
+876,4995,mathematics
+877,4998,racism
+878,5008,"Agatha Christie,court"
+879,5012,"cross dressing,Judaism"
+880,5015,race
+881,5034,Ghost
+882,5064,"Dumas,revenge,remake"
+883,5088,irreverent
+884,5114,movie business
+885,5120,In Netflix queue
+886,5135,India
+887,5139,baseball
+888,5213,religion
+889,5224,In Netflix queue
+890,5238,In Netflix queue
+891,5254,"Great movie,Wesley Snipes"
+892,5266,crime
+893,5291,"black and white,samurai,In Netflix queue,samurai"
+894,5294,religion
+895,5304,In Netflix queue
+896,5316,World War II
+897,5349,superhero
+898,5353,blind
+899,5377,Nick Hornby
+900,5379,"anti-Semitism,Judaism"
+901,5388,"Al Pacino,atmospheric,Hilary Swank,Robin Williams,atmospheric,insomnia,thought-provoking"
+902,5398,boxing
+903,5404,books
+904,5445,future
+905,5446,Australia
+906,5450,"sisterhood,women"
+907,5451,"disability,mental illness"
+908,5459,"crappy sequel,first was much better,sequel"
+909,5464,"cinematography,Tom Hanks"
+910,5470,Oscar Wilde
+911,5475,In Netflix queue
+912,5483,movie business
+913,5498,In Netflix queue
+914,5502,aliens
+915,5505,"adultery,younger men"
+916,5527,"AS Byatt,books"
+917,5528,"photography,psychopaths"
+918,5548,homeless
+919,5577,adolescence
+920,5601,Animal movie
+921,5603,"crime,heist"
+922,5618,anime
+923,5629,Bible
+924,5630,Hannibal Lecter
+925,5633,bombs
+926,5644,"baseball,Lou Gehrig"
+927,5669,violence in america
+928,5673,"pudding,anger,awkward,bittersweet,hallucinatory,quirky,sad,surreal,symbolism,tense,unconventional,unique,wistful"
+929,5682,Holocaust
+930,5685,Girl Power
+931,5690,"made me cry,orphans,beautiful,downbeat,grim,poignant,tear jerker,tragedy,tragic"
+932,5694,70mm
+933,5721,"In Netflix queue,Judaism"
+934,5747,World War I
+935,5791,art
+936,5792,dating
+937,5802,teenagers
+938,5812,salute to Douglas Sirk
+939,5816,"Magic,Wizards"
+940,5820,music business
+941,5875,short films
+942,5876,Graham Greene
+943,5878,coma
+944,5899,Africa
+945,5952,"Myth,Tolkein"
+946,5954,"crime,nightclub"
+947,5971,anime
+948,5989,"crime,cheating,intelligent,Leonardo DiCaprio,lies,smart,Tom Hanks,twists & turns"
+949,5991,"court,jazz,murder"
+950,5994,Dickens
+951,5995,"holocaust,true story,Holocaust"
+952,6002,"drugs,planes,widows/widowers"
+953,6003,television
+954,6016,"multiple storylines,true story,crime,photography,violence,not seen"
+955,6020,class
+956,6027,In Netflix queue
+957,6031,"motherhood,race"
+958,6041,In Netflix queue
+959,6058,"sequel,violent"
+960,6063,doll
+961,6090,ghosts
+962,6101,"Chile,politics,South America"
+963,6104,spoof
+964,6107,World War II
+965,6156,England
+966,6157,"bad,Ben Affleck"
+967,6159,adolescence
+968,6163,obsession
+969,6170,horses
+970,6178,"blind,blindness,race"
+971,6181,"Civil War,Stephen Crane"
+972,6183,"Day and Hudson,sexuality"
+973,6188,"comedy,Will Ferrell"
+974,6195,"books,Stones of Summer"
+975,6197,mental illness
+976,6201,England
+977,6214,"dark,disturbing"
+978,6216,World War II
+979,6218,soccer
+980,6228,In Netflix queue
+981,6232,"animal movie,lions"
+982,6235,"Holocaust,World War II"
+983,6238,immigrants
+984,6242,television
+985,6244,In Netflix queue
+986,6245,prostitution
+987,6254,screwball
+988,6268,adolescence
+989,6269,Big Brothers
+990,6273,L.A.
+991,6281,crime
+992,6283,"amazing artwork,anime,sci-fi"
+993,6286,amnesia
+994,6288,gangs
+995,6289,Titanic
+996,6290,Rob Zombie
+997,6291,"prostitution,Depressing,melancholy,sad"
+998,6296,mockumentary
+999,6297,children
+1000,6299,birds
+1001,6305,Ray Bradbury
+1002,6308,lawyers
+1003,6323,John Cusack
+1004,6327,"1970s,movies"
+1005,6331,spelling bee
+1006,6333,"Jean Grey,Magneto,Rogue,superhero,Wolverine"
+1007,6334,teachers
+1008,6337,gambling
+1009,6339,trains
+1010,6341,art
+1011,6350,anime
+1012,6367,"Ewan McGregor,Renee Zellweger,retro"
+1013,6368,movies
+1014,6373,"religion,classic"
+1015,6375,"In Netflix queue,They Might Be Giants"
+1016,6377,"Disney,fish,heartwarming"
+1017,6378,heist
+1018,6380,child abuse
+1019,6385,Girl Power
+1020,6390,Ninotchka remake
+1021,6400,"documentary,crime"
+1022,6407,"Olympics,Tokyo"
+1023,6422,Civil War
+1024,6440,movie business
+1025,6452,In Netflix queue
+1026,6454,Nazis
+1027,6466,In Netflix queue
+1028,6502,"zombies,zombies"
+1029,6515,fugitive
+1030,6516,In Netflix queue
+1031,6534,"dogs,Eric Bana,mad scientist,marvel"
+1032,6535,politics
+1033,6536,swashbuckler
+1034,6539,swashbuckler
+1035,6541,"captain nemo,comic book,gothic,Peta Wilson,Sean Connery,superhero"
+1036,6545,Dodie Smith
+1037,6547,flood
+1038,6552,immigration
+1039,6564,"adventure,Angelina Jolie,heroine in tight suit"
+1040,6565,horses
+1041,6579,Japan
+1042,6591,religion
+1043,6592,marriage
+1044,6603,Othello
+1045,6609,Bible
+1046,6620,cancer
+1047,6636,road trip
+1048,6639,blindness
+1049,6650,"family,multiple roles,murder"
+1050,6660,ballet
+1051,6662,Clousseau
+1052,6667,FBI
+1053,6668,In Netflix queue
+1054,6669,"terminal illness,meditative,philosophical,poignant,purposefulness"
+1055,6708,"con men,fatherhood"
+1056,6710,vertriloquism
+1057,6711,"atmospheric,Japan"
+1058,6713,In Netflix queue
+1059,6724,In Netflix queue
+1060,6732,matchmaker
+1061,6744,vampire
+1062,6753,Animal movie
+1063,6768,religion
+1064,6770,"adultery,terminal illness"
+1065,6773,biking
+1066,6776,India
+1067,6785,Lonesome Polecat
+1068,6786,In Netflix queue
+1069,6787,"journalism,Watergate,Deep Throat"
+1070,6788,pregnancy
+1071,6791,Food
+1072,6807,british comedy
+1073,6810,domestic violence
+1074,6818,"atmospheric,bleak,disturbing,gritty,harsh"
+1075,6820,werewolf
+1076,6832,amnesia
+1077,6849,Christmas
+1078,6852,"black and white,Capote,crime,death penalty,murder"
+1079,6856,biopic
+1080,6863,school
+1081,6867,trains
+1082,6870,"child abuse,kidnapping"
+1083,6874,"martial arts,revenge"
+1084,6881,Thanksgiving
+1085,6890,"adolescence,violence in america"
+1086,6909,transplants
+1087,6912,Rita Hayworth can dance!
+1088,6918,India
+1089,6932,journalism
+1090,6936,christmas
+1091,6938,"big wave,surfing"
+1092,6944,"remake,wedding"
+1093,6948,"music business,rap"
+1094,6953,DEPRESSING
+1095,6963,Amish
+1096,6970,Hepburn and Tracy
+1097,6979,Cold War
+1098,6981,religion
+1099,6984,Dickens
+1100,6985,saint
+1101,6993,family
+1102,7013,good and evil
+1103,7018,"court,Scott Turow"
+1104,7020,Notable Nudity
+1105,7022,"based on a book,bloody,brutal,controversial,dystopia,goretastic,satire,social commentary,survival,violence"
+1106,7023,In Netflix queue
+1107,7024,"bleak,confrontational,disturbing,harsh,haunting,inhumane,thought-provoking"
+1108,7025,In Netflix queue
+1109,7049,Astaire and Rogers
+1110,7050,Astaire and Rogers
+1111,7053,Astaire and Rogers
+1112,7055,Astaire and Rogers
+1113,7059,horses
+1114,7061,terminal illness
+1115,7062,"birds,prison"
+1116,7069,"In Netflix queue,Shakespeare"
+1117,7070,cattle drive
+1118,7071,In Netflix queue
+1119,7073,Clousseau
+1120,7078,"Bette Davis,Oscar (Best Actress)"
+1121,7079,disability
+1122,7086,George Bernard Shaw
+1123,7087,E.M. Forster
+1124,7088,In Netflix queue
+1125,7090,martial arts
+1126,7091,Marx brothers
+1127,7121,Hepburn and Tracy
+1128,7132,"Marx brothers,opera"
+1129,7139,immigrants
+1130,7141,In Netflix queue
+1131,7147,"dreamlike,sentimental,surreal,Tim Burton"
+1132,7153,"Adventure,ensemble cast,fantasy,fantasy world,great soundtrack,lord of the rings,scenic,stylized,Tolkien,Tolkein"
+1133,7156,Vietnam
+1134,7158,real estate
+1135,7160,serial killer
+1136,7162,Civil War
+1137,7190,Charlotte Bronte
+1138,7212,"cross dressing,men in drag"
+1139,7217,amnesia
+1140,7218,In Netflix queue
+1141,7219,truckers
+1142,7234,circus
+1143,7254,"alternate reality,sci-fi,science fiction,time travel"
+1144,7256,mountain climbing
+1145,7285,adolescence
+1146,7301,"priest,religion"
+1147,7318,religion
+1148,7323,Cold War
+1149,7361,"alternate reality,memory,thought-provoking,jim carrey,memory,cult film,imagination,Jim Carrey,love,surreal,arthouse,artistic,atmospheric,beautiful,bittersweet,colourful,comedy,dreamlike,emotional,feel-good,happpiness,humane,insightful,intelligent,lovely,melancholy,mind-bending,philosophy,quirky,quirky romantic,romantic,surreal,surrealism,thought-provoking"
+1150,7371,Grace
+1151,7382,"adolescence,crime,for katie"
+1152,7438,revenge
+1153,7439,comic book
+1154,7440,Holocaust
+1155,7444,Mark Ruffalo
+1156,7451,"clever,High School,lesbian subtext,High School"
+1157,7479,World War II
+1158,7493,multiple personalities
+1159,7572,cancer
+1160,7584,"Hepburn and Tracy,marriage"
+1161,7614,Rogers and Hammerstein
+1162,7618,"biopic,In Netflix queue"
+1163,7619,"blindness,deaf"
+1164,7646,Stephen King
+1165,7649,space station
+1166,7700,In Netflix queue
+1167,7705,"Hepburn and Tracy,sports"
+1168,7713,sexuality
+1169,7714,King Arthur
+1170,7728,adultery
+1171,7748,In Netflix queue
+1172,7766,MacBeth
+1173,7789,terrorism
+1174,7792,In Netflix queue
+1175,7831,Nick and Nora Charles
+1176,7832,Nick and Nora Charles
+1177,7833,Nick and Nora Charles
+1178,7834,Nick and Nora Charles
+1179,7835,Nick and Nora Charles
+1180,7924,In Netflix queue
+1181,7926,In Netflix queue
+1182,7932,"Amtrak,Homeless,independent,New York,Sundance award winner,Train"
+1183,7934,psychology
+1184,7936,austere
+1185,7981,police
+1186,7983,show business
+1187,8011,politics
+1188,8014,In Netflix queue
+1189,8019,remade
+1190,8033,In Netflix queue
+1191,8094,In Netflix queue
+1192,8153,Van Gogh
+1193,8167,swashbuckler
+1194,8183,In Netflix queue
+1195,8188,Not available from Netflix
+1196,8190,In Netflix queue
+1197,8191,Anne Boleyn
+1198,8197,In Netflix queue
+1199,8207,assassination
+1200,8228,heist
+1201,8235,Clock
+1202,8266,Prince
+1203,8275,In Netflix queue
+1204,8335,heartbreaking
+1205,8337,military
+1206,8338,"convent,religion"
+1207,8341,Dickens
+1208,8360,ogres
+1209,8366,"pregnancy,religion"
+1210,8368,"Magic,Wizards"
+1211,8375,politics
+1212,8376,high school
+1213,8379,In Netflix queue
+1214,8382,death
+1215,8424,divorce
+1216,8446,World War II
+1217,8463,deafness
+1218,8464,"food,McDonalds"
+1219,8477,post-apocalyptic
+1220,8507,circus
+1221,8530,Ireland
+1222,8533,"memory loss,romance,sad"
+1223,8580,"fairy tales,In Netflix queue"
+1224,8607,In Netflix queue
+1225,8609,In Netflix queue
+1226,8622,"politics,terrorism"
+1227,8636,Doc Ock
+1228,8638,generation X
+1229,8641,"hilarious,Steve Carell,Will Ferrell,stupid,awesome,comedy,Will Ferrell"
+1230,8645,"drugs,immigrants"
+1231,8695,court
+1232,8714,Cole Porter
+1233,8754,Oscar (Best Actress)
+1234,8765,In Netflix queue
+1235,8783,"Atmospheric,good soundtrack,M. Night Shyamalan"
+1236,8784,psychology
+1237,8796,Rome
+1238,8809,Australia
+1239,8827,Stand Up
+1240,8838,In Netflix queue
+1241,8874,zombies
+1242,8875,"alcoholism,marriage"
+1243,8879,"Agatha Christie,Oscar (Best Supporting Actress),train"
+1244,8880,disability
+1245,8914,time travel
+1246,8920,Oscar (Best Actress)
+1247,8938,"parenthood,psychology"
+1248,8943,stage
+1249,8949,wine
+1250,8950,"Christian Bale,creepy,powerful ending,psychology,schizophrenia,twist ending,psychology"
+1251,8951,abortion
+1252,8957,"brutal,clever,Disturbing,great ending,mindfuck,surprise ending,suspense"
+1253,8958,biopic
+1254,8961,"Disney,superhero,animation,Samuel L. Jackson"
+1255,8970,Peter Pan
+1256,8979,Hearst
+1257,8983,martial arts
+1258,8998,In Netflix queue
+1259,9010,cruel characters
+1260,9018,journalism
+1261,25753,gold
+1262,25771,"mindfuck,surreal,surrealism"
+1263,25825,revenge
+1264,25841,show business
+1265,25855,In Netflix queue
+1266,25865,In Netflix queue
+1267,25886,made me cry
+1268,25940,mirrors
+1269,25952,In Netflix queue
+1270,26085,Not available from Netflix
+1271,26131,In Netflix queue
+1272,26151,donkey
+1273,26242,In Netflix queue
+1274,26662,anime
+1275,26717,"boring,psychedelic,symbolic"
+1276,26776,In Netflix queue
+1277,27020,"drugs,lesbian"
+1278,27156,"anime,end of the world,epic,mecha,psychology"
+1279,27660,"animation,anime,cyberpunk,dark,Matrix,sci-fi"
+1280,27706,"dark comedy,Jim Carrey,meryl streep,quirky,stylized"
+1281,27731,In Netflix queue
+1282,27741,In Netflix queue
+1283,27773,"bizarre,claustrophobic,depressing,disturbing,hallucinatory,paranoid,surreal,twisted"
+1284,27790,"religion,saints"
+1285,27808,"Adam Sandler,family,sweet"
+1286,27820,"Animal movie,camels"
+1287,27831,"British gangster,confusing,daniel craig,Exquisite plotting.,organized crime,stylish,Tom Hardy"
+1288,27834,fatherhood
+1289,27838,revenge
+1290,27878,India
+1291,27882,surfing
+1292,30707,boxing
+1293,30749,genocide
+1294,30793,roald dahl
+1295,30810,"heartwarming,off-beat comedy,quirky,trippy,visually appealing,whimsical"
+1296,30812,"biopic,Howard Hughes,movie business"
+1297,30820,child abuse
+1298,30822,busniess
+1299,30825,"Ben Stiller,Robert De Niro"
+1300,30850,Shakespeare
+1301,30892,"Animation,Documentary,Henry Darger"
+1302,31030,motherhood
+1303,31437,orphans
+1304,31658,"anime,fantasy world,Hayao Miyazaki,Studio Ghibli,06 Oscar Nominated Best Movie - Animation,In Netflix queue"
+1305,31903,marriage
+1306,31923,In Netflix queue
+1307,32160,In Netflix queue
+1308,32371,In Netflix queue
+1309,32582,"birds,parrots"
+1310,32584,fatherhood
+1311,32587,cult
+1312,33154,"business,money,scandal"
+1313,33162,"David Thewlis,Eva Green,Liam Neeson,Orlando Bloom"
+1314,33166,racism
+1315,33493,"space,space opera"
+1316,33660,"boksdrama,boxing"
+1317,34150,"Chris Evans,comic book,heroine in tight suit,Jessica Alba,sexy female scientist,superhero"
+1318,34162,stiller
+1319,34271,hip hop
+1320,34323,Rob Zombie
+1321,34359,pregnancy
+1322,34405,"predictable,Firefly"
+1323,34437,In Netflix queue
+1324,34482,In Netflix queue
+1325,34528,pregnancy
+1326,34542,"Animal movie,bears"
+1327,35015,"Animal movie,In Netflix queue"
+1328,35836,"BEST PICTURE,classic,hilarious,steve carell"
+1329,36517,"Africa,business,politics"
+1330,36527,mathematics
+1331,36529,wapendrama
+1332,36535,In Netflix queue
+1333,37240,In Netflix queue
+1334,37384,restaurant
+1335,37729,"gothic,helena bonham carter,Johnny Depp,Tim Burton,visually appealing,animation,06 Oscar Nominated Best Movie - Animation"
+1336,37733,In Netflix queue
+1337,37736,Dickens
+1338,37741,Truman Capote
+1339,38038,"06 Oscar Nominated Best Movie - Animation,Aardman"
+1340,38061,"black comedy,clever,fast-paced dialogue,good dialogue,Robert Downey Jr.,witty,In Netflix queue"
+1341,38798,sisters
+1342,38886,divorce
+1343,39234,"courtroom drama,In Netflix queue"
+1344,39292,"In Netflix queue,journalism,McCarthy hearings,Morrow"
+1345,40278,"Jake Gyllenhaal,Modern war"
+1346,40491,depression
+1347,40583,In Netflix queue
+1348,40629,In Netflix queue
+1349,40815,"Magic,Wizards"
+1350,40819,Johnny Cash
+1351,40955,transvestite
+1352,41566,C.S. Lewis
+1353,41569,big budget
+1354,41997,In Netflix queue
+1355,42002,In Netflix queue
+1356,42422,love
+1357,42632,brutality
+1358,42740,In Netflix queue
+1359,44665,twist ending
+1360,44889,satire
+1361,45447,"adventure,Audrey Tautou,conspiracy theory,Mystery,Paris,Tom Hanks,treasure hunt"
+1362,45499,"Halle Berry,Hugh Jackman"
+1363,45730,"bad,disappointing,faerie tale,fairy tale,far fetched,M. Night Shyamalan,Paul Giamatti"
+1364,45880,"cinematography,lyrical"
+1365,46723,"Brad Pitt,cate blanchett,multiple storylines,social commentary"
+1366,46972,"Ben Stiller,Robin Williams"
+1367,46976,"emma thompson,Maggie Gyllenhaal,modern fantasy,romance,surreal,Will Ferrell"
+1368,47610,"costume drama,Edward Norton,magic,Paul Giamatti"
+1369,48394,"atmospheric,bittersweet,visually appealing"
+1370,48516,"way too long,Leonardo DiCaprio,suspense,twist ending,undercover cop,atmospheric,Jack Nicholson,Leonardo DiCaprio,Martin Scorsese,suspense"
+1371,48698,the catholic church is the most corrupt organization in history
+1372,48780,"ummarti2006,atmospheric,enigmatic"
+1373,49130,Marion Cotillard
+1374,49530,"Africa,corruption,Jennifer Connelly,justice,Leonardo DiCaprio"
+1375,50872,"a clever chef rat,inspirational,clever,inspirational"
+1376,51255,british comedy
+1377,52287,Something for everyone in this one... saw it without and plan on seeing it with kids!
+1378,52604,"Anthony Hopkins,courtroom drama,twist ending"
+1379,52712,"HORRIBLE ACTING,interesting"
+1380,52885,dreamlike
+1381,53127,"based on a play,conspiracy theory,creepy,Insanity,paranoia,PTSD"
+1382,53464,"bad acting,bad jokes,bad plot,Chris Evans,Jessica Alba,Marvel,sexy female scientist"
+1383,53468,zombies
+1384,54286,"assassin,assassin-in-training (scene),espionage,Robert Ludlum"
+1385,54503,"friendship,high school,Michael Cera,nerds,self discovery,shenanigans,virginity"
+1386,54997,Christian Bale
+1387,55167,anime
+1388,55290,"Casey Affleck,great performances,twist"
+1389,55721,Favelas
+1390,55765,"corruption,Denzel Washington,mafia,organized crime"
+1391,56174,"alone in the world,apocalypse,based on a book,last man on earth,plot holes,Post apocalyptic,post-apocalyptic,religion,vampire"
+1392,56367,"Michael Cera,notable soundtrack,pregnancy,teenage pregnancy,witty"
+1393,56782,"atmospheric,cerebral,character study,gritty,intense,long shots,morality,visually appealing"
+1394,57502,"abstract,dark,psychedelic,surreal"
+1395,57669,"black comedy,Colin Farrell,dark comedy,drugs,friendship,irreverent,Ralph Fiennes,stylized"
+1396,58047,"Rachel Weisz,Ryan Reynolds"
+1397,58295,"heist,robbery,small time criminals"
+1398,58301,"dark humor,dark,dark humor,intelligent,thought-provoking"
+1399,58559,"psychology,superhero,dark,gritty"
+1400,59103,"jackie chan,kung fu"
+1401,59141,movies about movies
+1402,59501,"fantasy,lion,narnia,Tilda Swinton"
+1403,60069,"last man on earth,love story,Post apocalyptic,social commentary"
+1404,60074,"bad script,Charlize Theron,Will Smith"
+1405,60126,"Anne Hathaway,Steve Carell"
+1406,60516,enjoyable
+1407,60756,"funny,Highly quotable,will ferrell,comedy,funny,will ferrell,funny,will ferrell"
+1408,60950,threesome
+1409,61024,"comedy,James Franco,Seth Rogen,Stoner Movie"
+1410,61323,"dark comedy,Brad Pitt,Coen Bros,Coen Brothers,dark comedy,espionage,George Clooney,John Malkovich,satire,twists & turns,weird"
+1411,62336,"2D animation,cult film,stylish,surreal"
+1412,62434,"Seth Rogen,Sexual Humor"
+1413,63062,emotional
+1414,63992,"audience intelligence underestimated,boring,chick flick,overrated,Teen movie"
+1415,64034,"childish naivity,friendship"
+1416,66097,"claymation,creepy,dark,dark fairy tale,Surreal,Tim Burton"
+1417,66934,"joss whedon,Nathan Fillion,Neil Patrick Harris,parody"
+1418,67087,"Andy Samberg,bromance,bromantic,comedy,Jaime Pressly,Jason Segel,masculinity,Paul Rudd"
+1419,67695,Seth Rogen
+1420,68157,"black comedy,Brad Pitt,Christoph Waltz,Quentin Tarantino,satire"
+1421,68237,"2001-like,Sci-fi,solitude"
+1422,68319,"comic book,bad plot,comic book,hugh jackman,Ryan Reynolds,too many characters"
+1423,68358,"future,lack of development,lack of story,quick cuts,sci-fi,Simon Pegg,space,space travel,time travel"
+1424,68791,"artificial intelligence,bad acting,bad plot,bad script,Christian Bale,FIGHTING THE SYSTEM,franchise,new composer,post-apocalyptic,robots,sci-fi,sequel"
+1425,68848,"Adrien Brody,con artists,funny,interesting characters,Mark Ruffalo,Rachel Weisz"
+1426,68945,Recap
+1427,68954,"adventure,Bechdel Test:Fail,cartoon,children,computer animation,divorce,dogs,dreams,Pixar,bittersweet,emotional,heartbreaking,touching"
+1428,69122,"casino,comedy,funny,hotel,Las Vegas"
+1429,69481,war
+1430,69526,"bad plot,Michael Bay,needed more autobots,plot holes,ridiculous,Shia LaBeouf,stop using useless characters for filler"
+1431,69757,"artistic,Funny,humorous,inspiring,intelligent,quirky,romance,Zooey Deschanel"
+1432,70286,intelligent sci-fi
+1433,71494,Narrative pisstake
+1434,71535,"Bill Murray,dark comedy,Emma Stone,funny,Jesse Eisenberg,Woody Harrelson"
+1435,71899,"bittersweet,black comedy,character study,dark comedy,friendship,loneliness,mental illness,philosophical,poignant,quirky,sad,sweet,touching"
+1436,72224,bad humor
+1437,72998,"bad science,futuristic,graphic design,James Cameron,military,poor dialogue,sci-fi,superficial plot,unoriginal,white guilt,beautiful scenery,graphic design,music,politics,romance,thought-provoking,too long,visually stunning"
+1438,74458,"insanity,Leonardo DiCaprio,Martin Scorsese,plot twist,psychological,Psychological Thriller,thought-provoking"
+1439,74791,"surreal,whimsical"
+1440,79132,"action,alternate reality,Leonardo DiCaprio,sci-fi,thought-provoking,visually appealing,dreamlike,surreal,visually appealing,big budget,clever,complicated,dead wife,great soundtrack,heist,intellectual,mindfuck,philosophy,psychological,psychology,suspense,thought-provoking,cerebral,dreamlike,philosophy,thought-provoking"
+1441,79702,"geeky,Michael Cera,stylized,video games"
+1442,80463,"good dialogue,loneliness,witty"
+1443,80489,"crime,FBI,romance,too much love interest"
+1444,80834,"adventure,animation,fantasy"
+1445,80906,"business,corruption,economics,investor corruption,politics,truth"
+1446,81158,american idolatry
+1447,81562,stranded
+1448,81591,"alter ego,atmospheric,creepy,horror,obsession,surreal"
+1449,82242,male nudity
+1450,82459,"atmospheric,Coen Brothers,Jeff Bridges,Matt Damon,predictable"
+1451,82461,"action choreography,Horrid characterisation,Poor plot development,sequel,soundtrack"
+1452,83134,black comedy
+1453,85565,Comedy
+1454,87430,"audience intelligence underestimated,CGI,cheesy,comic book,DC,DC Comics,Ryan Reynolds,space,superhero"
+1455,88094,"britpop,indie record label,music"
+1456,88405,"comedy,funny,happy ending,HOT actress,Justin Timberlake,Mila Kunis,New York City,romance,sex"
+1457,89745,"Captain America,silly,superhero,superhero team,fun,great humor,visually appealing"
+1458,89774,"Boxing story,MMA,Tom Hardy"
+1459,90439,"bank,big corporations,business,corruption,financial crisis,Kevin Spacey,realistic,suspense,Wall Street"
+1460,90769,"celebrity fetishism,mediacentralism,system holism"
+1461,91500,ending
+1462,91529,"Anne Hathaway,Christian Bale,Christopher Nolan,comic book,great ending,Morgan Freeman,political commentary,superhero"
+1463,92259,"emotional,sexuality"
+1464,94959,quirky
+1465,95067,interesting scenario
+1466,95441,crude humor
+1467,95558,"Beautiful,emotional,poetic"
+1468,96079,"beautiful cinematography,beautifully filmed,cinematography"
+1469,96084,"city politics,italy,political right versus left"
+1470,96861,"Istanbul,Liam Neeson,predictable,Turkey,unnecessary sequel"
+1471,97304,"cia,politics,Thrilling"
+1472,97938,"cinematography,India,surreal"
+1473,98809,"Action,Myth"
+1474,98961,"Afghanistan,American propaganda,assassination,military,terrorism"
+1475,99114,"action,Christoph Waltz,funny,good soundtrack,Great performances,Humour,Leonardo DiCaprio,Quentin Tarantino,Samuel L. Jackson,Soundtrack,western,Soundtrack"
+1476,99764,"moving,philosopical,surreal,weird"
+1477,99917,"artistic,artsy,atmospheric,Beautiful,dreamlike,existentialism"
+1478,100083,"embarassing scenes,offensive,R language,sarcasm,satire"
+1479,101142,"animation,funny,stone age"
+1480,102007,animation
+1481,102903,"illusions,overcomplicated,predictable,stupid ending"
+1482,103042,"Amy Adams,superhero"
+1483,104218,Adam Sandler
+1484,104841,"cliche characters,long shots,predictable,Simple,slow action,visually appealing"
+1485,104863,"daniel radcliffe,zoe kazan"
+1486,104875,quirky
+1487,104879,"absorbing,acting,atmospheric,Hugh Jackman,Jake Gyllenhaal,morality,mystery,thriller"
+1488,104944,"emotional,feel-good,heartwarming,mental illness,touching"
+1489,105504,"hostage,ocean,suspense,suspense,tense"
+1490,106100,"Jared Leto,social commentary,uplifting"
+1491,106489,"adventure,fantasy,Tolkien,too long"
+1492,106766,"atmospheric,cinematography,depressing,funny"
+1493,106782,"drugs,Leonardo DiCaprio,Martin Scorsese,Stock Market,Wall Street"
+1494,107348,"comedy,Steve Carell,stupid but funny,will ferrell"
+1495,107406,fatalistic
+1496,108190,"anti-intellectual,bad writing,dystopia,new society,plot holes,predictable,scifi,unintelligent"
+1497,108932,"cheeky,clever,colorful,feel-good,fun,imaginative,quirky"
+1498,109487,"black hole,sci-fi,time-travel,Christopher Nolan,sci-fi,time-travel,bad dialogue,philosophical issues,thought-provoking,visually appealing"
+1499,111364,Creature Feature
+1500,111743,"Charlize Theron,Liam Neeson,Seth MacFarlane,witty"
+1501,112421,"adorable,black comedy,Eccentric,introspection,mental illness,quirky"
+1502,112515,"atmospheric,dark,Metaphorical,psychological"
+1503,112552,"passion,psychological,suspense,jazz,music,tense,inspirational,inspiring,intense"
+1504,112556,"annoying,Stupid ending"
+1505,112852,"funny,Great Visuals,humorous,unlikely hero"
+1506,113705,bittersweet
+1507,114180,"action,dystopia,plot holes,post-apocalyptic,survival,thriller,unexplained,weak plot"
+1508,114627,"atmospheric,bizzare,eerie,symbolism"
+1509,115149,"dark hero,gun-fu,Keanu Reeves,Revenge,secret society,stylish,action,killer,widows/widowers"
+1510,115617,"animation,kids,robots,feel-good,fun family movie,very funny"
+1511,116797,"inspirational,intelligent"
+1512,116897,"black comedy,dark comedy,dark humor,ironic,multiple short stories,short stories"
+1513,117877,"philosophical,trippy"
+1514,117887,heartwarming
+1515,118696,hope
+1516,118784,"documentary,music industry,remix culture"
+1517,118985,painter
+1518,119141,"bloody,bromance,comedy,funny,James Franco,Seth Rogen"
+1519,119145,slick
+1520,120635,"action,murder,police"
+1521,122882,"beautiful,cinematography,visually appealing"
+1522,122912,"comic book,Dr. Strange,Great villain,Guardians of the Galaxy,Marvel,MCU,Robert Downey Jr.,Thanos,Thor,Visually stunning,Dark,emotional,Sad,Visually appealing,Visually stunning"
+1523,122916,"awesome,humor,quirky,unconventional,white guilt"
+1524,122918,fun
+1525,122922,visually appealing
+1526,126548,"funny,high school"
+1527,127172,"film history,poetic,representation of children"
+1528,127298,"depressing,understated"
+1529,128360,"characters,Dialogue,humor,Kurt Russell,Quentin Tarantino,Samuel L. Jackson,tension building,violent,Western"
+1530,134130,smart
+1531,134170,"funny,ridiculous,silly"
+1532,135133,"dystopia,Jennifer Lawrence,love story,nonsense,politics,rebellion,revolution"
+1533,135518,"Ben Kingsley,ethics,immortality,ryan reynolds"
+1534,135536,"Bad story,Bad writing,Batman,Ben Affleck,comic book,dc comics,good soundtrack,Harley Quinn,Harley Quinn's ass,Horrible directing,Jared Leto,Joker,lack of plot,Margot Robbie,Poor story,poorly paced,superhero,visually appealing,Will Smith"
+1535,136864,"action,batman,ben affleck,dark,dc comics,Gal Gadot,superhero,superman,wonderwoman"
+1536,138036,"slick,stylish"
+1537,139385,"leonardo DiCarpio,survival,tom hardy,visually appealing,cinematography,visually appealing,Visually Striking"
+1538,139644,"atmospheric,tension"
+1539,140174,"moving,touching"
+1540,141890,Moving
+1541,143367,"contemplative,philosophical,thought-provoking,tragic"
+1542,144210,"dumpster diving,Sustainability"
+1543,148626,"funny,interesting,Witty"
+1544,148881,"Existential,surreal"
+1545,152077,"creepy,suspense"
+1546,152711,"Cambodia,crime,human rights,murder,procedural"
+1547,153070,nightmare
+1548,155288,"suspense,thought-provoking"
+1549,156371,80's
+1550,156605,"quirky,sweet,understated"
+1551,158872,"Crude humor,mindfuck,sarcasm,satire,Vulgar"
+1552,158966,"building a family,creative,freedom,good writing,individualism,Viggo Mortensen"
+1553,161634,intense
+1554,164179,"beautiful visuals,Cerebral,cinematography,good cinematography,smart,thought-provoking,visually appealing"
+1555,164909,"Bittersweet,visually appealing"
+1556,167746,"funny,heartwarming"
+1557,168248,"action,dark hero,gun tactics,hitman,Keanu Reeves,organized crime,secret society,Heroic Bloodshed"
+1558,168252,"dark,emotional,gritty,heartbreaking,predictible plot"
+1559,170945,"paranoia,Suspenseful"
+1560,174053,"Dystopia,future,interesting,jon hamm,thought provoking"
+1561,174055,"brilliant,inspiring,tense"
+1562,176371,"atmospheric,beautiful,cinematography,dark,dreamlike,existentialism,moody,philosophical"
+1563,176419,"allegorical,uncomfortable,unsettling"
+1564,179401,"Action,Comedy,Dwayne Johnson,funny"
+1565,180031,"atmospheric,dreamlike"
+1566,180985,bad music
+1567,183611,"Comedy,funny,Rachel McAdams"
+1568,184471,"adventure,Alicia Vikander,video game adaptation"
+1569,187593,"Josh Brolin,Ryan Reynolds,sarcasm"
+1570,187595,"Emilia Clarke,star wars"
+1571,193565,"anime,comedy,gintama,remaster"
