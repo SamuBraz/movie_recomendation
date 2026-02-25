@@ -1,10 +1,11 @@
 from ...extensions import db
+from flask_login import UserMixin
 
 
-class User(db.Model):
+class User(db.Model, UserMixin):
     __tablename__ = 'User'
 
-    userId = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String, nullable=False)
     password = db.Column(db.String, nullable=False)
     email = db.Column(db.String, nullable=False)
@@ -16,4 +17,4 @@ class User(db.Model):
     
 
     def get_id(self):
-        return self.userId
+        return self.user_id

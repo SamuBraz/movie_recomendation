@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block tittle %}Tela login{% endblock %}
+
+{%block content%}
+ <div class="container pt-5 mt-5">
+    
+    <div class="row justify-content-center">
+        <div class="col-12 col-sm-8 col-md-6 col-lg-4">
+            
+            <div class="card border-dark shadow-sm">
+                
+                <div class="card-header text-center py-3">
+                    <h6 class="text-uppercase mb-0" style="letter-spacing: 2px;">SRF Access</h6>
+                </div>
+                
+                <div class="card-body p-4">
+                    <form action="/login" method="POST">
+                        
+                        <div class="mb-3">
+                            <label for="email" class="form-label text-uppercase small fw-bold">E-mail</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="seu@email.com" required>
+                        </div>
+                        
+                        <div class="mb-4">
+                            <label for="password" class="form-label text-uppercase small fw-bold">Senha</label>
+                            <input type="password" class="form-control" id="password" name="password" placeholder="Sua senha" required>
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-dark text-uppercase py-2">Entrar</button>
+                        </div>
+                        
+                        <div class="mt-4 text-center border-top pt-3">
+                            <p class="small text-muted mb-1">Ainda não faz parte?</p>
+                            <a href="cadastro" class="text-uppercase small fw-bold text-decoration-none text-primary">Criar Conta Gratuitamente</a>
+                        </div>
+                        
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+

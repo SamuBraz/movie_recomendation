@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Cadastro - SRF{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-11 col-sm-8 col-md-6 col-lg-5">
+            
+            <div class="card border-dark shadow-sm">
+                <div class="card-body p-4">
+                    <form action="cadastro" method="POST">
+                        <h2 class="text-center text-uppercase mb-4" style="letter-spacing: 2px;">Criar Conta</h2>
+                        
+                        <div class="mb-3">
+                            <label for="name" class="form-label text-uppercase small fw-bold">Nome Completo</label>
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Como quer ser chamado?" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="email" class="form-label text-uppercase small fw-bold">E-mail</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="seu@email.com" required>
+                        </div>
+                        
+                        <div class="mb-4">
+                            <label for="password" class="form-label text-uppercase small fw-bold">Senha</label>
+                            <input type="password" class="form-control" id="password" name="password" placeholder="Crie uma senha forte" required>
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-dark text-uppercase">Finalizar Cadastro</button>
+                        </div>
+
+                        <div class="mt-4 text-center border-top pt-3">
+                            <p class="small text-muted mb-1">Já possui uma conta?</p>
+                            <a href="/login" class="text-uppercase small fw-bold text-decoration-none text-primary">Ir para Login</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+{% endblock %}
