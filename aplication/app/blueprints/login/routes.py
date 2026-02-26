@@ -46,6 +46,11 @@ def cadastro():
         email = request.form['email']
         password = request.form['password']
 
+        email_cadastrado = User.query.filter(User.email == email).first()
+        if email_cadastrado:
+            flash('E-mail já cadastrado', 'error')
+            return redirect('/login/cadastro')
+
 
         hashed_password = bcrypt.generate_password_hash(password)
 
