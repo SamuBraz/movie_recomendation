@@ -24,7 +24,7 @@ def index():
 
         if user and bcrypt.check_password_hash(user.password, password):
             login_user(user)
-            return 'logado'
+            return redirect('/seus_filmes')
         else:
             flash('E-mail ou senha incorretos. Tente novamente.', 'error')
             return redirect('/login')

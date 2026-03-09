@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+{% block title %}Meus Filmes - CineRec{% endblock %}
+
+{% block content %}
+<div class="container">
+    
+    <div class="row justify-content-center mb-5">
+        <div class="col-lg-8 position-relative"> 
+            <div class="card border-dark shadow-sm">
+                <div class="card-body p-4 text-center">
+                    <h5 class="text-uppercase mb-3" style="letter-spacing: 2px;">Adicionar à minha lista</h5>
+                    
+                    <form action="/adicionar_filme" method="POST" id="form-adicionar" class="d-flex gap-2" autocomplete="off">
+                        <input type="text" id="input-busca" name="nome_filme" class="form-control" placeholder="Digite o nome do filme..." required>
+                        <button type="submit" class="btn btn-dark text-uppercase">Buscar</button>
+                    </form>
+
+                    <div id="lista-sugestoes" class="list-group position-absolute w-100 shadow-lg" style="z-index: 1050; left: 0; top: 100%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 mb-4">
+            <h4 class="text-uppercase border-bottom pb-2" style="letter-spacing: 3px;">Filmes Assistidos</h4>
+        </div>
+
+        {% for filme in filmes %}
+        <!-- <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+            <div class="card h-100 border-0 shadow-sm bg-transparent">
+                <div class="position-relative overflow-hidden rounded shadow">
+                    <img src="{{ filme.poster_path }}" 
+                         class="card-img-top img-fluid transition-img" 
+                         alt="{{ filme.titulo }}">
+                </div>
+                <div class="card-body px-0 py-2">
+                    <h6 class="card-title text-uppercase small fw-bold mb-0 text-truncate">{{ filme.titulo }}</h6>
+                    <p class="card-text small text-muted">{{ filme.ano }}</p>
+                </div>
+            </div>
+        </div> -->
+
+        <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+            <div class="card h-100 border-0 shadow-sm bg-transparent">
+                <a href="/ratings/user={{ current_user.id }}movie={{ filme.id }}" class="text-decoration-none">
+                    <div class="position-relative overflow-hidden rounded shadow">
+                        <img src="{{ filme.poster_path }}" 
+                            class="card-img-top img-fluid transition-img" 
+                            alt="{{ filme.titulo }}">
+                    </div>
+                </a>
+                
+                <div class="card-body px-0 py-2">
+                    <a href="/ratings/user={{ current_user.id }}movie={{ filme.id }}" class="text-decoration-none text-dark">
+                        <h6 class="card-title text-uppercase small fw-bold mb-0 text-truncate">{{ filme.titulo }}</h6>
+                    </a>
+                    <p class="card-text small text-muted">{{ filme.ano }}</p>
+                </div>
+            </div>
+        </div>
+        {% else %}
+        <div class="col-12 text-center py-5">
+            <p class="text-muted text-uppercase small">Sua galeria está vazia. Adicione seu primeiro filme!</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+    /* Estilo minimalista para as sugestões */
+    #lista-sugestoes .list-group-item {
+        border-radius: 0;
+        border-right: 0;
+        border-left: 0;
+        text-align: left;
+        padding: 1rem 1.5rem;
+        transition: background 0.2s;
+    }
+    #lista-sugestoes .list-group-item:hover {
+        background-color: #f8f9fa;
+        color: #000;
+    }
+
+    .transition-img {
+        transition: transform 0.3s ease;
+    }
+    .transition-img:hover {
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+</style>
+
+<script>
+    const inputBusca = document.getElementById('input-busca');
+    const listaSugestoes = document.getElementById('lista-sugestoes');
+    const formAdicionar = document.getElementById('form-adicionar');
+
+    inputBusca.addEventListener('input', async () => {
+        const texto = inputBusca.value;
+
+        if (texto.length < 2) {
+            listaSugestoes.innerHTML = '';
+            return;
+        }
+
+        try {
+            const response = await fetch(`/seus_filmes/search_my_database?q=${texto}`);
+            const filmes = await response.json();
+
+            if (filmes.length > 0) {
+                // Gerando apenas o texto do título
+                listaSugestoes.innerHTML = filmes.map(f => `
+                    <button type="button" class="list-group-item list-group-item-action text-uppercase small fw-bold">
+                        ${f.titulo}
+                    </button>
+                `).join('');
+
+                // Evento para selecionar e enviar
+                const botoes = listaSugestoes.querySelectorAll('.list-group-item');
+                botoes.forEach((btn, index) => {
+                    btn.addEventListener('click', () => {
+                        inputBusca.value = filmes[index].titulo;
+                        listaSugestoes.innerHTML = '';
+                        formAdicionar.submit();
+                    });
+                });
+            } else {
+                listaSugestoes.innerHTML = '';
+            }
+        } catch (error) {
+            console.error("Erro na busca:", error);
+        }
+    });
+
+    document.addEventListener('click', (e) => {
+        if (!inputBusca.contains(e.target) && !listaSugestoes.contains(e.target)) {
+            listaSugestoes.innerHTML = '';
+        }
+    });
+</script>
+{% endblock %}

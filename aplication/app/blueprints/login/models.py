@@ -11,6 +11,7 @@ class User(db.Model, UserMixin):
     email = db.Column(db.String, nullable=False)
 
 
+    ratings = db.relationship('Rating', back_populates='user')
 
     def __repr__(self):
         return "<USER self.name self.email>"
