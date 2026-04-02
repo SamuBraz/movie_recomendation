@@ -5,7 +5,26 @@
 
 
     # Pesos 
-    0.8 e 0.2(peso popularidade): 
+    # 1.0 e 0.0(peso popularidade):
+    {
+        'Mean Precision@K': 0.0069243421052631315,
+        'Mean Recall@K': 0.05540017507314408,
+        'Usuarios Avaliados': 608
+    }
+    
+    Filmes que mais apareceram em todas as recomendações:
+    Movie ID: 849 | Apareceu para 210 usuários
+    Movie ID: 5264 | Apareceu para 210 usuários
+    Movie ID: 70336 | Apareceu para 204 usuários
+    Movie ID: 1591 | Apareceu para 203 usuários
+    Movie ID: 61248 | Apareceu para 201 usuários
+    Movie ID: 61350 | Apareceu para 201 usuários
+    Movie ID: 34334 | Apareceu para 199 usuários
+    Movie ID: 120799 | Apareceu para 197 usuários
+    Movie ID: 127323 | Apareceu para 197 usuários
+    Movie ID: 27032 | Apareceu para 195 usuários
+
+    # 0.8 e 0.2(peso popularidade): 
         {
             'Mean Precision@K': 0.011118421052631514,
             'Mean Recall@K': 0.0926772329008459,
