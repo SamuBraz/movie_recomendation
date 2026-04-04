@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens,score_recomendacao
-559,673,Space Jam (1996),0.8373354866951112
-1972,2617,"Mummy, The (1999)",0.8010797034901037
-2608,3489,Hook (1991),0.796825033082706
-1522,2054,"Honey, I Shrunk the Kids (1989)",0.7676801022243204
-3077,4130,Maid to Order (1987),0.7650808122458739
-4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.761516213879448
-6879,62956,Futurama: Bender's Game (2008),0.7585712304821924
-6488,53125,Pirates of the Caribbean: At World's End (2007),0.7472770333080574
-916,1215,Army of Darkness (1993),0.7466916303799498
-5868,32898,"Trip to the Moon, A (Voyage dans la lune, Le) (1902)",0.7457337101830669
-1576,2115,Indiana Jones and the Temple of Doom (1984),0.739887015218206
-478,546,Super Mario Bros. (1993),0.735623575544506
-9376,164226,Maximum Ride (2016),0.7351671113656666
-9679,188301,Ant-Man and the Wasp (2018),0.7294253750248993
-422,485,Last Action Hero (1993),0.7252218722718888
-1607,2149,House II: The Second Story (1987),0.7194812820402748
-1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.7180618153661634
-5819,32031,Robots (2005),0.7159043932460327
-990,1291,Indiana Jones and the Last Crusade (1989),0.71586568505485
-3080,4133,Masters of the Universe (1987),0.7132764912061863
-8802,130520,Home (2015),0.7106191134087297
-5122,8169,*batteries not included (1987),0.7018515026974448
-3194,4306,Shrek (2001),0.6946995350892735
-2798,3740,Big Trouble in Little China (1986),0.6941991136746323
-6529,54259,Stardust (2007),0.6939927288824032
-2984,3997,Dungeons & Dragons (2000),0.6912669406904227
-6492,53140,"Librarian: Quest for the Spear, The (2004)",0.6783556072592855
-3568,4886,"Monsters, Inc. (2001)",0.6766427296653666
-7633,87529,Your Highness (2011),0.6708868614155786
-1592,2134,Weird Science (1985),0.6658272974067975
-9413,166528,Rogue One: A Star Wars Story (2016),0.6646643679174521
-5490,26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix) (1976)",0.6638046512199272
-8682,122886,Star Wars: Episode VII - The Force Awakens (2015),0.6630836506478228
-224,260,Star Wars: Episode IV - A New Hope (1977),0.6625719532683534
-622,788,"Nutty Professor, The (1996)",0.65880071401596
-6675,57640,Hellboy II: The Golden Army (2008),0.6552098106945099
-2044,2723,Mystery Men (1999),0.651798615719254
-1563,2100,Splash (1984),0.6517932034862686
-5533,26590,G.I. Joe: The Movie (1987),0.6483295660510145
-2233,2968,Time Bandits (1981),0.6476856987693322
-7175,72165,Cirque du Freak: The Vampire's Assistant (2009),0.6458148636090086
-911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.6449038603002099
-2445,3258,Death Becomes Her (1992),0.6442171976151105
-3286,4446,Final Fantasy: The Spirits Within (2001),0.6440648326749305
-8695,122924,X-Men: Apocalypse (2016),0.6431384380431326
-8220,103772,"Wolverine, The (2013)",0.6417154284077933
-6950,65588,"Gamers, The: Dorkness Rising (2008)",0.6387005160681917
-9683,188833,The Man Who Killed Don Quixote (2018),0.6384322089894238
-418,480,Jurassic Park (1993),0.6376677550225008
-3069,4121,Innerspace (1987),0.6361423808546912
-6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007),0.6298638899400939
-3376,4591,Erik the Viking (1989),0.6294237174848213
-1480,2005,"Goonies, The (1985)",0.6292920278360564
-3576,4899,Black Knight (2001),0.6261275761297405
-6732,59103,"Forbidden Kingdom, The (2008)",0.6250907630545944
-9614,179819,Star Wars: The Last Jedi (2017),0.6232834398114163
-8687,122902,Fantastic Four (2015),0.6211801752993598
-1706,2294,Antz (1998),0.6165198359408675
-9399,165639,While You Were Fighting: A Thor Mockumentary (2016),0.6160384568548427
-2570,3438,Teenage Mutant Ninja Turtles (1990),0.6138532634793895
-3000,4016,"Emperor's New Groove, The (2000)",0.6127171744516884
-6011,37830,Final Fantasy VII: Advent Children (2004),0.6123504235458688
-1158,1527,"Fifth Element, The (1997)",0.6106428231605348
-2976,3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),0.6101062927732687
-1044,1356,Star Trek: First Contact (1996),0.6097311857150755
-583,718,"Visitors, The (Visiteurs, Les) (1993)",0.6080359297339336
-964,1265,Groundhog Day (1993),0.6073161080904579
-1989,2643,Superman IV: The Quest for Peace (1987),0.6066368645573437
-6267,47404,Mind Game (2004),0.605078212320113
-3409,4638,Jurassic Park III (2001),0.6048906798755155
-3572,4890,Shallow Hal (2001),0.6023893072547339
-8876,134170,Kung Fury (2015),0.6021605336465222
-4724,7046,"Witches of Eastwick, The (1987)",0.6018996592691428
-2056,2735,"Golden Child, The (1986)",0.6018906803200498
-3302,4467,"Adventures of Baron Munchausen, The (1988)",0.5986663110395458
-1164,1544,"Lost World: Jurassic Park, The (1997)",0.5984668124933403
-7496,82854,Gulliver's Travels (2010),0.5974722456414272
-6486,53121,Shrek the Third (2007),0.5971088831696021
-3629,4980,Bill & Ted's Bogus Journey (1991),0.596222096571523
-4558,6773,"Triplets of Belleville, The (Les triplettes de Belleville) (2003)",0.5950715850338804
-8688,122904,Deadpool (2016),0.5933612727700609
-8183,103042,Man of Steel (2013),0.5908173526477065
-4348,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),0.5898368808241934
-7374,79139,"Sorcerer's Apprentice, The (2010)",0.5885952254115885
-2533,3393,Date with an Angel (1987),0.5880374315744163
-6462,52462,Aqua Teen Hunger Force Colon Movie Film for Theaters (2007),0.5867452294716352
-5300,8782,Thunderbirds (2004),0.5865160266695129
-6754,59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),0.585929702701165
-2572,3440,Teenage Mutant Ninja Turtles III (1993),0.5853358236170163
-2038,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),0.583915883527014
-2014,2683,Austin Powers: The Spy Who Shagged Me (1999),0.5833649494610823
-7402,80083,Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989),0.5807279323476933
-6455,52287,Meet the Robinsons (2007),0.5783363781253037
-856,1127,"Abyss, The (1989)",0.5774526260825301
-7805,92348,Puss in Boots (Nagagutsu o haita neko) (1969),0.5773399477307238
-4030,5700,The Pumaman (1980),0.5763382928431938
-924,1223,"Grand Day Out with Wallace and Gromit, A (1989)",0.5761652870759721
-3174,4275,Krull (1983),0.5756509508615425
-6723,58972,Nim's Island (2008),0.5752936952645603
-6043,39801,"Great Yokai War, The (Yôkai daisensô) (2005)",0.5748825762064981
+,movieId,titulo_movie_lens
+9679,188301,Ant-Man and the Wasp (2018)
+9376,164226,Maximum Ride (2016)
+8802,130520,Home (2015)
+6879,62956,Futurama: Bender's Game (2008)
+7633,87529,Your Highness (2011)
+916,1215,Army of Darkness (1993)
+422,485,Last Action Hero (1993)
+2233,2968,Time Bandits (1981)
+1972,2617,"Mummy, The (1999)"
+478,546,Super Mario Bros. (1993)
+3629,4980,Bill & Ted's Bogus Journey (1991)
+4030,5700,The Pumaman (1980)
+2984,3997,Dungeons & Dragons (2000)
+8687,122902,Fantastic Four (2015)
+8220,103772,"Wolverine, The (2013)"
+5300,8782,Thunderbirds (2004)
+3080,4133,Masters of the Universe (1987)
+3174,4275,Krull (1983)
+3582,4911,Jabberwocky (1977)
+559,673,Space Jam (1996)
+3576,4899,Black Knight (2001)
+1592,2134,Weird Science (1985)
+6492,53140,"Librarian: Quest for the Spear, The (2004)"
+8695,122924,X-Men: Apocalypse (2016)
+5533,26590,G.I. Joe: The Movie (1987)
+9614,179819,Star Wars: The Last Jedi (2017)
+9360,163056,Shin Godzilla (2016)
+9678,188189,Sorry to Bother You (2018)
+6950,65588,"Gamers, The: Dorkness Rising (2008)"
+5819,32031,Robots (2005)
+6488,53125,Pirates of the Caribbean: At World's End (2007)
+6723,58972,Nim's Island (2008)
+2798,3740,Big Trouble in Little China (1986)
+7496,82854,Gulliver's Travels (2010)
+9413,166528,Rogue One: A Star Wars Story (2016)
+6267,47404,Mind Game (2004)
+5627,27251,"10th Kingdom, The (2000)"
+6529,54259,Stardust (2007)
+9399,165639,While You Were Fighting: A Thor Mockumentary (2016)
+3376,4591,Erik the Viking (1989)
+8361,109042,Knights of Badassdom (2013)
+6160,44243,Leprechaun 4: In Space (1997)
+8216,103655,R.I.P.D. (2013)
+583,718,"Visitors, The (Visiteurs, Les) (1993)"
+6503,53453,Starcrash (a.k.a. Star Crash) (1978)
+8876,134170,Kung Fury (2015)
+6675,57640,Hellboy II: The Golden Army (2008)
+3568,4886,"Monsters, Inc. (2001)"
+1522,2054,"Honey, I Shrunk the Kids (1989)"
+5620,27155,"Batman/Superman Movie, The (1998)"
+4985,7657,Versus (2000)
+9435,168026,Marvel One-Shot: Agent Carter (2013)
+6194,45074,"Wild, The (2006)"
+6486,53121,Shrek the Third (2007)
+8219,103755,Turbo (2013)
+7865,94015,Mirror Mirror (2012)
+1706,2294,Antz (1998)
+7175,72165,Cirque du Freak: The Vampire's Assistant (2009)
+9410,166461,Moana (2016)
+5288,8743,Biggles (1986)
+5122,8169,*batteries not included (1987)
+3302,4467,"Adventures of Baron Munchausen, The (1988)"
+3069,4121,Innerspace (1987)
+1480,2005,"Goonies, The (1985)"
+6011,37830,Final Fantasy VII: Advent Children (2004)
+622,788,"Nutty Professor, The (1996)"
+2608,3489,Hook (1991)
+6880,62970,Tin Man (2007)
+4166,5999,Heavy Metal 2000 (2000)
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+7122,71129,Green Lantern: First Flight (2009)
+2056,2735,"Golden Child, The (1986)"
+3286,4446,Final Fantasy: The Spirits Within (2001)
+6732,59103,"Forbidden Kingdom, The (2008)"
+8921,136016,The Good Dinosaur (2015)
+9340,161594,Kingsglaive: Final Fantasy XV (2016)
+6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007)
+6948,65577,"Tale of Despereaux, The (2008)"
+5250,8610,All of Me (1984)
+9683,188833,The Man Who Killed Don Quixote (2018)
+6706,58404,Justice League: The New Frontier (2008) 
+5918,33801,Godzilla: Final Wars (Gojira: Fainaru uôzu) (2004)
+7374,79139,"Sorcerer's Apprentice, The (2010)"
+8688,122904,Deadpool (2016)
+9697,191005,Gintama (2017)
+2570,3438,Teenage Mutant Ninja Turtles (1990)
+7530,84637,Gnomeo & Juliet (2011)
+3194,4306,Shrek (2001)
+2304,3054,Pokémon: The First Movie (1998)
+7607,86864,Mothra (Mosura) (1961)
+5259,8633,"Last Starfighter, The (1984)"
+3000,4016,"Emperor's New Groove, The (2000)"
+7052,69278,Land of the Lost (2009)
+3997,5638,Godzilla vs. Mothra (Mosura tai Gojira) (1964)
+2861,3827,Space Cowboys (2000)
+3093,4153,Down to Earth (2001)
+4918,7373,Hellboy (2004)
+2809,3754,"Adventures of Rocky and Bullwinkle, The (2000)"
+5655,27537,Nothing (2003)
+6462,52462,Aqua Teen Hunger Force Colon Movie Film for Theaters (2007)

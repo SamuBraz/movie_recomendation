@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens,score_recomendacao
-559,673,Space Jam (1996),0.9156441718984749
-6455,52287,Meet the Robinsons (2007),0.8856998429875635
-6626,56152,Enchanted (2007),0.8824552563940851
-5160,8360,Shrek 2 (2004),0.8774043700792269
-7069,69644,Ice Age: Dawn of the Dinosaurs (2009),0.8536167834783244
-1390,1907,Mulan (1998),0.8532307028543813
-5490,26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix) (1976)",0.8347455469602663
-6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007),0.8346189782380904
-2250,2987,Who Framed Roger Rabbit? (1988),0.8340563434616637
-8895,134853,Inside Out (2015),0.8237130948806295
-6149,44022,Ice Age 2: The Meltdown (2006),0.8159312753826874
-1706,2294,Antz (1998),0.8152621771889239
-5819,32031,Robots (2005),0.8104060557256973
-6486,53121,Shrek the Third (2007),0.8094869018783045
-924,1223,"Grand Day Out with Wallace and Gromit, A (1989)",0.7938668434454709
-2809,3754,"Adventures of Rocky and Bullwinkle, The (2000)",0.7852565432237929
-9210,152081,Zootopia (2016),0.778620377921359
-7805,92348,Puss in Boots (Nagagutsu o haita neko) (1969),0.7699564189647871
-7906,95167,Brave (2012),0.7675244011594716
-8802,130520,Home (2015),0.7659855310332843
-6903,63859,Bolt (2008),0.7631204022517997
-6194,45074,"Wild, The (2006)",0.7551403049590897
-7760,91355,Asterix and the Vikings (Astérix et les Vikings) (2006),0.7551403049590897
-5365,8949,Sideways (2004),0.7545182537849529
-8349,108540,Ernest & Célestine (Ernest et Célestine) (2012),0.7529325989395952
-6134,43869,Curious George (2006),0.7442151754483165
-6047,40339,Chicken Little (2005),0.7404088765564859
-5901,33615,Madagascar (2005),0.7352291234361198
-812,1064,Aladdin and the King of Thieves (1996),0.7344742274257248
-2287,3034,Robin Hood (1973),0.7324671487332804
-9410,166461,Moana (2016),0.7323206869311525
-8723,126921,The Fox and the Hound 2 (2006),0.7302314323951238
-5161,8361,"Day After Tomorrow, The (2004)",0.7266892757428616
-7530,84637,Gnomeo & Juliet (2011),0.7252362175334128
-337,380,True Lies (1994),0.7250674577374621
-2976,3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),0.7247090324097366
-4445,6564,Lara Croft Tomb Raider: The Cradle of Life (2003),0.7237871028757852
-7538,84944,Rango (2011),0.7205511196596555
-1522,2054,"Honey, I Shrunk the Kids (1989)",0.7185945838807
-534,631,All Dogs Go to Heaven 2 (1996),0.715847389512109
-6219,45672,Click (2006),0.7120310049486208
-478,546,Super Mario Bros. (1993),0.7088213324332245
-8921,136016,The Good Dinosaur (2015),0.7086685182636259
-3157,4246,Bridget Jones's Diary (2001),0.7081814883205704
-7202,72701,Planet 51 (2009),0.705700933427139
-7904,95163,Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai bôken) (1988),0.7020126174408216
-6260,47124,"Ant Bully, The (2006)",0.6938079328285258
-6341,49130,"Good Year, A (2006)",0.6933512105309358
-5384,8974,"SpongeBob SquarePants Movie, The (2004)",0.6922999386134616
-5666,27619,"Lion King 1½, The (2004)",0.6922999386134616
-484,552,"Three Musketeers, The (1993)",0.6916996210968855
-1044,1356,Star Trek: First Contact (1996),0.689233147224744
-5620,27155,"Batman/Superman Movie, The (1998)",0.6887975807461204
-9267,157865,Ratchet & Clank (2016),0.6879958106773546
-5376,8965,"Polar Express, The (2004)",0.6873890625340424
-6948,65577,"Tale of Despereaux, The (2008)",0.687039955491014
-3635,4990,Jimmy Neutron: Boy Genius (2001),0.683956232868992
-8422,111146,Alpha and Omega 3: The Great Wolf Games (2014),0.6834092018277703
-99,112,Rumble in the Bronx (Hont faan kui) (1995),0.6817241180868154
-4348,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),0.6800513502307481
-6879,62956,Futurama: Bender's Game (2008),0.6797976169299729
-8918,135887,Minions (2015),0.6790733128528886
-4360,6377,Finding Nemo (2003),0.678706440630612
-488,558,"Pagemaster, The (1994)",0.6780506228957024
-3819,5349,Spider-Man (2002),0.6779649303165148
-3409,4638,Jurassic Park III (2001),0.6771207376429752
-2806,3751,Chicken Run (2000),0.6767612633838724
-3704,5109,Return to Never Land (2002),0.6759846200660438
-3876,5448,Hey Arnold! The Movie (2002),0.6755158258773634
-2304,3054,Pokémon: The First Movie (1998),0.6750970559897435
-1164,1544,"Lost World: Jurassic Park, The (1997)",0.6747916251945341
-7360,78637,Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010),0.6744197877572092
-1597,2139,"Secret of NIMH, The (1982)",0.6739166593326628
-8219,103755,Turbo (2013),0.673343056704083
-6570,55116,"Hunting Party, The (2007)",0.6724888768707106
-6529,54259,Stardust (2007),0.6712338851682028
-4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.6695340490766819
-8303,106696,Frozen (2013),0.6695066769106319
-1555,2092,"Return of Jafar, The (1994)",0.6694721335978209
-1177,1566,Hercules (1997),0.6685878944239032
-1584,2123,All Dogs Go to Heaven (1989),0.6683881854593299
-6488,53125,Pirates of the Caribbean: At World's End (2007),0.6666937734657634
-789,1032,Alice in Wonderland (1951),0.6659803770541358
-1599,2141,"American Tail, An (1986)",0.6649856752094178
-3230,4366,Atlantis: The Lost Empire (2001),0.66449453533786
-6696,58299,Horton Hears a Who! (2008),0.6626315357667192
-5379,8968,After the Sunset (2004),0.6624797840431553
-4528,6710,Dummy (2002),0.6623399803262764
-7467,81847,Tangled (2010),0.6621422508729788
-5350,8917,Team America: World Police (2004),0.661157502549828
-5533,26590,G.I. Joe: The Movie (1987),0.6602998562784197
-5700,27790,Millions (2004),0.6598800380670018
-5735,30793,Charlie and the Chocolate Factory (2005),0.658985311134196
-9674,187541,Incredibles 2 (2018),0.6589598756550147
-1544,2080,Lady and the Tramp (1955),0.6567203234107862
-6492,53140,"Librarian: Quest for the Spear, The (2004)",0.6561854658561349
-2016,2687,Tarzan (1999),0.6560041803821848
-7619,87222,Kung Fu Panda 2 (2011),0.6552403900035189
-7587,86298,Rio (2011),0.6544263991629293
-7240,73854,"Rudolph, the Red-Nosed Reindeer (1964)",0.6538623811106573
+,movieId,titulo_movie_lens
+8895,134853,Inside Out (2015)
+6194,45074,"Wild, The (2006)"
+8802,130520,Home (2015)
+6486,53121,Shrek the Third (2007)
+6626,56152,Enchanted (2007)
+1706,2294,Antz (1998)
+8219,103755,Turbo (2013)
+9410,166461,Moana (2016)
+6047,40339,Chicken Little (2005)
+1390,1907,Mulan (1998)
+6903,63859,Bolt (2008)
+8921,136016,The Good Dinosaur (2015)
+7530,84637,Gnomeo & Juliet (2011)
+9210,152081,Zootopia (2016)
+6948,65577,"Tale of Despereaux, The (2008)"
+9267,157865,Ratchet & Clank (2016)
+6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007)
+7069,69644,Ice Age: Dawn of the Dinosaurs (2009)
+2809,3754,"Adventures of Rocky and Bullwinkle, The (2000)"
+5819,32031,Robots (2005)
+5533,26590,G.I. Joe: The Movie (1987)
+559,673,Space Jam (1996)
+8977,138702,Feast (2014)
+5620,27155,"Batman/Superman Movie, The (1998)"
+488,558,"Pagemaster, The (1994)"
+5490,26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix) (1976)"
+7202,72701,Planet 51 (2009)
+5901,33615,Madagascar (2005)
+7587,86298,Rio (2011)
+8411,110655,Rio 2 (2014)
+8918,135887,Minions (2015)
+9508,172547,Despicable Me 3 (2017)
+9376,164226,Maximum Ride (2016)
+9598,178827,Paddington 2 (2017)
+7805,92348,Puss in Boots (Nagagutsu o haita neko) (1969)
+7550,85261,Mars Needs Moms (2011)
+6260,47124,"Ant Bully, The (2006)"
+6455,52287,Meet the Robinsons (2007)
+3608,4956,"Stunt Man, The (1980)"
+8349,108540,Ernest & Célestine (Ernest et Célestine) (2012)
+8723,126921,The Fox and the Hound 2 (2006)
+6134,43869,Curious George (2006)
+0,1,Toy Story (1995)
+1584,2123,All Dogs Go to Heaven (1989)
+1599,2141,"American Tail, An (1986)"
+5160,8360,Shrek 2 (2004)
+6094,42015,Casanova (2005)
+478,546,Super Mario Bros. (1993)
+9110,145935,"Peanuts Movie, The (2015)"
+8397,110130,"Nut Job, The (2014)"
+2304,3054,Pokémon: The First Movie (1998)
+534,631,All Dogs Go to Heaven 2 (1996)
+1177,1566,Hercules (1997)
+8598,117851,Penguins of Madagascar (2014)
+8422,111146,Alpha and Omega 3: The Great Wolf Games (2014)
+6879,62956,Futurama: Bender's Game (2008)
+1555,2092,"Return of Jafar, The (1994)"
+6696,58299,Horton Hears a Who! (2008)
+8357,108932,The Lego Movie (2014)
+6570,55116,"Hunting Party, The (2007)"
+812,1064,Aladdin and the King of Thieves (1996)
+7760,91355,Asterix and the Vikings (Astérix et les Vikings) (2006)
+6149,44022,Ice Age 2: The Meltdown (2006)
+5977,36397,Valiant (2005)
+7538,84944,Rango (2011)
+6267,47404,Mind Game (2004)
+3876,5448,Hey Arnold! The Movie (2002)
+5470,26183,Asterix and Cleopatra (Astérix et Cléopâtre) (1968)
+5666,27619,"Lion King 1½, The (2004)"
+7374,79139,"Sorcerer's Apprentice, The (2010)"
+4544,6750,Anything Else (2003)
+7917,95311,Presto (2008)
+5384,8974,"SpongeBob SquarePants Movie, The (2004)"
+9158,148775,Wizards of Waverly Place: The Movie (2009)
+578,709,Oliver & Company (1988)
+8870,134021,5 to 7 (2014)
+2287,3034,Robin Hood (1973)
+7906,95167,Brave (2012)
+924,1223,"Grand Day Out with Wallace and Gromit, A (1989)"
+8822,131656,Shaun the Sheep Movie (2015)
+9284,158882,All Yours (2016)
+1372,1881,Quest for Camelot (1998)
+6785,60365,Frosty the Snowman (1969)
+2250,2987,Who Framed Roger Rabbit? (1988)
+3336,4519,"Land Before Time, The (1988)"
+8303,106696,Frozen (2013)
+2539,3400,We're Back! A Dinosaur's Story (1993)
+9674,187541,Incredibles 2 (2018)
+1596,2138,Watership Down (1978)
+7887,94833,"Pirates! Band of Misfits, The (2012)"
+8704,124404,"Snowflake, the White Gorilla (2011)"
+7918,95313,Jack-Jack Attack (2005)
+4348,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)
+789,1032,Alice in Wonderland (1951)
+7619,87222,Kung Fu Panda 2 (2011)
+1505,2033,"Black Cauldron, The (1985)"
+6681,58025,Jumper (2008)
+4631,6902,Interstate 60 (2002)
+7184,72356,Partly Cloudy (2009)
+6881,62999,Madagascar: Escape 2 Africa (2008)

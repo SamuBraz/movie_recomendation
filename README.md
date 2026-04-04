@@ -11,7 +11,6 @@
         'Mean Recall@K': 0.05540017507314408,
         'Usuarios Avaliados': 608
     }
-    
     Filmes que mais apareceram em todas as recomendações:
     Movie ID: 849 | Apareceu para 210 usuários
     Movie ID: 5264 | Apareceu para 210 usuários

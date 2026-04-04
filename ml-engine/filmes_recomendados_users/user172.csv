@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens,score_recomendacao
-1972,2617,"Mummy, The (1999)",0.73844473494531
-3676,5064,The Count of Monte Cristo (2002),0.7183050028571902
-2770,3708,Firestarter (1984),0.7045779975556757
-418,480,Jurassic Park (1993),0.6671057436192618
-5717,27838,Mean Creek (2004),0.6662481055527271
-830,1091,Weekend at Bernie's (1989),0.6608982441376399
-1522,2054,"Honey, I Shrunk the Kids (1989)",0.6473020748248764
-4192,6044,Blind Date (1984),0.645784382974361
-5518,26523,"Silent Night, Deadly Night (1984)",0.645784382974361
-3435,4679,Uncle Buck (1989),0.6453101116253787
-2039,2717,Ghostbusters II (1989),0.6416690099270524
-478,546,Super Mario Bros. (1993),0.634802553882976
-1774,2372,Fletch Lives (1989),0.6337058053426567
-1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.6301573447112048
-856,1127,"Abyss, The (1989)",0.629150336350254
-2572,3440,Teenage Mutant Ninja Turtles III (1993),0.625470980698215
-5896,33493,Star Wars: Episode III - Revenge of the Sith (2005),0.6216463298164641
-1609,2151,"Gods Must Be Crazy II, The (1989)",0.6214047449805884
-2532,3392,She-Devil (1989),0.6214047449805884
-3432,4676,Troop Beverly Hills (1989),0.6214047449805884
-1563,2100,Splash (1984),0.6202424229632817
-4908,7360,Dawn of the Dead (2004),0.6180811991729557
-3373,4585,"Dream Team, The (1989)",0.6098004386978665
-5265,8644,"I, Robot (2004)",0.6058471841879826
-2226,2959,Fight Club (1999),0.6053700284836515
-1044,1356,Star Trek: First Contact (1996),0.6049606984585157
-1775,2373,Red Sonja (1985),0.6033235877407997
-3425,4663,She's Out of Control (1989),0.6021046295563253
-7374,79139,"Sorcerer's Apprentice, The (2010)",0.6016500447080927
-6508,53519,Death Proof (2007),0.5963424039245935
-7175,72165,Cirque du Freak: The Vampire's Assistant (2009),0.5948326573640896
-99,112,Rumble in the Bronx (Hont faan kui) (1995),0.5946684916238174
-1164,1544,"Lost World: Jurassic Park, The (1997)",0.5937051481714513
-899,1197,"Princess Bride, The (1987)",0.592241773323575
-3377,4593,Family Business (1989),0.5921830059647276
-3394,4617,Let It Ride (1989),0.5921830059647276
-3395,4619,Little Monsters (1989),0.5921830059647276
-3397,4622,Loverboy (1989),0.5921830059647276
-3371,4583,Disorganized Crime (1989),0.5880246467207245
-3431,4675,Three Fugitives (1989),0.5880246467207245
-8635,119145,Kingsman: The Secret Service (2015),0.5874753007089537
-916,1215,Army of Darkness (1993),0.5865237896758065
-5516,26504,Cloak & Dagger (1984),0.585922112586554
-4717,7036,Teen Wolf (1985),0.5842389115246708
-2038,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),0.5841066151509006
-3406,4634,Penn & Teller Get Killed (1989),0.5793376115915587
-898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.5787416108066812
-3422,4660,Scenes from the Class Struggle in Beverly Hills (1989),0.5781992629115349
-3426,4666,Skin Deep (1989),0.5781992629115349
-4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.5769918601493642
-3409,4638,Jurassic Park III (2001),0.5745782479790131
-1058,1375,Star Trek III: The Search for Spock (1984),0.5729570493126671
-5716,27837,Flight of the Phoenix (2004),0.5722903812713338
-224,260,Star Wars: Episode IV - A New Hope (1977),0.5713211739672716
-422,485,Last Action Hero (1993),0.5710303591367935
-4790,7134,"Element of Crime, The (Forbrydelsens Element) (1984)",0.5695579587341765
-2042,2720,Inspector Gadget (1999),0.5667245399304323
-5161,8361,"Day After Tomorrow, The (2004)",0.5664850686163456
-3419,4653,"Return of the Musketeers, The (1989)",0.565353868538366
-6492,53140,"Librarian: Quest for the Spear, The (2004)",0.5646242737266134
-1794,2393,Star Trek: Insurrection (1998),0.561592221692544
-4502,6664,Commando (1985),0.5590383341125316
-5260,8636,Spider-Man 2 (2004),0.5570856855077684
-6488,53125,Pirates of the Caribbean: At World's End (2007),0.5567562727853023
-2976,3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),0.5555505500634633
-2822,3770,Dreamscape (1984),0.5550723621016393
-4641,6936,Elf (2003),0.5547465327109778
-4859,7262,Catch That Kid (2004),0.5541827340540456
-3819,5349,Spider-Man (2002),0.552260414969931
-1747,2344,Runaway Train (1985),0.5497073319648794
-7767,91500,The Hunger Games (2012),0.548887767284816
-5379,8968,After the Sunset (2004),0.5484231585548482
-337,380,True Lies (1994),0.5446193959097054
-990,1291,Indiana Jones and the Last Crusade (1989),0.5433901349938407
-1005,1307,When Harry Met Sally... (1989),0.5429106674027855
-5978,36401,"Brothers Grimm, The (2005)",0.5414779681388765
-2608,3489,Hook (1991),0.5387961684543336
-2986,3999,Vertical Limit (2000),0.5378417652402099
-1766,2364,"Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The) (1984)",0.5368967798065852
-4334,6333,X2: X-Men United (2003),0.5351054866738592
-2193,2916,Total Recall (1990),0.5349660652661676
-690,908,North by Northwest (1959),0.533914219944944
-5931,34048,War of the Worlds (2005),0.5338109078309056
-4843,7235,Ichi the Killer (Koroshiya 1) (2001),0.5335999760851745
-5382,8972,National Treasure (2004),0.5318720755802493
-1780,2378,Police Academy (1984),0.5318527330463173
-484,552,"Three Musketeers, The (1993)",0.5316856324369259
-2984,3997,Dungeons & Dragons (2000),0.5309137612064015
-3361,4565,American Ninja (1985),0.5298165950966708
-2766,3704,Mad Max Beyond Thunderdome (1985),0.5295972405614873
-4409,6503,Charlie's Angels: Full Throttle (2003),0.5279302207184798
-1576,2115,Indiana Jones and the Temple of Doom (1984),0.527865881638558
-656,849,Escape from L.A. (1996),0.5266346173697743
-5735,30793,Charlie and the Chocolate Factory (2005),0.5262557451912988
-2934,3937,Runaway (1984),0.5260775913217277
-4900,7345,Agent Cody Banks 2: Destination London (2004),0.5246560041782915
-1623,2167,Blade (1998),0.5240197849224628
-4351,6365,"Matrix Reloaded, The (2003)",0.5237090666085681
-222,258,"Kid in King Arthur's Court, A (1995)",0.5235897721530474
-385,442,Demolition Man (1993),0.523207719187712
+,movieId,titulo_movie_lens
+1972,2617,"Mummy, The (1999)"
+7374,79139,"Sorcerer's Apprentice, The (2010)"
+7175,72165,Cirque du Freak: The Vampire's Assistant (2009)
+2572,3440,Teenage Mutant Ninja Turtles III (1993)
+422,485,Last Action Hero (1993)
+7633,87529,Your Highness (2011)
+4908,7360,Dawn of the Dead (2004)
+6508,53519,Death Proof (2007)
+478,546,Super Mario Bros. (1993)
+4859,7262,Catch That Kid (2004)
+7221,73268,Daybreakers (2010)
+2984,3997,Dungeons & Dragons (2000)
+9479,170827,The Mummy (2017)
+6986,66943,"Cottage, The (2008)"
+6492,53140,"Librarian: Quest for the Spear, The (2004)"
+4843,7235,Ichi the Killer (Koroshiya 1) (2001)
+5953,34397,"Order, The (2001)"
+5721,27865,Azumi (2003)
+7676,89087,Colombiana (2011)
+626,798,Daylight (1996)
+3085,4142,Left Behind: The Movie (2000)
+9376,164226,Maximum Ride (2016)
+916,1215,Army of Darkness (1993)
+5379,8968,After the Sunset (2004)
+1747,2344,Runaway Train (1985)
+5978,36401,"Brothers Grimm, The (2005)"
+6950,65588,"Gamers, The: Dorkness Rising (2008)"
+8503,113780,"As Above, So Below (2014)"
+4106,5883,They (2002)
+4724,7046,"Witches of Eastwick, The (1987)"
+7987,96815,V/H/S (2012)
+8247,104457,You're Next (2011)
+8207,103483,V/H/S/2 (2013)
+6488,53125,Pirates of the Caribbean: At World's End (2007)
+2798,3740,Big Trouble in Little China (1986)
+8712,125970,Halloweentown (1998)
+6475,52831,Maniac Cop (1988)
+1357,1848,"Borrowers, The (1997)"
+222,258,"Kid in King Arthur's Court, A (1995)"
+5339,8894,Orca: The Killer Whale (1977)
+8216,103655,R.I.P.D. (2013)
+5577,26792,Sidekicks (1992)
+7683,89343,Red State (2011)
+7409,80219,Machete (2010)
+6793,60522,"Machine Girl, The (Kataude mashin gâru) (2008)"
+1512,2041,Condorman (1981)
+2770,3708,Firestarter (1984)
+6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007)
+6061,40732,"Descent, The (2005)"
+8713,125974,Halloweentown High (2004)
+3901,5479,K-19: The Widowmaker (2002)
+6895,63436,Saw V (2008)
+1790,2389,Psycho (1998)
+7088,70206,"Collector, The (2009)"
+3416,4645,Cure (1997)
+5948,34332,Sky High (2005)
+9182,150554,The Love Bug (1997)
+6570,55116,"Hunting Party, The (2007)"
+1900,2524,"Towering Inferno, The (1974)"
+5798,31698,Son of the Mask (2005)
+4005,5657,Flashback (1990)
+6163,44399,"Shaggy Dog, The (2006)"
+8185,103075,"Purge, The (2013)"
+6806,60832,Pathology (2008)
+5613,27036,Merlin (1998)
+899,1197,"Princess Bride, The (1987)"
+9679,188301,Ant-Man and the Wasp (2018)
+1448,1971,"Nightmare on Elm Street 4: The Dream Master, A (1988)"
+5265,8644,"I, Robot (2004)"
+2042,2720,Inspector Gadget (1999)
+3090,4148,Hannibal (2001)
+3093,4153,Down to Earth (2001)
+7108,70697,G-Force (2009)
+1225,1626,Fire Down Below (1997)
+5565,26741,Mannequin 2: On the Move (1991)
+4071,5803,I Spy (2002)
+8773,128944,"Honey, We Shrunk Ourselves (1997)"
+856,1127,"Abyss, The (1989)"
+5385,8977,Alexander (2004)
+1447,1970,"Nightmare on Elm Street 3: Dream Warriors, A (1987)"
+4948,7458,Troy (2004)
+6065,40851,Zathura (2005)
+4726,7048,Nothing to Lose (1997)
+6334,48877,Saw III (2006)
+6500,53435,Hostel: Part II (2007)
+6703,58347,Penelope (2006)
+5923,33836,Bewitched (2005)
+6324,48678,Feast (2005)
+7329,77798,"Nightmare on Elm Street, A (2010)"
+6604,55577,Saw IV (2007)
+5490,26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix) (1976)"
+6429,51545,Pusher III: I'm the Angel of Death (2005)
+1839,2446,In Dreams (1999)
+8470,112727,Deliver Us from Evil (2014)
+858,1129,Escape from New York (1981)
+6060,40723,Wolf Creek (2005)
+4192,6044,Blind Date (1984)
+6057,40617,Creep (2004)
+9194,151559,Frankenstein (2015)
+8701,123553,In the Name of the King III (2014)

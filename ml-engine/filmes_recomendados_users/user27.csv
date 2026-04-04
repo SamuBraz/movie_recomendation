@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens,score_recomendacao
-1044,1356,Star Trek: First Contact (1996),0.9342965828897541
-1164,1544,"Lost World: Jurassic Park, The (1997)",0.9230363568292672
-3409,4638,Jurassic Park III (2001),0.8795005922250799
-1904,2528,Logan's Run (1976),0.8443528912994767
-6330,48774,Children of Men (2006),0.8399395115511157
-3819,5349,Spider-Man (2002),0.8323982023321904
-6455,52287,Meet the Robinsons (2007),0.8313819425948618
-1158,1527,"Fifth Element, The (1997)",0.8310750966117385
-287,329,Star Trek: Generations (1994),0.8310616243429849
-5161,8361,"Day After Tomorrow, The (2004)",0.8248056264518429
-176,208,Waterworld (1995),0.8195728155547053
-656,849,Escape from L.A. (1996),0.8166106815022927
-4334,6333,X2: X-Men United (2003),0.8145170687310639
-7767,91500,The Hunger Games (2012),0.8094336614600545
-5265,8644,"I, Robot (2004)",0.80677679759241
-5931,34048,War of the Worlds (2005),0.803613145997859
-1194,1591,Spawn (1997),0.8023371732731376
-2193,2916,Total Recall (1990),0.8015464792962592
-8589,117529,Jurassic World (2015),0.8004055884953356
-1058,1375,Star Trek III: The Search for Spock (1984),0.8003878843945925
-6743,59315,Iron Man (2008),0.796448190538067
-6681,58025,Jumper (2008),0.7910371546181332
-385,442,Demolition Man (1993),0.7905197085209361
-478,546,Super Mario Bros. (1993),0.7875117493019591
-559,673,Space Jam (1996),0.7838740562802009
-3414,4643,Planet of the Apes (2001),0.7838275192259723
-4351,6365,"Matrix Reloaded, The (2003)",0.7837380860199124
-2766,3704,Mad Max Beyond Thunderdome (1985),0.7823539439151566
-3832,5378,Star Wars: Episode II - Attack of the Clones (2002),0.7823119784411041
-5954,34405,Serenity (2005),0.7796347082723618
-4639,6934,"Matrix Revolutions, The (2003)",0.777092758714052
-5260,8636,Spider-Man 2 (2004),0.7754126720753418
-8688,122904,Deadpool (2016),0.7672399830557247
-615,780,Independence Day (a.k.a. ID4) (1996),0.7655980980678272
-8684,122892,Avengers: Age of Ultron (2015),0.7628890695712627
-8686,122900,Ant-Man (2015),0.7628890695712627
-4425,6537,Terminator 3: Rise of the Machines (2003),0.7620086723359326
-6754,59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),0.7611650857663195
-2765,3703,"Road Warrior, The (Mad Max 2) (1981)",0.7606670997492418
-1346,1831,Lost in Space (1998),0.7603475311697503
-858,1129,Escape from New York (1981),0.7598154971258081
-1059,1376,Star Trek IV: The Voyage Home (1986),0.7563423480514964
-484,552,"Three Musketeers, The (1993)",0.7525813278697575
-337,380,True Lies (1994),0.7523634704537194
-5868,32898,"Trip to the Moon, A (Voyage dans la lune, Le) (1902)",0.7501079232192894
-8425,111362,X-Men: Days of Future Past (2014),0.7483368113645936
-7095,70336,G.I. Joe: The Rise of Cobra (2009),0.7469976149609311
-1989,2643,Superman IV: The Quest for Peace (1987),0.7461206133308401
-7620,87232,X-Men: First Class (2011),0.7457396008400594
-8653,120799,Terminator Genisys (2015),0.7456317763531171
-924,1223,"Grand Day Out with Wallace and Gromit, A (1989)",0.7445572868668643
-6829,61248,Death Race (2008),0.7441688336890796
-1057,1374,Star Trek II: The Wrath of Khan (1982),0.7408336721110146
-1567,2105,Tron (1982),0.7382551065044564
-3731,5171,"Time Machine, The (2002)",0.7378203259812943
-5259,8633,"Last Starfighter, The (1984)",0.7368051600199657
-2861,3827,Space Cowboys (2000),0.7360126323829034
-7646,88140,Captain America: The First Avenger (2011),0.7358179772484619
-5330,8865,Sky Captain and the World of Tomorrow (2004),0.7334641490788086
-3069,4121,Innerspace (1987),0.7319005969743206
-5665,27618,"Sound of Thunder, A (2005)",0.7302942549561081
-5949,34334,Stealth (2005),0.7298062147756037
-8911,135569,Star Trek Beyond (2016),0.7291895787047179
-8773,128944,"Honey, We Shrunk Ourselves (1997)",0.7241812791807863
-3768,5264,Clockstoppers (2002),0.7236284167202239
-2764,3702,Mad Max (1979),0.7223371060675285
-5612,27032,Who Am I? (Wo shi shei) (1998),0.7205125077058532
-6047,40339,Chicken Little (2005),0.720476200898627
-2803,3745,Titan A.E. (2000),0.7191883721127875
-2712,3638,Moonraker (1979),0.7180820203438592
-4445,6564,Lara Croft Tomb Raider: The Cradle of Life (2003),0.7178730622312379
-99,112,Rumble in the Bronx (Hont faan kui) (1995),0.7171680882114875
-4306,6294,Bulletproof Monk (2003),0.7156657415787382
-8426,111364,Godzilla (2014),0.7152440019360402
-8692,122918,Guardians of the Galaxy 2 (2017),0.7145772275707507
-6838,61350,Babylon A.D. (2008),0.7125676579027481
-7052,69278,Land of the Lost (2009),0.7116484983411426
-7182,72308,Battlestar Galactica: The Plan (2009),0.7092538254981717
-1692,2275,Six-String Samurai (1998),0.7048409887386284
-6791,60514,Journey to the Center of the Earth (2008),0.7011878597603571
-2889,3864,Godzilla 2000 (Gojira ni-sen mireniamu) (1999),0.7002082865603874
-3599,4941,Flash Gordon (1980),0.6992556728523963
-8689,122906,Black Panther (2017),0.6974094211601298
-9031,141544,Turbo Kid (2015),0.695778220857419
-9522,173145,War for the Planet of the Apes (2017),0.6957007724939697
-4348,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),0.6953281818800803
-6457,52319,Inglorious Bastards (Quel maledetto treno blindato) (1978),0.6945097908279172
-8747,127323,Vice (2015),0.6901252339219952
-8910,135567,Independence Day: Resurgence (2016),0.6890746545566786
-275,316,Stargate (1994),0.6881617399745439
-6894,63433,Farscape: The Peacekeeper Wars (2004),0.6874224268205692
-6963,65982,Outlander (2008),0.6872041167071645
-7324,77561,Iron Man 2 (2010),0.6870862270780004
-9267,157865,Ratchet & Clank (2016),0.6860406241458001
-8489,113345,Jupiter Ascending (2015),0.6858565972658214
-9064,142509,Hardcore Henry (2015),0.6858565972658214
-8458,112370,Transformers: Age of Extinction (2014),0.6854114745656499
-7906,95167,Brave (2012),0.6848726648004618
-9376,164226,Maximum Ride (2016),0.6830306435775804
-3531,4826,"Big Red One, The (1980)",0.6827453604496816
+,movieId,titulo_movie_lens
+6330,48774,Children of Men (2006)
+7289,75416,Generation X (1996)
+656,849,Escape from L.A. (1996)
+176,208,Waterworld (1995)
+9497,171765,Okja (2017)
+6681,58025,Jumper (2008)
+4658,6959,Timeline (2003)
+6963,65982,Outlander (2008)
+6838,61350,Babylon A.D. (2008)
+5931,34048,War of the Worlds (2005)
+5265,8644,"I, Robot (2004)"
+1567,2105,Tron (1982)
+8747,127323,Vice (2015)
+1194,1591,Spawn (1997)
+8773,128944,"Honey, We Shrunk Ourselves (1997)"
+6743,59315,Iron Man (2008)
+5949,34334,Stealth (2005)
+3768,5264,Clockstoppers (2002)
+5259,8633,"Last Starfighter, The (1984)"
+9672,186587,Rampage (2018)
+8911,135569,Star Trek Beyond (2016)
+8589,117529,Jurassic World (2015)
+3414,4643,Planet of the Apes (2001)
+5161,8361,"Day After Tomorrow, The (2004)"
+1346,1831,Lost in Space (1998)
+3069,4121,Innerspace (1987)
+8688,122904,Deadpool (2016)
+9697,191005,Gintama (2017)
+9522,173145,War for the Planet of the Apes (2017)
+8686,122900,Ant-Man (2015)
+2712,3638,Moonraker (1979)
+6047,40339,Chicken Little (2005)
+3731,5171,"Time Machine, The (2002)"
+5787,31553,Double Dragon (1994)
+385,442,Demolition Man (1993)
+6829,61248,Death Race (2008)
+5665,27618,"Sound of Thunder, A (2005)"
+8808,130842,Power/Rangers (2015)
+9267,157865,Ratchet & Clank (2016)
+8689,122906,Black Panther (2017)
+2861,3827,Space Cowboys (2000)
+6825,61210,Mutant Chronicles (2008)
+8685,122898,Justice League (2017)
+9031,141544,Turbo Kid (2015)
+9462,169982,Power Rangers (2017)
+7052,69278,Land of the Lost (2009)
+2953,3959,"Time Machine, The (1960)"
+2764,3702,Mad Max (1979)
+9064,142509,Hardcore Henry (2015)
+1692,2275,Six-String Samurai (1998)
+9425,167370,Assassin's Creed (2016)
+3599,4941,Flash Gordon (1980)
+1904,2528,Logan's Run (1976)
+4493,6645,THX 1138 (1971)
+8950,136800,Robot Overlords (2014)
+7620,87232,X-Men: First Class (2011)
+8653,120799,Terminator Genisys (2015)
+2193,2916,Total Recall (1990)
+4965,7569,You Only Live Twice (1967)
+4306,6294,Bulletproof Monk (2003)
+8489,113345,Jupiter Ascending (2015)
+5533,26590,G.I. Joe: The Movie (1987)
+1158,1527,"Fifth Element, The (1997)"
+275,316,Stargate (1994)
+4619,6882,Returner (Ritaanaa) (2002)
+1988,2642,Superman III (1983)
+3819,5349,Spider-Man (2002)
+478,546,Super Mario Bros. (1993)
+858,1129,Escape from New York (1981)
+9376,164226,Maximum Ride (2016)
+7767,91500,The Hunger Games (2012)
+7182,72308,Battlestar Galactica: The Plan (2009)
+6791,60514,Journey to the Center of the Earth (2008)
+5620,27155,"Batman/Superman Movie, The (1998)"
+2803,3745,Titan A.E. (2000)
+7646,88140,Captain America: The First Avenger (2011)
+7095,70336,G.I. Joe: The Rise of Cobra (2009)
+6894,63433,Farscape: The Peacekeeper Wars (2004)
+5612,27032,Who Am I? (Wo shi shei) (1998)
+2766,3704,Mad Max Beyond Thunderdome (1985)
+8910,135567,Independence Day: Resurgence (2016)
+9673,187031,Jurassic World: Fallen Kingdom (2018)
+4425,6537,Terminator 3: Rise of the Machines (2003)
+8458,112370,Transformers: Age of Extinction (2014)
+8684,122892,Avengers: Age of Ultron (2015)
+3927,5523,"Adventures of Pluto Nash, The (2002)"
+9679,188301,Ant-Man and the Wasp (2018)
+8692,122918,Guardians of the Galaxy 2 (2017)
+8425,111362,X-Men: Days of Future Past (2014)
+5330,8865,Sky Captain and the World of Tomorrow (2004)
+1044,1356,Star Trek: First Contact (1996)
+5954,34405,Serenity (2005)
+2765,3703,"Road Warrior, The (Mad Max 2) (1981)"
+3409,4638,Jurassic Park III (2001)
+2174,2890,Three Kings (1999)
+9138,147380,Doctor Who: The Next Doctor (2008)
+615,780,Independence Day (a.k.a. ID4) (1996)
+8694,122922,Doctor Strange (2016)
+1989,2643,Superman IV: The Quest for Peace (1987)
+6140,43917,Eight Below (2006)
