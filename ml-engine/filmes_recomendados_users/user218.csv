@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-4999,7720,"Four Musketeers, The (1974)"
-337,380,True Lies (1994)
-4552,6764,"Rundown, The (2003)"
-5852,32596,Sahara (2005)
-5463,26152,Batman (1966)
-3608,4956,"Stunt Man, The (1980)"
-7927,95510,"Amazing Spider-Man, The (2012)"
-8178,102880,After Earth (2013)
-484,552,"Three Musketeers, The (1993)"
-6680,57951,Fool's Gold (2008)
-2014,2683,Austin Powers: The Spy Who Shagged Me (1999)
-8137,101864,Oblivion (2013)
-1806,2406,Romancing the Stone (1984)
-7820,92681,Journey 2: The Mysterious Island (2012)
-1805,2405,"Jewel of the Nile, The (1985)"
-5911,33679,Mr. & Mrs. Smith (2005)
-8866,133867,Barely Lethal (2015)
-7842,93363,John Carter (2012)
-6238,46530,Superman Returns (2006)
-8287,106002,Ender's Game (2013)
-4689,7000,Hudson Hawk (1991)
-8194,103228,Pacific Rim (2013)
-3909,5493,In Like Flint (1967)
-4726,7048,Nothing to Lose (1997)
-5958,34520,"Dukes of Hazzard, The (2005)"
-4066,5796,Casino Royale (1967)
-6094,42015,Casanova (2005)
-5382,8972,National Treasure (2004)
-8159,102445,Star Trek Into Darkness (2013)
-7319,77364,"Losers, The (2010)"
-5774,31367,"Chase, The (1994)"
-7051,69275,Dead Snow (Død snø) (2009)
-5809,31923,"Three Musketeers, The (1973)"
-8295,106487,The Hunger Games: Catching Fire (2013)
-6754,59615,Indiana Jones and the Kingdom of the Crystal Skull (2008)
-8968,138036,The Man from U.N.C.L.E. (2015)
-1158,1527,"Fifth Element, The (1997)"
-5379,8968,After the Sunset (2004)
-8426,111364,Godzilla (2014)
-1194,1591,Spawn (1997)
-4071,5803,I Spy (2002)
-8688,122904,Deadpool (2016)
-9697,191005,Gintama (2017)
-8395,110102,Captain America: The Winter Soldier (2014)
-6570,55116,"Hunting Party, The (2007)"
-9572,176101,Kingsman: The Golden Circle (2017)
-4005,5657,Flashback (1990)
-7052,69278,Land of the Lost (2009)
-3526,4818,Extreme Days (2001)
-3069,4121,Innerspace (1987)
-858,1129,Escape from New York (1981)
-8183,103042,Man of Steel (2013)
-1576,2115,Indiana Jones and the Temple of Doom (1984)
-5259,8633,"Last Starfighter, The (1984)"
-7633,87529,Your Highness (2011)
-8490,113348,Teenage Mutant Ninja Turtles (2014)
-3819,5349,Spider-Man (2002)
-422,485,Last Action Hero (1993)
-6822,61132,Tropic Thunder (2008)
-7441,81132,Rubber (2010)
-5539,26614,"Bourne Identity, The (1988)"
-6470,52722,Spider-Man 3 (2007)
-7770,91542,Sherlock Holmes: A Game of Shadows (2011)
-5265,8644,"I, Robot (2004)"
-1218,1617,L.A. Confidential (1997)
-3661,5039,Dragonslayer (1981)
-3889,5463,Reign of Fire (2002)
-2174,2890,Three Kings (1999)
-4228,6156,Shanghai Knights (2003)
-6743,59315,Iron Man (2008)
-2861,3827,Space Cowboys (2000)
-7211,72982,Alice (2009)
-7409,80219,Machete (2010)
-5300,8782,Thunderbirds (2004)
-8682,122886,Star Wars: Episode VII - The Force Awakens (2015)
-3832,5378,Star Wars: Episode II - Attack of the Clones (2002)
-1972,2617,"Mummy, The (1999)"
-856,1127,"Abyss, The (1989)"
-7289,75416,Generation X (1996)
-8686,122900,Ant-Man (2015)
-549,653,Dragonheart (1996)
-3019,4037,House of Games (1987)
-974,1275,Highlander (1986)
-7365,78893,"Last Airbender, The (2010)"
-4658,6959,Timeline (2003)
-3768,5264,Clockstoppers (2002)
-6360,49649,Eragon (2006)
-5850,32587,Sin City (2005)
-8683,122890,Warcraft (2016)
-9376,164226,Maximum Ride (2016)
-6963,65982,Outlander (2008)
-6838,61350,Babylon A.D. (2008)
-656,849,Escape from L.A. (1996)
-176,208,Waterworld (1995)
-1644,2193,Willow (1988)
-1346,1831,Lost in Space (1998)
-8747,127323,Vice (2015)
-8687,122902,Fantastic Four (2015)
-1557,2094,"Rocketeer, The (1991)"
-385,442,Demolition Man (1993)
+,movie_id,title,score_recomendacao
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.4346101633578704
+3819,5349,Spider-Man (2002),0.415734734399757
+6470,52722,Spider-Man 3 (2007),0.4009677918896385
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.39019045267496816
+2014,2683,Austin Powers: The Spy Who Shagged Me (1999),0.3557100901665925
+990,1291,Indiana Jones and the Last Crusade (1989),0.2975891887113199
+7063,69524,Raiders of the Lost Ark: The Adaptation (1989),0.29589566874467793
+3903,5481,Austin Powers in Goldmember (2002),0.2906063225574239
+1576,2115,Indiana Jones and the Temple of Doom (1984),0.2898667059086145
+314,356,Forrest Gump (1994),0.27951356889375756
+8406,110553,The Amazing Spider-Man 2 (2014),0.27336219191187827
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.27109174140853903
+7927,95510,"Amazing Spider-Man, The (2012)",0.2710816835898305
+922,1221,"Godfather: Part II, The (1974)",0.270762181289967
+257,296,Pulp Fiction (1994),0.2632412392620479
+8696,122926,Untitled Spider-Man Reboot (2017),0.26055918047526627
+472,539,Sleepless in Seattle (1993),0.26026691270055075
+1218,1617,L.A. Confidential (1997),0.25591439884740996
+1577,2116,"Lord of the Rings, The (1978)",0.2545102748385486
+6754,59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),0.2496753365749788
+7644,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),0.24608754672734073
+46,50,"Usual Suspects, The (1995)",0.24224489441154362
+197,231,Dumb & Dumber (Dumb and Dumber) (1994),0.2422179688207367
+6062,40815,Harry Potter and the Goblet of Fire (2005),0.24145082003321344
+4076,5816,Harry Potter and the Chamber of Secrets (2002),0.24029501096687533
+615,780,Independence Day (a.k.a. ID4) (1996),0.23889676787243588
+7465,81834,Harry Potter and the Deathly Hallows: Part 1 (2010),0.2383432057292149
+7078,69844,Harry Potter and the Half-Blood Prince (2009),0.2381962760029474
+5166,8368,Harry Potter and the Prisoner of Azkaban (2004),0.23751368381301263
+337,380,True Lies (1994),0.2349364359585776
+1183,1580,Men in Black (a.k.a. MIB) (1997),0.23465201802983499
+5374,8961,"Incredibles, The (2004)",0.23454291132853944
+3141,4226,Memento (2000),0.2339976326535949
+1730,2324,Life Is Beautiful (La Vita è bella) (1997),0.23205201773478715
+510,593,"Silence of the Lambs, The (1991)",0.22990566805413964
+277,318,"Shawshank Redemption, The (1994)",0.22969513258170582
+224,260,Star Wars: Episode IV - A New Hope (1977),0.22808918616465004
+2039,2717,Ghostbusters II (1989),0.22774524972822813
+2250,2987,Who Framed Roger Rabbit? (1988),0.2276423724009407
+334,377,Speed (1994),0.2274304370803174
+957,1258,"Shining, The (1980)",0.22707953676780918
+2836,3793,X-Men (2000),0.22690932033763725
+461,527,Schindler's List (1993),0.22631423617262159
+1158,1527,"Fifth Element, The (1997)",0.224678880126502
+520,608,Fargo (1996),0.22429022694921508
+1986,2640,Superman (1978),0.22287431698724425
+1939,2571,"Matrix, The (1999)",0.22236416886343277
+97,110,Braveheart (1995),0.22218183370122052
+6522,54001,Harry Potter and the Order of the Phoenix (2007),0.2212077831294084
+325,367,"Mask, The (1994)",0.22089994528994183
+509,592,Batman (1989),0.2205159852189551
+8053,98809,"Hobbit: An Unexpected Journey, The (2012)",0.22039427293340264
+6710,58559,"Dark Knight, The (2008)",0.2187211483949248
+1398,1917,Armageddon (1998),0.2180119008716711
+20,21,Get Shorty (1995),0.21729576843670084
+302,344,Ace Ventura: Pet Detective (1994),0.21704946834679398
+418,480,Jurassic Park (1993),0.21687680466677242
+701,919,"Wizard of Oz, The (1939)",0.21652133492719483
+2226,2959,Fight Club (1999),0.21624881985754163
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.21602823546575822
+507,589,Terminator 2: Judgment Day (1991),0.2159545948214549
+43,47,Seven (a.k.a. Se7en) (1995),0.2156335638863634
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.21502567812504778
+4351,6365,"Matrix Reloaded, The (2003)",0.21494636071370263
+5850,32587,Sin City (2005),0.21410690206287092
+1295,1729,Jackie Brown (1997),0.21404163297531847
+1224,1625,"Game, The (1997)",0.21388140543239378
+969,1270,Back to the Future (1985),0.21384136125337622
+7258,74458,Shutter Island (2010),0.21373232253167762
+275,316,Stargate (1994),0.21368133406884415
+98,111,Taxi Driver (1976),0.2132006648813153
+3010,4027,"O Brother, Where Art Thou? (2000)",0.2128309048683263
+546,648,Mission: Impossible (1996),0.21281528758510249
+2078,2762,"Sixth Sense, The (1999)",0.21201552264287174
+253,292,Outbreak (1995),0.21159180109493253
+5,6,Heat (1995),0.21151611081819857
+315,357,Four Weddings and a Funeral (1994),0.21142446439976245
+134,161,Crimson Tide (1995),0.21101602929543983
+474,541,Blade Runner (1982),0.2109864794706101
+138,165,Die Hard: With a Vengeance (1995),0.21051469140044063
+514,597,Pretty Woman (1990),0.2103856438187044
+592,733,"Rock, The (1996)",0.21025738846224692
+508,590,Dances with Wolves (1990),0.21011498400318596
+0,1,Toy Story (1995),0.21001648959062677
+1164,1544,"Lost World: Jurassic Park, The (1997)",0.20881451405528534
+398,457,"Fugitive, The (1993)",0.20868444977421852
+3548,4855,Dirty Harry (1971),0.2086690398602401
+793,1036,Die Hard (1988),0.20863481792915967
+5917,33794,Batman Begins (2005),0.20815930317461984
+486,555,True Romance (1993),0.20815312464318703
+690,908,North by Northwest (1959),0.2080545452436608
+505,587,Ghost (1990),0.207603732654915
+7372,79132,Inception (2010),0.20754806350807686
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.2071989193742885
+322,364,"Lion King, The (1994)",0.20711716089295082
+201,235,Ed Wood (1994),0.206868630088896
+1503,2028,Saving Private Ryan (1998),0.20684181865378007
+1298,1732,"Big Lebowski, The (1998)",0.20668621374024437
+695,913,"Maltese Falcon, The (1941)",0.20606808455236103
+126,153,Batman Forever (1995),0.20577631431617927

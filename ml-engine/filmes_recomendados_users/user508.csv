@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-3363,4571,Bill & Ted's Excellent Adventure (1989)
-7533,84772,Paul (2011)
-560,674,Barbarella (1968)
-3968,5596,Spaced Invaders (1990)
-3910,5497,Our Man Flint (1965)
-1842,2450,Howard the Duck (1986)
-8688,122904,Deadpool (2016)
-9697,191005,Gintama (2017)
-3069,4121,Innerspace (1987)
-5872,33004,"Hitchhiker's Guide to the Galaxy, The (2005)"
-5259,8633,"Last Starfighter, The (1984)"
-2393,3175,Galaxy Quest (1999)
-7052,69278,Land of the Lost (2009)
-2861,3827,Space Cowboys (2000)
-6293,47997,Idiocracy (2006)
-1158,1527,"Fifth Element, The (1997)"
-5508,26444,"Hitch Hikers Guide to the Galaxy, The (1981)"
-3927,5523,"Adventures of Pluto Nash, The (2002)"
-2316,3070,"Adventures of Buckaroo Banzai Across the 8th Dimension, The (1984)"
-1059,1376,Star Trek IV: The Voyage Home (1986)
-5612,27032,Who Am I? (Wo shi shei) (1998)
-2492,3326,What Planet Are You From? (2000)
-6754,59615,Indiana Jones and the Kingdom of the Crystal Skull (2008)
-7937,95720,"Watch, The (2012)"
-1807,2407,Cocoon (1985)
-220,256,Junior (1994)
-8917,135885,Absolutely Anything (2015)
-2233,2968,Time Bandits (1981)
-5588,26861,Freaked (1993)
-379,435,Coneheads (1993)
-2286,3033,Spaceballs (1987)
-3072,4125,Leonard Part 6 (1987)
-3319,4492,Critters (1986)
-4226,6153,Zapped! (1982)
-5188,8427,Americathon (1979)
-817,1077,Sleeper (1973)
-7820,92681,Journey 2: The Mysterious Island (2012)
-3629,4980,Bill & Ted's Bogus Journey (1991)
-5079,7988,Space Truckers (1996)
-1442,1965,Repo Man (1984)
-1808,2408,Cocoon: The Return (1988)
-3351,4544,Short Circuit 2 (1988)
-1880,2498,My Favorite Martian (1999)
-7120,71106,Frequently Asked Questions About Time Travel (2009)
-3843,5397,Monkey Business (1952)
-1594,2136,"Nutty Professor, The (1963)"
-3969,5597,Suburban Commando (1991)
-8899,135137,Pixels (2015)
-3605,4952,Morons From Outer Space (1985)
-2999,4015,"Dude, Where's My Car? (2000)"
-2029,2701,Wild Wild West (1999)
-6726,59014,Superhero Movie (2008)
-8775,128975,Hot Tub Time Machine 2 (2015)
-3352,4545,Short Circuit (1986)
-8202,103341,"World's End, The (2013)"
-7300,76077,Hot Tub Time Machine (2010)
-3045,4079,Amazon Women on the Moon (1987)
-3581,4909,"Incredible Shrinking Woman, The (1981)"
-8109,100611,Escape from Planet Earth (2013)
-3973,5604,"Man in the White Suit, The (1951)"
-7855,93805,Iron Sky (2012)
-285,327,Tank Girl (1995)
-5483,26285,Dark Star (1974)
-7616,87192,Attack the Block (2011)
-1071,1391,Mars Attacks! (1996)
-3867,5437,"Manhattan Project, The (1986)"
-7202,72701,Planet 51 (2009)
-8902,135216,The Star Wars Holiday Special (1978)
-6340,49110,Mom and Dad Save the World (1992)
-7547,85179,Summer Wars (Samâ wôzu) (2009)
-8773,128944,"Honey, We Shrunk Ourselves (1997)"
-7752,91233,Lifted (2006)
-7136,71302,Attack of the 50 Foot Woman (1958)
-5534,26593,Hell Comes to Frogtown (1988)
-9017,140711,American Ultra (2015)
-8314,106927,RoboGeisha (Robo-geisha) (2009)
-1183,1580,Men in Black (a.k.a. MIB) (1997)
-9636,182731,Pixel Perfect (2004)
-5874,33090,Mutant Aliens (2001)
-8776,128991,Johnny Express (2014)
-7978,96608,Runaway Brain (1995) 
-924,1223,"Grand Day Out with Wallace and Gromit, A (1989)"
-558,671,Mystery Science Theater 3000: The Movie (1996)
-8801,130518,The Amazing Screw-On Head (2006)
-6047,40339,Chicken Little (2005)
-2038,2716,Ghostbusters (a.k.a. Ghost Busters) (1984)
-1510,2038,"Cat from Outer Space, The (1978)"
-9014,140541,The Electric Hotel (1908)
-9267,157865,Ratchet & Clank (2016)
-1521,2053,"Honey, I Blew Up the Kid (1992)"
-9498,171811,Embassy (2013)
-3216,4343,Evolution (2001)
-9011,140481,"Family Guy Presents: Something, Something, Something, Dark Side (2009)"
-275,316,Stargate (1994)
-7568,85780,Family Guy Presents: It's a Trap (2010)
-8254,104875,"History of Future Folk, The (2012)"
-6632,56251,Futurama: Bender's Big Score (2007)
-9679,188301,Ant-Man and the Wasp (2018)
-9412,166526,The Space Between Us (2016)
-9376,164226,Maximum Ride (2016)
+,movie_id,title,score_recomendacao
+314,356,Forrest Gump (1994),0.21779196191206004
+507,589,Terminator 2: Judgment Day (1991),0.2156227704140435
+257,296,Pulp Fiction (1994),0.21096044492014038
+224,260,Star Wars: Episode IV - A New Hope (1977),0.20939630669641662
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.2073066205042443
+277,318,"Shawshank Redemption, The (1994)",0.2049579111802992
+2029,2701,Wild Wild West (1999),0.20402392607917874
+1939,2571,"Matrix, The (1999)",0.2038671133518861
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.20262828775916986
+1158,1527,"Fifth Element, The (1997)",0.2025596339302665
+418,480,Jurassic Park (1993),0.20097267524749515
+3363,4571,Bill & Ted's Excellent Adventure (1989),0.19902873069095545
+1522,2054,"Honey, I Shrunk the Kids (1989)",0.19852497776134273
+509,592,Batman (1989),0.19809524518069987
+510,593,"Silence of the Lambs, The (1991)",0.19573024797631444
+508,590,Dances with Wolves (1990),0.19472765654266533
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.19442431460227622
+2226,2959,Fight Club (1999),0.193847352659134
+0,1,Toy Story (1995),0.1936795825333731
+615,780,Independence Day (a.k.a. ID4) (1996),0.19362387360921263
+337,380,True Lies (1994),0.1935160167644064
+939,1240,"Terminator, The (1984)",0.19346844713144237
+659,858,"Godfather, The (1972)",0.1933237482425417
+126,153,Batman Forever (1995),0.192981043741433
+461,527,Schindler's List (1993),0.1928350247019837
+902,1200,Aliens (1986),0.1912367978501287
+97,110,Braveheart (1995),0.18941566732823548
+1183,1580,Men in Black (a.k.a. MIB) (1997),0.18930009835573047
+474,541,Blade Runner (1982),0.18929974131002275
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.18910310219495113
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.1883364482150644
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.1881569127322513
+5374,8961,"Incredibles, The (2004)",0.18796429337992662
+123,150,Apollo 13 (1995),0.18772474883444293
+2145,2858,American Beauty (1999),0.186904952945646
+43,47,Seven (a.k.a. Se7en) (1995),0.18676197373432035
+793,1036,Die Hard (1988),0.18633059561036858
+1044,1356,Star Trek: First Contact (1996),0.18624413050412975
+514,597,Pretty Woman (1990),0.18615288435896774
+46,50,"Usual Suspects, The (1995)",0.1860798343148269
+4351,6365,"Matrix Reloaded, The (2003)",0.18545022991296894
+2014,2683,Austin Powers: The Spy Who Shagged Me (1999),0.18505222807612146
+398,457,"Fugitive, The (1993)",0.18498242353592845
+520,608,Fargo (1996),0.18483726864770436
+899,1197,"Princess Bride, The (1987)",0.18446597718388982
+546,648,Mission: Impossible (1996),0.1843080302858894
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.18393203705703584
+4137,5952,"Lord of the Rings: The Two Towers, The (2002)",0.18369380544149144
+506,588,Aladdin (1992),0.183526549431867
+2836,3793,X-Men (2000),0.18289168070873302
+2250,2987,Who Framed Roger Rabbit? (1988),0.18259454543984663
+322,364,"Lion King, The (1994)",0.18255659195648807
+3731,5171,"Time Machine, The (2002)",0.182111735805603
+505,587,Ghost (1990),0.18202557206624748
+334,377,Speed (1994),0.18199095292955533
+1503,2028,Saving Private Ryan (1998),0.1818658309890258
+915,1214,Alien (1979),0.1810161237092018
+2078,2762,"Sixth Sense, The (1999)",0.18092911617483912
+10,11,"American President, The (1995)",0.18092005432747033
+2038,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),0.18084694690806435
+1445,1968,"Breakfast Club, The (1985)",0.1808436807974016
+964,1265,Groundhog Day (1993),0.18075799702475215
+990,1291,Indiana Jones and the Last Crusade (1989),0.18072838501783609
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.1806733656902286
+2393,3175,Galaxy Quest (1999),0.18055099983389247
+907,1206,"Clockwork Orange, A (1971)",0.18051233574444492
+138,165,Die Hard: With a Vengeance (1995),0.18043433062708863
+275,316,Stargate (1994),0.18033034699802308
+3194,4306,Shrek (2001),0.18032541906348348
+4615,6874,Kill Bill: Vol. 1 (2003),0.1792733386053902
+2674,3578,Gladiator (2000),0.1789250943635751
+3819,5349,Spider-Man (2002),0.17889799302515272
+4909,7361,Eternal Sunshine of the Spotless Mind (2004),0.17858584022238086
+504,586,Home Alone (1990),0.17825097028326517
+5260,8636,Spider-Man 2 (2004),0.1782195538562213
+7372,79132,Inception (2010),0.17811489478076656
+6772,60069,WALL·E (2008),0.1779138462739268
+922,1221,"Godfather: Part II, The (1974)",0.17784711748342386
+197,231,Dumb & Dumber (Dumb and Dumber) (1994),0.1778281480962951
+512,595,Beauty and the Beast (1991),0.1777842860185231
+706,924,2001: A Space Odyssey (1968),0.17773135668601572
+914,1213,Goodfellas (1990),0.177313600616478
+1267,1682,"Truman Show, The (1998)",0.1772479447178248
+302,344,Ace Ventura: Pet Detective (1994),0.17722142760535944
+836,1097,E.T. the Extra-Terrestrial (1982),0.17715161823006073
+3562,4878,Donnie Darko (2001),0.177002625337294
+3141,4226,Memento (2000),0.1769445944831868
+436,500,Mrs. Doubtfire (1993),0.1769382512994249
+4360,6377,Finding Nemo (2003),0.17680707555322406
+945,1246,Dead Poets Society (1989),0.1767376154083226
+3873,5445,Minority Report (2002),0.17556763309896511
+325,367,"Mask, The (1994)",0.17548435738381393
+863,1136,Monty Python and the Holy Grail (1975),0.17520957517229527
+6743,59315,Iron Man (2008),0.17497232768269708
+385,442,Demolition Man (1993),0.1745832413818552
+3832,5378,Star Wars: Episode II - Attack of the Clones (2002),0.174559942565085
+5160,8360,Shrek 2 (2004),0.17398186065845345
+287,329,Star Trek: Generations (1994),0.17396535059530882
+6710,58559,"Dark Knight, The (2008)",0.17378973237750245
+176,208,Waterworld (1995),0.17357589177882823

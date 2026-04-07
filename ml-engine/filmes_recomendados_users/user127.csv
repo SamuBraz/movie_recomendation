@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-726,946,To Be or Not to Be (1942)
-554,665,Underground (1995)
-7344,78142,Baarìa (2009)
-8765,128832,The Last Five Years (2014)
-4129,5941,Drumline (2002)
-9525,173209,War Machine (2017)
-7178,72178,Welcome to Dongmakgol (2005)
-6821,61123,High School Musical 2 (2007)
-4783,7122,King of Hearts (1966)
-4520,6696,Bollywood/Hollywood (2002)
-1139,1490,B*A*P*S (1997)
-1215,1614,In & Out (1997)
-4429,6542,"Cuckoo, The (Kukushka) (2002)"
-1834,2436,Tea with Mussolini (1999)
-7254,74342,"Captain Newman, M.D. (1963)"
-2288,3035,Mister Roberts (1955)
-6649,56788,Charlie Wilson's War (2007)
-1159,1529,Nowhere (1997)
-7094,70334,Hannah Montana: The Movie (2009)
-6487,53123,Once (2006)
-2579,3448,"Good Morning, Vietnam (1987)"
-6064,40826,Rent (2005)
-4278,6245,Sweet Charity (1969)
-5453,26095,"Carabineers, The (Carabiniers, Les) (1963)"
-4125,5927,"Best Little Whorehouse in Texas, The (1982)"
-6230,46062,High School Musical (2006)
-4561,6776,Lagaan: Once Upon a Time in India (2001)
-3494,4775,Glitter (2001)
-7498,83086,Burlesque (2010)
-3182,4290,For the Boys (1991)
-4997,7714,Camelot (1967)
-4839,7223,D.O.A. (1950)
-5214,8502,Show Boat (1951)
-5126,8190,"Americanization of Emily, The (1964)"
-696,914,My Fair Lady (1964)
-6482,52975,Hairspray (2007)
-7711,90343,Footloose (2011)
-1653,2206,Suspicion (1941)
-980,1281,"Great Dictator, The (1940)"
-3306,4474,Beaches (1988)
-5506,26422,Hair (1979)
-3583,4912,Funny Girl (1968)
-5739,30816,"Phantom of the Opera, The (2004)"
-3321,4496,D.O.A. (1988)
-6686,58107,Step Up 2 the Streets (2008)
-3196,4308,Moulin Rouge (2001)
-4294,6273,In a Lonely Place (1950)
-4027,5694,Staying Alive (1983)
-7753,91261,Hipsters (Stilyagi) (2008)
-3484,4757,Rock Star (2001)
-6176,44761,Brick (2005)
-2308,3060,"Commitments, The (1991)"
-5889,33237,San Francisco (1936)
-4755,7080,42nd Street (1933)
-710,929,Foreign Correspondent (1940)
-2212,2940,Gilda (1946)
-1390,1907,Mulan (1998)
-5405,25757,"Jazz Singer, The (1927)"
-4448,6567,Buffalo Soldiers (2001)
-1934,2565,"King and I, The (1956)"
-3544,4848,Mulholland Drive (2001)
-3887,5461,Me Without You (2001)
-2301,3051,Anywhere But Here (1999)
-4344,6345,"Chorus Line, A (1985)"
-5287,8738,"Woman Is a Woman, A (femme est une femme, Une) (1961)"
-8798,130482,Too Late for Tears (1949)
-5433,25940,"Lady from Shanghai, The (1947)"
-7343,78116,Please Give (2010)
-7419,80572,I'm Still Here (2010)
-7623,87298,Everything Must Go (2010)
-2385,3163,Topsy-Turvy (1999)
-6082,41716,"Matador, The (2005)"
-1232,1641,"Full Monty, The (1997)"
-1415,1937,Going My Way (1944)
-972,1273,Down by Law (1986)
-6063,40819,Walk the Line (2005)
-1666,2241,Class (1983)
-9153,148652,The Ridiculous 6 (2015)
-8284,105835,"Double, The (2013)"
-4167,6001,"King of Comedy, The (1983)"
-1115,1454,SubUrbia (1997)
-5464,26158,Closely Watched Trains (Ostre sledované vlaky) (1966)
-1866,2478,¡Three Amigos! (1986)
-1944,2577,Metroland (1997)
-5479,26249,They Call Me Trinity (1971)
-3852,5416,Cherish (2002)
-9103,145150,The Dressmaker (2015)
-3292,4452,Made (2001)
-7358,78620,"Scalphunters, The (1968)"
-3648,5012,Yentl (1983)
-1218,1617,L.A. Confidential (1997)
-8629,118924,Top Five (2014)
-6452,52279,Are We Done Yet? (2007)
-6559,55020,"Ten, The (2007)"
-9240,155892,Me Him Her (2015)
-6192,45028,"Prairie Home Companion, A (2006)"
-5914,33725,It's All Gone Pete Tong (2004)
-3413,4642,Hedwig and the Angry Inch (2000)
-8323,107408,Only Old Men Are Going to Battle (V boy idut odni stariki) (1973)
-2410,3200,"Last Detail, The (1973)"
+,movie_id,title,score_recomendacao
+5134,8228,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",0.2940284232612285
+314,356,Forrest Gump (1994),0.2580586681784179
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.24467521489348543
+277,318,"Shawshank Redemption, The (1994)",0.24296079485570282
+922,1221,"Godfather: Part II, The (1974)",0.2387521590308455
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.23472648983369865
+951,1252,Chinatown (1974),0.2233128817662347
+257,296,Pulp Fiction (1994),0.22303510356849585
+1218,1617,L.A. Confidential (1997),0.22005348489147436
+97,110,Braveheart (1995),0.21895652193595916
+224,260,Star Wars: Episode IV - A New Hope (1977),0.21783101410145278
+398,457,"Fugitive, The (1993)",0.21420749612399737
+2078,2762,"Sixth Sense, The (1999)",0.21329221077624866
+896,1193,One Flew Over the Cuckoo's Nest (1975),0.2109462558069201
+2226,2959,Fight Club (1999),0.21043386763566094
+461,527,Schindler's List (1993),0.21000092479491872
+510,593,"Silence of the Lambs, The (1991)",0.20893994490539286
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.2085764351548739
+43,47,Seven (a.k.a. Se7en) (1995),0.20824463130208187
+1183,1580,Men in Black (a.k.a. MIB) (1997),0.20809038619856426
+302,344,Ace Ventura: Pet Detective (1994),0.20561644341045235
+602,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),0.20496567027010584
+659,858,"Godfather, The (1972)",0.20436887238928766
+508,590,Dances with Wolves (1990),0.20335294376612223
+909,1208,Apocalypse Now (1979),0.20330803438984707
+307,349,Clear and Present Danger (1994),0.20316388761678614
+20,21,Get Shorty (1995),0.2030098113938
+705,923,Citizen Kane (1941),0.2029093342893819
+123,150,Apollo 13 (1995),0.202819340492999
+472,539,Sleepless in Seattle (1993),0.2023914820499082
+337,380,True Lies (1994),0.20223248959483472
+46,50,"Usual Suspects, The (1995)",0.2021657316679155
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.20201119222852731
+615,780,Independence Day (a.k.a. ID4) (1996),0.20183463371194676
+1291,1721,Titanic (1997),0.20154989279330512
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.20096763649639904
+914,1213,Goodfellas (1990),0.2008777135325868
+1734,2329,American History X (1998),0.20077143839141384
+509,592,Batman (1989),0.20050002958578206
+1730,2324,Life Is Beautiful (La Vita è bella) (1997),0.20041925228549287
+506,588,Aladdin (1992),0.20037112713526073
+3640,4995,"Beautiful Mind, A (2001)",0.20018414930641415
+0,1,Toy Story (1995),0.1999619945507698
+1135,1485,Liar Liar (1997),0.1993650550573608
+923,1222,Full Metal Jacket (1987),0.19914251728896876
+977,1278,Young Frankenstein (1974),0.19904188177483265
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.1987949407856094
+809,1059,William Shakespeare's Romeo + Juliet (1996),0.19834671183565805
+1939,2571,"Matrix, The (1999)",0.19814570695401304
+520,608,Fargo (1996),0.1980677978782806
+5850,32587,Sin City (2005),0.19750979767570354
+546,648,Mission: Impossible (1996),0.197024660518129
+969,1270,Back to the Future (1985),0.1962774072869005
+2145,2858,American Beauty (1999),0.196249534026407
+2250,2987,Who Framed Roger Rabbit? (1988),0.1955475342173666
+322,364,"Lion King, The (1994)",0.19544239812802414
+138,165,Die Hard: With a Vengeance (1995),0.19498504882928072
+793,1036,Die Hard (1988),0.1944152665532029
+815,1073,Willy Wonka & the Chocolate Factory (1971),0.1943531262468628
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.19417418073807763
+1503,2028,Saving Private Ryan (1998),0.19417162541874733
+418,480,Jurassic Park (1993),0.1939858663847293
+1005,1307,When Harry Met Sally... (1989),0.19395305774157764
+4137,5952,"Lord of the Rings: The Two Towers, The (2002)",0.1938857221665798
+1199,1597,Conspiracy Theory (1997),0.19386255956773615
+3141,4226,Memento (2000),0.19355261065524715
+1083,1407,Scream (1996),0.1933836520500359
+964,1265,Groundhog Day (1993),0.19325012941577155
+412,474,In the Line of Fire (1993),0.1932226957467314
+2014,2683,Austin Powers: The Spy Who Shagged Me (1999),0.19293239926581937
+217,253,Interview with the Vampire: The Vampire Chronicles (1994),0.19260479439672906
+5917,33794,Batman Begins (2005),0.19224364925723036
+512,595,Beauty and the Beast (1991),0.1922200013175731
+1261,1676,Starship Troopers (1997),0.19212149802874673
+7154,71535,Zombieland (2009),0.19203064526607394
+514,597,Pretty Woman (1990),0.19183476933413607
+957,1258,"Shining, The (1980)",0.19082500151493198
+3194,4306,Shrek (2001),0.1906384920138325
+1181,1573,Face/Off (1997),0.19032975943174335
+1797,2396,Shakespeare in Love (1998),0.19013274540637917
+24,25,Leaving Las Vegas (1995),0.19008381029042826
+694,912,Casablanca (1942),0.19001319313311932
+899,1197,"Princess Bride, The (1987)",0.18992014745269384
+1487,2012,Back to the Future Part III (1990),0.1896781621586162
+436,500,Mrs. Doubtfire (1993),0.1895090690980043
+901,1199,Brazil (1985),0.18939778029529566
+2808,3753,"Patriot, The (2000)",0.18913950458288104
+507,589,Terminator 2: Judgment Day (1991),0.1889702102260574
+921,1220,"Blues Brothers, The (1980)",0.18884404147205655
+7372,79132,Inception (2010),0.18858772188418468
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.18828951562433063
+1322,1784,As Good as It Gets (1997),0.1881508515144998
+6710,58559,"Dark Knight, The (2008)",0.18809106205329587
+98,111,Taxi Driver (1976),0.1880154570037081
+2944,3948,Meet the Parents (2000),0.1879659224951733
+5,6,Heat (1995),0.18763634731746925
+6016,38061,Kiss Kiss Bang Bang (2005),0.18752622835530963
+701,919,"Wizard of Oz, The (1939)",0.18742832624509875
+3167,4262,Scarface (1983),0.1873877125366906
+443,508,Philadelphia (1993),0.1870254131078632

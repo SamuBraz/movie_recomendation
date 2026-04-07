@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-6626,56152,Enchanted (2007)
-6260,47124,"Ant Bully, The (2006)"
-7530,84637,Gnomeo & Juliet (2011)
-5819,32031,Robots (2005)
-3194,4306,Shrek (2001)
-8802,130520,Home (2015)
-8895,134853,Inside Out (2015)
-3568,4886,"Monsters, Inc. (2001)"
-6194,45074,"Wild, The (2006)"
-9410,166461,Moana (2016)
-6486,53121,Shrek the Third (2007)
-8219,103755,Turbo (2013)
-1706,2294,Antz (1998)
-7360,78637,Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010)
-8921,136016,The Good Dinosaur (2015)
-7069,69644,Ice Age: Dawn of the Dinosaurs (2009)
-6047,40339,Chicken Little (2005)
-6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007)
-9210,152081,Zootopia (2016)
-6948,65577,"Tale of Despereaux, The (2008)"
-9267,157865,Ratchet & Clank (2016)
-6903,63859,Bolt (2008)
-7805,92348,Puss in Boots (Nagagutsu o haita neko) (1969)
-3000,4016,"Emperor's New Groove, The (2000)"
-1390,1907,Mulan (1998)
-5977,36397,Valiant (2005)
-559,673,Space Jam (1996)
-2809,3754,"Adventures of Rocky and Bullwinkle, The (2000)"
-7550,85261,Mars Needs Moms (2011)
-0,1,Toy Story (1995)
-5490,26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix) (1976)"
-7467,81847,Tangled (2010)
-812,1064,Aladdin and the King of Thieves (1996)
-9508,172547,Despicable Me 3 (2017)
-5901,33615,Madagascar (2005)
-7587,86298,Rio (2011)
-7302,76093,How to Train Your Dragon (2010)
-8411,110655,Rio 2 (2014)
-9598,178827,Paddington 2 (2017)
-8357,108932,The Lego Movie (2014)
-6205,45431,Over the Hedge (2006)
-8918,135887,Minions (2015)
-5533,26590,G.I. Joe: The Movie (1987)
-5374,8961,"Incredibles, The (2004)"
-7619,87222,Kung Fu Panda 2 (2011)
-7202,72701,Planet 51 (2009)
-8422,111146,Alpha and Omega 3: The Great Wolf Games (2014)
-3745,5218,Ice Age (2002)
-6267,47404,Mind Game (2004)
-6881,62999,Madagascar: Escape 2 Africa (2008)
-5620,27155,"Batman/Superman Movie, The (1998)"
-5160,8360,Shrek 2 (2004)
-8039,98243,Rise of the Guardians (2012)
-8303,106696,Frozen (2013)
-9110,145935,"Peanuts Movie, The (2015)"
-6455,52287,Meet the Robinsons (2007)
-5376,8965,"Polar Express, The (2004)"
-7733,90647,Puss in Boots (2011)
-1599,2141,"American Tail, An (1986)"
-7917,95311,Presto (2008)
-8723,126921,The Fox and the Hound 2 (2006)
-6134,43869,Curious George (2006)
-6879,62956,Futurama: Bender's Game (2008)
-8397,110130,"Nut Job, The (2014)"
-2103,2797,Big (1988)
-8598,117851,Penguins of Madagascar (2014)
-2174,2890,Three Kings (1999)
-2355,3114,Toy Story 2 (1999)
-7639,87876,Cars 2 (2011)
-534,631,All Dogs Go to Heaven 2 (1996)
-2803,3745,Titan A.E. (2000)
-1584,2123,All Dogs Go to Heaven (1989)
-488,558,"Pagemaster, The (1994)"
-6696,58299,Horton Hears a Who! (2008)
-478,546,Super Mario Bros. (1993)
-1555,2092,"Return of Jafar, The (1994)"
-8977,138702,Feast (2014)
-6785,60365,Frosty the Snowman (1969)
-7760,91355,Asterix and the Vikings (Astérix et les Vikings) (2006)
-3876,5448,Hey Arnold! The Movie (2002)
-5470,26183,Asterix and Cleopatra (Astérix et Cléopâtre) (1968)
-1480,2005,"Goonies, The (1985)"
-7374,79139,"Sorcerer's Apprentice, The (2010)"
-7180,72226,Fantastic Mr. Fox (2009)
-7455,81564,Megamind (2010)
-6347,49274,Happy Feet (2006)
-1757,2355,"Bug's Life, A (1998)"
-545,647,Courage Under Fire (1996)
-6313,48414,Open Season (2006)
-8822,131656,Shaun the Sheep Movie (2015)
-7184,72356,Partly Cloudy (2009)
-6149,44022,Ice Age 2: The Meltdown (2006)
-5666,27619,"Lion King 1½, The (2004)"
-9532,173351,Wow! A Talking Fish! (1983)
-5384,8974,"SpongeBob SquarePants Movie, The (2004)"
-6620,55995,Beowulf (2007)
-8349,108540,Ernest & Célestine (Ernest et Célestine) (2012)
-5352,8919,P.S. (2004)
-7538,84944,Rango (2011)
-7887,94833,"Pirates! Band of Misfits, The (2012)"
+,movie_id,title,score_recomendacao
+2355,3114,Toy Story 2 (1999),0.3858591614221847
+0,1,Toy Story (1995),0.37990546465183705
+8719,126430,The Pacific (2010),0.30696021294932463
+4165,5995,"Pianist, The (2002)",0.29107378952115043
+314,356,Forrest Gump (1994),0.2681799024136777
+2836,3793,X-Men (2000),0.25887909064985626
+512,595,Beauty and the Beast (1991),0.25862814398168654
+97,110,Braveheart (1995),0.25814630181483694
+1939,2571,"Matrix, The (1999)",0.2578338024997403
+961,1262,"Great Escape, The (1963)",0.2569859653670215
+277,318,"Shawshank Redemption, The (1994)",0.2564802871882624
+5227,8533,"Notebook, The (2004)",0.25361814822344675
+4334,6333,X2: X-Men United (2003),0.2527990286318277
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.249709251335627
+46,50,"Usual Suspects, The (1995)",0.24821927945758376
+6710,58559,"Dark Knight, The (2008)",0.24754390232542056
+7258,74458,Shutter Island (2010),0.24515540713731254
+337,380,True Lies (1994),0.24447543212921424
+907,1206,"Clockwork Orange, A (1971)",0.2435324953300042
+1503,2028,Saving Private Ryan (1998),0.24337288211122088
+6698,58303,"Counterfeiters, The (Die Fälscher) (2007)",0.24292366059352932
+7016,68319,X-Men Origins: Wolverine (2009),0.24253158230242217
+9259,157296,Finding Dory (2016),0.24248941426426135
+5735,30793,Charlie and the Chocolate Factory (2005),0.24128911028242683
+322,364,"Lion King, The (1994)",0.24017010917156978
+4639,6934,"Matrix Revolutions, The (2003)",0.23878467109404505
+1734,2329,American History X (1998),0.238474284077911
+7646,88140,Captain America: The First Avenger (2011),0.23823272123754385
+4159,5989,Catch Me If You Can (2002),0.2371317927008241
+659,858,"Godfather, The (1972)",0.23625647256118493
+8425,111362,X-Men: Days of Future Past (2014),0.2357866079773993
+3819,5349,Spider-Man (2002),0.2351717396514176
+5374,8961,"Incredibles, The (2004)",0.23479409766205364
+217,253,Interview with the Vampire: The Vampire Chronicles (1994),0.23471214743572377
+2145,2858,American Beauty (1999),0.23469511486442168
+418,480,Jurassic Park (1993),0.23413390765309472
+520,608,Fargo (1996),0.23320640086379701
+7039,68954,Up (2009),0.2331550488651886
+4615,6874,Kill Bill: Vol. 1 (2003),0.23295188552595378
+3568,4886,"Monsters, Inc. (2001)",0.23212095247848222
+990,1291,Indiana Jones and the Last Crusade (1989),0.23186307101979675
+4351,6365,"Matrix Reloaded, The (2003)",0.23131812431697946
+325,367,"Mask, The (1994)",0.23120118081827798
+3194,4306,Shrek (2001),0.23101784849451576
+6941,65216,Defiance (2008),0.23057150592041914
+5664,27611,Battlestar Galactica (2003),0.23005981883916135
+7324,77561,Iron Man 2 (2010),0.22972553291770734
+7620,87232,X-Men: First Class (2011),0.2296667928038023
+510,593,"Silence of the Lambs, The (1991)",0.22944382133709645
+509,592,Batman (1989),0.22904235704782017
+7302,76093,How to Train Your Dragon (2010),0.2287295780168827
+5972,35836,"40-Year-Old Virgin, The (2005)",0.22872317120073754
+3832,5378,Star Wars: Episode II - Attack of the Clones (2002),0.2281423574758592
+4935,7438,Kill Bill: Vol. 2 (2004),0.22810435651538813
+43,47,Seven (a.k.a. Se7en) (1995),0.22807751686761565
+3640,4995,"Beautiful Mind, A (2001)",0.2275713678785756
+506,588,Aladdin (1992),0.22735901771920344
+3010,4027,"O Brother, Where Art Thou? (2000)",0.2266649393537442
+138,165,Die Hard: With a Vengeance (1995),0.22653782984062332
+6209,45499,X-Men: The Last Stand (2006),0.2265177562915016
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.22650880337205104
+7465,81834,Harry Potter and the Deathly Hallows: Part 1 (2010),0.22585451983604876
+546,648,Mission: Impossible (1996),0.22538397679393865
+2078,2762,"Sixth Sense, The (1999)",0.22475313409157666
+4137,5952,"Lord of the Rings: The Two Towers, The (2002)",0.22429199080908727
+6772,60069,WALL·E (2008),0.22403167621040088
+793,1036,Die Hard (1988),0.223699561399818
+899,1197,"Princess Bride, The (1987)",0.22367896080317
+939,1240,"Terminator, The (1984)",0.223348292228912
+6746,59369,Taken (2008),0.22318172684134036
+474,541,Blade Runner (1982),0.22283115467296832
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.2225033504944844
+3141,4226,Memento (2000),0.22233459648865186
+1398,1917,Armageddon (1998),0.22221410558234214
+792,1035,"Sound of Music, The (1965)",0.22211972189611184
+615,780,Independence Day (a.k.a. ID4) (1996),0.22205947051479052
+5391,8984,Ocean's Twelve (2004),0.22182043589509565
+2103,2797,Big (1988),0.22179907765467874
+307,349,Clear and Present Danger (1994),0.2216060358053661
+507,589,Terminator 2: Judgment Day (1991),0.2214163245359794
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.22138646403342307
+472,539,Sleepless in Seattle (1993),0.2213379739598108
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.22054741356151933
+951,1252,Chinatown (1974),0.22046035118701207
+224,260,Star Wars: Episode IV - A New Hope (1977),0.22043789615378612
+5260,8636,Spider-Man 2 (2004),0.22042804180602169
+436,500,Mrs. Doubtfire (1993),0.22003015768087616
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.21988746949384383
+422,485,Last Action Hero (1993),0.2198844757298532
+4909,7361,Eternal Sunshine of the Spotless Mind (2004),0.2197936207466059
+7455,81564,Megamind (2010),0.2196756739384823
+2808,3753,"Patriot, The (2000)",0.21957080928877581
+1158,1527,"Fifth Element, The (1997)",0.21911963034003068
+3873,5445,Minority Report (2002),0.21888796170083696
+914,1213,Goodfellas (1990),0.21858486435797747
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.21852311424039003
+5917,33794,Batman Begins (2005),0.2185006672830955
+1284,1704,Good Will Hunting (1997),0.21827260757203856
+5850,32587,Sin City (2005),0.21809318741788608
+1522,2054,"Honey, I Shrunk the Kids (1989)",0.2179918760498779

@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-3791,5300,3:10 to Yuma (1957)
-7353,78467,Jonah Hex (2010)
-8642,119828,A Man Called Blade (1977)
-9495,171759,The Beguiled (2017)
-5203,8481,Northwest Passage (1940)
-263,303,"Quick and the Dead, The (1995)"
-9348,162350,The Magnificent Seven (2016)
-5673,27683,Tremors 4: The Legend Begins (2004)
-8864,133802,Slow West (2015)
-4710,7027,Silverado (1985)
-6834,61289,Sukiyaki Western Django (2008)
-2454,3267,"Mariachi, El (1992)"
-5101,8094,Bad Day at Black Rock (1955)
-7287,75389,"Burrowers, The (2008)"
-4651,6950,"Missing, The (2003)"
-6037,39435,"Legend of Zorro, The (2005)"
-1903,2527,Westworld (1973)
-485,553,Tombstone (1993)
-5049,7894,"Duck, You Sucker (1971)"
-1062,1379,Young Guns II (1990)
-5647,27450,Blueberry (2004)
-5595,26901,Last of the Dogmen (1995)
-1403,1922,Whatever (1998)
-7833,93193,Red Hill (2010)
-515,599,"Wild Bunch, The (1969)"
-1061,1378,Young Guns (1988)
-3462,4721,American Outlaws (2001)
-3613,4962,Texas Rangers (2001)
-178,210,Wild Bill (1995)
-4746,7070,Red River (1948)
-4748,7072,Stagecoach (1939)
-2701,3624,Shanghai Noon (2000)
-6850,61986,Appaloosa (2008)
-7441,81132,Rubber (2010)
-5568,26750,Quigley Down Under (1990)
-3866,5435,Hombre (1967)
-3023,4042,"Alamo, The (1960)"
-2610,3494,True Grit (1969)
-953,1254,"Treasure of the Sierra Madre, The (1948)"
-903,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)"
-360,416,Bad Girls (1994)
-1523,2055,Hot Lead and Cold Feet (1978)
-5545,26649,Lonesome Dove (1989)
-8763,128695,The Dark Valley (2014)
-6066,40870,C.R.A.Z.Y. (2005)
-4029,5699,Tom Horn (1980)
-6122,43419,Bandidas (2006)
-2844,3806,Mackenna's Gold (1969)
-910,1209,Once Upon a Time in the West (C'era una volta il West) (1968)
-4479,6617,Open Range (2003)
-6765,59947,"Protector, The (1985)"
-3478,4745,O (2001)
-3486,4765,L.I.E. (2001)
-4063,5788,All or Nothing (2002)
-5051,7896,Ride the High Country (1962)
-2222,2951,"Fistful of Dollars, A (Per un pugno di dollari) (1964)"
-4367,6386,Nevada Smith (1966)
-2179,2896,Alvarez Kelly (1966)
-340,383,Wyatt Earp (1994)
-7538,84944,Rango (2011)
-3208,4329,Rio Bravo (1959)
-3182,4290,For the Boys (1991)
-7111,70728,Bronson (2009)
-5846,32515,Walker (1987)
-6482,52975,Hairspray (2007)
-6866,62437,W. (2008)
-2320,3074,Jeremiah Johnson (1972)
-7462,81791,Somewhere (2010)
-8764,128736,I'm Here (2010)
-766,1008,"Davy Crockett, King of the Wild Frontier (1955)"
-343,386,S.F.W. (1994)
-2290,3037,Little Big Man (1970)
-5992,37211,Go West (1940)
-3675,5063,One-Eyed Jacks (1961)
-4385,6429,Winchester '73 (1950)
-7098,70492,Winds of the Wasteland (1936)
-1377,1887,Almost Heroes (1998)
-6902,63853,Australia (2008)
-6982,66785,"Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom) (2008)"
-3452,4709,Paint Your Wagon (1969)
-326,368,Maverick (1994)
-1225,1626,Fire Down Below (1997)
-7711,90343,Footloose (2011)
-6570,55116,"Hunting Party, The (2007)"
-3830,5375,"Harvey Girls, The (1946)"
-4397,6461,"Unforgiven, The (1960)"
-3271,4428,"Misfits, The (1961)"
-2197,2921,High Plains Drifter (1973)
-3306,4474,Beaches (1988)
-6557,54997,3:10 to Yuma (2007)
-6933,65037,Ben X (2007)
-6445,51933,Pride (2007)
-4517,6691,Dust (2001)
-5506,26422,Hair (1979)
-8205,103384,"Lone Ranger, The (2013)"
-8541,115216,"Salvation, The (2014)"
-6082,41716,"Matador, The (2005)"
-3453,4710,"Shootist, The (1976)"
-8284,105835,"Double, The (2013)"
-5953,34397,"Order, The (2001)"
+,movie_id,title,score_recomendacao
+903,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",0.26933323028222883
+1318,1772,Blues Brothers 2000 (1998),0.2662717563007203
+2222,2951,"Fistful of Dollars, A (Per un pugno di dollari) (1964)",0.2511501853377331
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.24377568477274297
+43,47,Seven (a.k.a. Se7en) (1995),0.23900536520833926
+97,110,Braveheart (1995),0.23531691793275983
+792,1035,"Sound of Music, The (1965)",0.23107729027377802
+832,1093,"Doors, The (1991)",0.2298172158968272
+4608,6863,School of Rock (2003),0.22818228323369855
+1503,2028,Saving Private Ryan (1998),0.22771281330059973
+508,590,Dances with Wolves (1990),0.22717444030253173
+277,318,"Shawshank Redemption, The (1994)",0.22690149314893018
+2907,3897,Almost Famous (2000),0.22511316543651144
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.22067883410471367
+965,1266,Unforgiven (1992),0.22048075662569488
+8063,99114,Django Unchained (2012),0.21946149060834352
+314,356,Forrest Gump (1994),0.21894744669352836
+322,364,"Lion King, The (1994)",0.21776182095972246
+510,593,"Silence of the Lambs, The (1991)",0.21694506088742715
+1997,2657,"Rocky Horror Picture Show, The (1975)",0.21689353903640737
+2197,2921,High Plains Drifter (1973),0.21500534707109548
+136,163,Desperado (1995),0.21493834425211392
+418,480,Jurassic Park (1993),0.2143349396565657
+398,457,"Fugitive, The (1993)",0.2138433587415885
+257,296,Pulp Fiction (1994),0.21327311611259217
+62,70,From Dusk Till Dawn (1996),0.2122643648021153
+2674,3578,Gladiator (2000),0.21171717466602646
+1319,1777,"Wedding Singer, The (1998)",0.21138246858799362
+1494,2019,Seven Samurai (Shichinin no samurai) (1954),0.21129654976207404
+615,780,Independence Day (a.k.a. ID4) (1996),0.210632083332753
+5374,8961,"Incredibles, The (2004)",0.21059126070378867
+793,1036,Die Hard (1988),0.21051619466513943
+520,608,Fargo (1996),0.2105147866718937
+899,1197,"Princess Bride, The (1987)",0.21006245084678846
+98,111,Taxi Driver (1976),0.20736755601376505
+1475,2000,Lethal Weapon (1987),0.207214769187229
+217,253,Interview with the Vampire: The Vampire Chronicles (1994),0.20712946993379372
+509,592,Batman (1989),0.20679858139451077
+0,1,Toy Story (1995),0.20591903789442878
+2808,3753,"Patriot, The (2000)",0.20579937823797806
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.20536422010143437
+2847,3809,What About Bob? (1991),0.20509555543844918
+6422,51255,Hot Fuzz (2007),0.20484134324081815
+1734,2329,American History X (1998),0.20473093015682406
+224,260,Star Wars: Episode IV - A New Hope (1977),0.20467380579570066
+3141,4226,Memento (2000),0.20352605688302003
+659,858,"Godfather, The (1972)",0.20346861155059898
+123,150,Apollo 13 (1995),0.20325482497370279
+2078,2762,"Sixth Sense, The (1999)",0.2027716199432637
+969,1270,Back to the Future (1985),0.20244043783231216
+4018,5679,"Ring, The (2002)",0.2021435884353002
+907,1206,"Clockwork Orange, A (1971)",0.2012448016158041
+5917,33794,Batman Begins (2005),0.20101171695155282
+6063,40819,Walk the Line (2005),0.2008735989794349
+1866,2478,¡Three Amigos! (1986),0.20069566963346552
+1939,2571,"Matrix, The (1999)",0.20057748935785008
+1445,1968,"Breakfast Club, The (1985)",0.199608189313524
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.19887755541225896
+263,303,"Quick and the Dead, The (1995)",0.19817478007842249
+939,1240,"Terminator, The (1984)",0.19764753084501366
+485,553,Tombstone (1993),0.19762917773864255
+461,527,Schindler's List (1993),0.1976117841389319
+2014,2683,Austin Powers: The Spy Who Shagged Me (1999),0.19738741359537088
+2145,2858,American Beauty (1999),0.19733160273075437
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.1973038460996297
+2226,2959,Fight Club (1999),0.196903732322768
+2038,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),0.19646756224202405
+504,586,Home Alone (1990),0.19635592996799275
+2836,3793,X-Men (2000),0.19595724404015946
+506,588,Aladdin (1992),0.19586807432884487
+2605,3481,High Fidelity (2000),0.19559410711084496
+934,1234,"Sting, The (1973)",0.19539896572315507
+197,231,Dumb & Dumber (Dumb and Dumber) (1994),0.19522712259170705
+2355,3114,Toy Story 2 (1999),0.19508281860015467
+6710,58559,"Dark Knight, The (2008)",0.19482702060901844
+3010,4027,"O Brother, Where Art Thou? (2000)",0.19480333224912294
+507,589,Terminator 2: Judgment Day (1991),0.1944665689108535
+990,1291,Indiana Jones and the Last Crusade (1989),0.19432824917490585
+1284,1704,Good Will Hunting (1997),0.194036328053306
+334,377,Speed (1994),0.19401075638735937
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.19387897950707142
+923,1222,Full Metal Jacket (1987),0.193662868646466
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.1936212476620143
+2701,3624,Shanghai Noon (2000),0.19361942324823084
+1576,2115,Indiana Jones and the Temple of Doom (1984),0.19352168211991516
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.19316149778548833
+914,1213,Goodfellas (1990),0.1931307005003438
+2097,2791,Airplane! (1980),0.19304192616235927
+820,1080,Monty Python's Life of Brian (1979),0.19299622267031735
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.19271474183199236
+325,367,"Mask, The (1994)",0.1924990271015149
+7372,79132,Inception (2010),0.19213015370772488
+337,380,True Lies (1994),0.19200442126349965
+2440,3253,Wayne's World (1992),0.19177118250301972
+412,474,In the Line of Fire (1993),0.19165155778039983
+46,50,"Usual Suspects, The (1995)",0.1915129366601248
+55,62,Mr. Holland's Opus (1995),0.19130655096462404
+1917,2542,"Lock, Stock & Two Smoking Barrels (1998)",0.1910986711698648
+2579,3448,"Good Morning, Vietnam (1987)",0.19097030955329597
+1623,2167,Blade (1998),0.1909272192695236

@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-6140,43917,Eight Below (2006)
-4795,7143,"Last Samurai, The (2003)"
-2174,2890,Three Kings (1999)
-5385,8977,Alexander (2004)
-7333,77866,Robin Hood (2010)
-8719,126430,The Pacific (2010)
-6306,48319,Flyboys (2006)
-7162,71810,Legionnaire (1998)
-5262,8640,King Arthur (2004)
-6094,42015,Casanova (2005)
-3483,4756,"Musketeer, The (2001)"
-5790,31617,El Cid (1961)
-5681,27708,Helen of Troy (2003)
-5707,27816,Saints and Soldiers (2003)
-626,798,Daylight (1996)
-5434,25946,"Three Musketeers, The (1948)"
-3608,4956,"Stunt Man, The (1980)"
-3531,4826,"Big Red One, The (1980)"
-7800,92234,Red Tails (2012)
-5721,27865,Azumi (2003)
-4877,7307,Flesh & Blood (1985)
-3059,4103,Empire of the Sun (1987)
-6509,53550,Rescue Dawn (2006)
-6580,55247,Into the Wild (2007)
-5953,34397,"Order, The (2001)"
-3085,4142,Left Behind: The Movie (2000)
-8286,105954,All Is Lost (2013)
-7676,89087,Colombiana (2011)
-2722,3654,"Guns of Navarone, The (1961)"
-6681,58025,Jumper (2008)
-6666,57499,Heaven and Earth (Ten to Chi to) (1990)
-6570,55116,"Hunting Party, The (2007)"
-6312,48412,"Guardian, The (2006)"
-77,86,White Squall (1996)
-6330,48774,Children of Men (2006)
-5161,8361,"Day After Tomorrow, The (2004)"
-3512,4800,King Solomon's Mines (1937)
-3213,4339,Von Ryan's Express (1965)
-5476,26236,"White Sun of the Desert, The (Beloe solntse pustyni) (1970)"
-6818,61026,Red Cliff (Chi bi) (2008)
-8589,117529,Jurassic World (2015)
-3526,4818,Extreme Days (2001)
-3901,5479,K-19: The Widowmaker (2002)
-1488,2013,"Poseidon Adventure, The (1972)"
-1747,2344,Runaway Train (1985)
-961,1262,"Great Escape, The (1963)"
-2545,3406,Captain Horatio Hornblower R.N. (1951)
-8587,117466,In the Heart of the Sea (2015)
-4063,5788,All or Nothing (2002)
-5665,27618,"Sound of Thunder, A (2005)"
-6634,56286,I'm Not There (2007)
-8889,134775,Dragon Blade (2015)
-4849,7248,"Suriyothai (a.k.a. Legend of Suriyothai, The) (2001)"
-4764,7090,Hero (Ying xiong) (2002)
-1821,2421,"Karate Kid, Part II, The (1986)"
-5303,8795,Musa the Warrior (Musa) (2001)
-1900,2524,"Towering Inferno, The (1974)"
-5379,8968,After the Sunset (2004)
-8840,132462,Sword of Vengeance (2014)
-2177,2893,Plunkett & MaCleane (1999)
-7224,73321,"Book of Eli, The (2010)"
-400,459,"Getaway, The (1994)"
-4005,5657,Flashback (1990)
-9450,168456,Mercury Plains (2016)
-1772,2370,"Emerald Forest, The (1985)"
-4391,6448,"Flight of the Phoenix, The (1965)"
-7884,94780,Snow White and the Huntsman (2012)
-986,1287,Ben-Hur (1959)
-7767,91500,The Hunger Games (2012)
-7305,76175,Clash of the Titans (2010)
-7409,80219,Machete (2010)
-2327,3082,"World Is Not Enough, The (1999)"
-9497,171765,Okja (2017)
-3414,4643,Planet of the Apes (2001)
-1803,2403,First Blood (Rambo: First Blood) (1982)
-9673,187031,Jurassic World: Fallen Kingdom (2018)
-7319,77364,"Losers, The (2010)"
-9522,173145,War for the Planet of the Apes (2017)
-1171,1552,Con Air (1997)
-7492,82765,Little Big Soldier (Da bing xiao jiang) (2010)
-5613,27036,Merlin (1998)
-9376,164226,Maximum Ride (2016)
-5382,8972,National Treasure (2004)
-1145,1499,Anaconda (1997)
-3615,4964,Baran (2001)
-8596,117646,Dragonheart 2: A New Beginning (2000)
-8573,116887,Exodus: Gods and Kings (2014)
-8701,123553,In the Name of the King III (2014)
-7849,93610,Space Battleship Yamato (2010)
-2252,2989,For Your Eyes Only (1981)
-7394,79695,"Expendables, The (2010)"
-4544,6750,Anything Else (2003)
-545,647,Courage Under Fire (1996)
-9245,156607,The Huntsman Winter's War (2016)
-3478,4745,O (2001)
-3486,4765,L.I.E. (2001)
-9,10,GoldenEye (1995)
-9233,155358,Camino (2016)
-378,434,Cliffhanger (1993)
-422,485,Last Action Hero (1993)
+,movie_id,title,score_recomendacao
+4351,6365,"Matrix Reloaded, The (2003)",0.4221020141076005
+4639,6934,"Matrix Revolutions, The (2003)",0.4069118272302748
+4935,7438,Kill Bill: Vol. 2 (2004),0.3187298865432371
+7768,91529,"Dark Knight Rises, The (2012)",0.31075429273860483
+509,592,Batman (1989),0.29836771663832806
+97,110,Braveheart (1995),0.2778574973514305
+5917,33794,Batman Begins (2005),0.27615620593303664
+257,296,Pulp Fiction (1994),0.26844528563845343
+126,153,Batman Forever (1995),0.26446440038608626
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.26064572921392143
+461,527,Schindler's List (1993),0.2589503500579695
+2836,3793,X-Men (2000),0.2530979454008306
+510,593,"Silence of the Lambs, The (1991)",0.2526584697441137
+277,318,"Shawshank Redemption, The (1994)",0.24822844634286695
+549,653,Dragonheart (1996),0.24573616333211815
+2983,3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",0.24444760031194168
+6433,51662,300 (2007),0.2442410443629192
+939,1240,"Terminator, The (1984)",0.24335765787477662
+3190,4299,"Knight's Tale, A (2001)",0.24254400092091166
+1183,1580,Men in Black (a.k.a. MIB) (1997),0.24219428640270974
+1181,1573,Face/Off (1997),0.24161812870879668
+5681,27708,Helen of Troy (2003),0.24047964650524534
+3141,4226,Memento (2000),0.23913746074460415
+1730,2324,Life Is Beautiful (La Vita è bella) (1997),0.23874639149290253
+546,648,Mission: Impossible (1996),0.23829523543686354
+418,480,Jurassic Park (1993),0.23711807074890523
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.2370903441198299
+899,1197,"Princess Bride, The (1987)",0.23660044682810544
+990,1291,Indiana Jones and the Last Crusade (1989),0.23479073881149248
+6453,52281,Grindhouse (2007),0.2341013085034938
+2808,3753,"Patriot, The (2000)",0.23390673820080232
+5374,8961,"Incredibles, The (2004)",0.23291643921295396
+2226,2959,Fight Club (1999),0.23281397842447357
+1060,1377,Batman Returns (1992),0.23183405792248485
+3819,5349,Spider-Man (2002),0.23133421561755757
+1503,2028,Saving Private Ryan (1998),0.2308540762647323
+3873,5445,Minority Report (2002),0.23055341046564778
+916,1215,Army of Darkness (1993),0.2303646161854676
+615,780,Independence Day (a.k.a. ID4) (1996),0.23029749416839376
+4137,5952,"Lord of the Rings: The Two Towers, The (2002)",0.23026179011001366
+123,150,Apollo 13 (1995),0.23011906506707333
+3194,4306,Shrek (2001),0.2301003418858726
+4159,5989,Catch Me If You Can (2002),0.2299632250161623
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.2298383043537458
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.2291782975936238
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.2281376435159948
+969,1270,Back to the Future (1985),0.22690546793058788
+520,608,Fargo (1996),0.22688316789179952
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.22591418388924375
+6330,48774,Children of Men (2006),0.22561724220744
+6151,44191,V for Vendetta (2006),0.22492080418887683
+512,595,Beauty and the Beast (1991),0.22462374026244808
+474,541,Blade Runner (1982),0.22455146045516522
+337,380,True Lies (1994),0.22424588573978163
+506,588,Aladdin (1992),0.22405827220830948
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.22400683927229856
+1291,1721,Titanic (1997),0.2239722910138412
+507,589,Terminator 2: Judgment Day (1991),0.22350805239884014
+0,1,Toy Story (1995),0.2235044133691532
+322,364,"Lion King, The (1994)",0.22316619416181102
+1158,1527,"Fifth Element, The (1997)",0.22301253145708264
+46,50,"Usual Suspects, The (1995)",0.22193510657207755
+559,673,Space Jam (1996),0.2217969092615537
+1322,1784,As Good as It Gets (1997),0.2217955902205539
+7372,79132,Inception (2010),0.22128293418702072
+224,260,Star Wars: Episode IV - A New Hope (1977),0.22110818810974625
+793,1036,Die Hard (1988),0.22083818410820366
+6772,60069,WALL·E (2008),0.22029130501454589
+4176,6016,City of God (Cidade de Deus) (2002),0.2200423146142447
+334,377,Speed (1994),0.2190210868312601
+3640,4995,"Beautiful Mind, A (2001)",0.21812104369843738
+2966,3977,Charlie's Angels (2000),0.2180473348245488
+1734,2329,American History X (1998),0.21788083918662876
+229,266,Legends of the Fall (1994),0.2175837604521435
+5669,27660,"Animatrix, The (2003)",0.217460110733296
+138,165,Die Hard: With a Vengeance (1995),0.2173428723882012
+472,539,Sleepless in Seattle (1993),0.21711371055625972
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.21665277822743131
+311,353,"Crow, The (1994)",0.21664364029052124
+1076,1396,Sneakers (1992),0.21654591309814847
+863,1136,Monty Python and the Holy Grail (1975),0.21632764012230674
+1174,1562,Batman & Robin (1997),0.2162180631122252
+907,1206,"Clockwork Orange, A (1971)",0.215714976696773
+656,849,Escape from L.A. (1996),0.2155055225491107
+659,858,"Godfather, The (1972)",0.21530784907046885
+307,349,Clear and Present Danger (1994),0.215111598450805
+7620,87232,X-Men: First Class (2011),0.21422500203709124
+1284,1704,Good Will Hunting (1997),0.21408645410155822
+4334,6333,X2: X-Men United (2003),0.2138446266755053
+1261,1676,Starship Troopers (1997),0.21371046934823426
+3157,4246,Bridget Jones's Diary (2001),0.2136546340177632
+4795,7143,"Last Samurai, The (2003)",0.21331396562249014
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.21320078661243097
+2546,3408,Erin Brockovich (2000),0.2129321345522709
+217,253,Interview with the Vampire: The Vampire Chronicles (1994),0.21268112102797196
+5931,34048,War of the Worlds (2005),0.212348887431067
+1797,2396,Shakespeare in Love (1998),0.21228743047295498
+3568,4886,"Monsters, Inc. (2001)",0.21224574810334845
+2014,2683,Austin Powers: The Spy Who Shagged Me (1999),0.21215237356886785
+2145,2858,American Beauty (1999),0.21199575615572788

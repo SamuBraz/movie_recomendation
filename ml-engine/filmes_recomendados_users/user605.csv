@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-7633,87529,Your Highness (2011)
-422,485,Last Action Hero (1993)
-1480,2005,"Goonies, The (1985)"
-2984,3997,Dungeons & Dragons (2000)
-7374,79139,"Sorcerer's Apprentice, The (2010)"
-6488,53125,Pirates of the Caribbean: At World's End (2007)
-6950,65588,"Gamers, The: Dorkness Rising (2008)"
-3582,4911,Jabberwocky (1977)
-2056,2735,"Golden Child, The (1986)"
-2798,3740,Big Trouble in Little China (1986)
-8712,125970,Halloweentown (1998)
-3576,4899,Black Knight (2001)
-222,258,"Kid in King Arthur's Court, A (1995)"
-6219,45672,Click (2006)
-9679,188301,Ant-Man and the Wasp (2018)
-478,546,Super Mario Bros. (1993)
-9376,164226,Maximum Ride (2016)
-2572,3440,Teenage Mutant Ninja Turtles III (1993)
-6723,58972,Nim's Island (2008)
-9182,150554,The Love Bug (1997)
-7496,82854,Gulliver's Travels (2010)
-3939,5540,Clash of the Titans (1981)
-8713,125974,Halloweentown High (2004)
-7108,70697,G-Force (2009)
-5798,31698,Son of the Mask (2005)
-5627,27251,"10th Kingdom, The (2000)"
-916,1215,Army of Darkness (1993)
-4323,6316,"Wiz, The (1978)"
-6163,44399,"Shaggy Dog, The (2006)"
-8361,109042,Knights of Badassdom (2013)
-3376,4591,Erik the Viking (1989)
-6065,40851,Zathura (2005)
-6626,56152,Enchanted (2007)
-7530,84637,Gnomeo & Juliet (2011)
-5613,27036,Merlin (1998)
-3889,5463,Reign of Fire (2002)
-549,653,Dragonheart (1996)
-6360,49649,Eragon (2006)
-7365,78893,"Last Airbender, The (2010)"
-974,1275,Highlander (1986)
-8683,122890,Warcraft (2016)
-1644,2193,Willow (1988)
-4809,7164,Peter Pan (2003)
-3194,4306,Shrek (2001)
-4999,7720,"Four Musketeers, The (1974)"
-6094,42015,Casanova (2005)
-7865,94015,Mirror Mirror (2012)
-3661,5039,Dragonslayer (1981)
-3631,4985,Sheena (1984)
-3302,4467,"Adventures of Baron Munchausen, The (1988)"
-3585,4915,"Beastmaster, The (1982)"
-1601,2143,Legend (1985)
-6732,59103,"Forbidden Kingdom, The (2008)"
-6266,47384,Zoom (2006)
-6115,42761,Casper Meets Wendy (1998)
-2608,3489,Hook (1991)
-2126,2826,"13th Warrior, The (1999)"
-8440,111785,Midnight Chronicles (2009)
-6194,45074,"Wild, The (2006)"
-3093,4153,Down to Earth (2001)
-6486,53121,Shrek the Third (2007)
-3568,4886,"Monsters, Inc. (2001)"
-2603,3479,Ladyhawke (1985)
-5236,8580,Into the Woods (1991)
-3855,5419,Scooby-Doo (2002)
-6448,51939,TMNT (Teenage Mutant Ninja Turtles) (2007)
-8637,119155,Night at the Museum: Secret of the Tomb (2014)
-2233,2968,Time Bandits (1981)
-8907,135532,The Last Witch Hunter (2015)
-4552,6764,"Rundown, The (2003)"
-8219,103755,Turbo (2013)
-349,393,Street Fighter (1994)
-6680,57951,Fool's Gold (2008)
-2897,3877,Supergirl (1984)
-1706,2294,Antz (1998)
-40,44,Mortal Kombat (1995)
-5852,32596,Sahara (2005)
-9410,166461,Moana (2016)
-9078,143355,Wonder Woman (2017)
-7127,71160,"Hunt For Gollum, The (2009)"
-5463,26152,Batman (1966)
-7342,78105,Prince of Persia: The Sands of Time (2010)
-5923,33836,Bewitched (2005)
-1775,2373,Red Sonja (1985)
-5565,26741,Mannequin 2: On the Move (1991)
-9683,188833,The Man Who Killed Don Quixote (2018)
-8687,122902,Fantastic Four (2015)
-4483,6624,Agent Cody Banks (2003)
-484,552,"Three Musketeers, The (1993)"
-5300,8782,Thunderbirds (2004)
-7679,89190,Conan the Barbarian (2011)
-7175,72165,Cirque du Freak: The Vampire's Assistant (2009)
-5912,33681,"Adventures of Sharkboy and Lavagirl 3-D, The (2005)"
-8220,103772,"Wolverine, The (2013)"
-1805,2405,"Jewel of the Nile, The (1985)"
-1806,2406,Romancing the Stone (1984)
-3629,4980,Bill & Ted's Bogus Journey (1991)
-8297,106491,47 Ronin (2013)
-3069,4121,Innerspace (1987)
-3174,4275,Krull (1983)
+,movie_id,title,score_recomendacao
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.6214990553216119
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.485750106381564
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.48056158025483364
+4076,5816,Harry Potter and the Chamber of Secrets (2002),0.4673568853465779
+7644,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),0.45427041346854413
+7127,71160,"Hunt For Gollum, The (2009)",0.4449757824008033
+7478,82169,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",0.443314357685348
+1577,2116,"Lord of the Rings, The (1978)",0.433113354673331
+7465,81834,Harry Potter and the Deathly Hallows: Part 1 (2010),0.41299791349672654
+6062,40815,Harry Potter and the Goblet of Fire (2005),0.41285453555829
+5735,30793,Charlie and the Chocolate Factory (2005),0.41100885592098335
+6522,54001,Harry Potter and the Order of the Phoenix (2007),0.40904130497868085
+3194,4306,Shrek (2001),0.4056625133386494
+6488,53125,Pirates of the Caribbean: At World's End (2007),0.3983089346788457
+701,919,"Wizard of Oz, The (1939)",0.38996217470012523
+1545,2081,"Little Mermaid, The (1989)",0.3800332691897743
+8303,106696,Frozen (2013),0.37795257028153795
+5160,8360,Shrek 2 (2004),0.37540441766118005
+8053,98809,"Hobbit: An Unexpected Journey, The (2012)",0.37149433173909363
+3903,5481,Austin Powers in Goldmember (2002),0.3707205966969185
+8296,106489,"Hobbit: The Desolation of Smaug, The (2013)",0.3669283736169356
+8682,122886,Star Wars: Episode VII - The Force Awakens (2015),0.3628921719250855
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.36269235894456364
+1487,2012,Back to the Future Part III (1990),0.359063373288389
+6221,45722,Pirates of the Caribbean: Dead Man's Chest (2006),0.3578216368963899
+5791,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),0.35777825672328056
+6626,56152,Enchanted (2007),0.3571688020684697
+506,588,Aladdin (1992),0.34737068385232606
+322,364,"Lion King, The (1994)",0.3456455387910041
+53,60,"Indian in the Cupboard, The (1995)",0.3414547886681225
+551,661,James and the Giant Peach (1996),0.33467961918595046
+5613,27036,Merlin (1998),0.3339926266889008
+785,1028,Mary Poppins (1964),0.3326297953734598
+7278,74789,Alice in Wonderland (2010),0.3276613264817293
+6360,49649,Eragon (2006),0.32663542568925685
+5896,33493,Star Wars: Episode III - Revenge of the Sith (2005),0.3232578967532379
+3832,5378,Star Wars: Episode II - Attack of the Clones (2002),0.32145867055006505
+1480,2005,"Goonies, The (1985)",0.32070627522952344
+6880,62970,Tin Man (2007),0.3206242223231899
+5374,8961,"Incredibles, The (2004)",0.32037185821129166
+2608,3489,Hook (1991),0.3195069564242954
+8616,118696,The Hobbit: The Battle of the Five Armies (2014),0.31773864143517433
+1174,1562,Batman & Robin (1997),0.3177362574568986
+0,1,Toy Story (1995),0.3167220634050796
+1806,2406,Romancing the Stone (1984),0.31595665414607454
+7467,81847,Tangled (2010),0.31487802864955616
+1939,2571,"Matrix, The (1999)",0.3133181502093939
+4348,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),0.31276955552965
+916,1215,Army of Darkness (1993),0.3121667140339624
+422,485,Last Action Hero (1993),0.3119801176132623
+789,1032,Alice in Wonderland (1951),0.3117654804838629
+6411,51024,The Odyssey (1997),0.3099859893863342
+314,356,Forrest Gump (1994),0.3095808533012156
+1158,1527,"Fifth Element, The (1997)",0.30951788301801286
+7826,93006,"Very Potter Musical, A (2009)",0.30889471222868214
+8696,122926,Untitled Spider-Man Reboot (2017),0.308486295318833
+549,653,Dragonheart (1996),0.30838258120289785
+780,1022,Cinderella (1950),0.30782011182241076
+5819,32031,Robots (2005),0.3077897280946375
+7633,87529,Your Highness (2011),0.30666182796303193
+2260,3000,Princess Mononoke (Mononoke-hime) (1997),0.30604990938718646
+7018,68358,Star Trek (2009),0.3058829626796598
+2287,3034,Robin Hood (1973),0.30520698028842674
+9614,179819,Star Wars: The Last Jedi (2017),0.3050879166233209
+1559,2096,Sleeping Beauty (1959),0.3048865098207507
+1522,2054,"Honey, I Shrunk the Kids (1989)",0.3042902982857246
+1,2,Jumanji (1995),0.3039008413197797
+7161,71745,Where the Wild Things Are (2009),0.3028663402356618
+6486,53121,Shrek the Third (2007),0.3023371720377975
+3172,4270,"Mummy Returns, The (2001)",0.3015798964273323
+7207,72737,"Princess and the Frog, The (2009)",0.30047688081277957
+3568,4886,"Monsters, Inc. (2001)",0.29968468137886406
+4639,6934,"Matrix Revolutions, The (2003)",0.29899434954663984
+7608,86880,Pirates of the Caribbean: On Stranger Tides (2011),0.2987544885108009
+1644,2193,Willow (1988),0.29837562352800095
+8357,108932,The Lego Movie (2014),0.2976424779093231
+534,631,All Dogs Go to Heaven 2 (1996),0.29719935791979785
+337,380,True Lies (1994),0.2968640645316039
+109,126,"NeverEnding Story III, The (1994)",0.2967231253821436
+2126,2826,"13th Warrior, The (1999)",0.29569145939709557
+7342,78105,Prince of Persia: The Sands of Time (2010),0.2954538616453467
+1601,2143,Legend (1985),0.2947033181099115
+8632,118997,Into the Woods (2014),0.29372763656775763
+509,592,Batman (1989),0.29343556123709047
+2393,3175,Galaxy Quest (1999),0.2930557915937265
+1550,2087,Peter Pan (1953),0.29296498701297213
+6311,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",0.29224154623659304
+4351,6365,"Matrix Reloaded, The (2003)",0.2915095023010176
+1617,2161,"NeverEnding Story, The (1984)",0.29125281786544266
+8451,112175,How to Train Your Dragon 2 (2014),0.2910801886639907
+5260,8636,Spider-Man 2 (2004),0.2903512755208626
+6675,57640,Hellboy II: The Golden Army (2008),0.28977224520116057
+6005,37729,Corpse Bride (2005),0.2895207169355443
+40,44,Mortal Kombat (1995),0.2889659664913463
+3819,5349,Spider-Man (2002),0.288107485702569
+2355,3114,Toy Story 2 (1999),0.2880612357775768
+974,1275,Highlander (1986),0.2875451798702462
+990,1291,Indiana Jones and the Last Crusade (1989),0.28672238522223303
+2798,3740,Big Trouble in Little China (1986),0.2860327422206253
+3731,5171,"Time Machine, The (2002)",0.2854945262121991

@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-656,849,Escape from L.A. (1996)
-6838,61350,Babylon A.D. (2008)
-856,1127,"Abyss, The (1989)"
-5265,8644,"I, Robot (2004)"
-8747,127323,Vice (2015)
-5949,34334,Stealth (2005)
-3768,5264,Clockstoppers (2002)
-1194,1591,Spawn (1997)
-2712,3638,Moonraker (1979)
-5931,34048,War of the Worlds (2005)
-6829,61248,Death Race (2008)
-529,618,Two Much (1995)
-4999,7720,"Four Musketeers, The (1974)"
-8653,120799,Terminator Genisys (2015)
-484,552,"Three Musketeers, The (1993)"
-2193,2916,Total Recall (1990)
-250,289,Only You (1994)
-4965,7569,You Only Live Twice (1967)
-3819,5349,Spider-Man (2002)
-7289,75416,Generation X (1996)
-858,1129,Escape from New York (1981)
-5787,31553,Double Dragon (1994)
-6680,57951,Fool's Gold (2008)
-7095,70336,G.I. Joe: The Rise of Cobra (2009)
-4658,6959,Timeline (2003)
-5612,27032,Who Am I? (Wo shi shei) (1998)
-1557,2094,"Rocketeer, The (1991)"
-6963,65982,Outlander (2008)
-1806,2406,Romancing the Stone (1984)
-1805,2405,"Jewel of the Nile, The (1985)"
-5379,8968,After the Sunset (2004)
-1567,2105,Tron (1982)
-8688,122904,Deadpool (2016)
-9697,191005,Gintama (2017)
-6743,59315,Iron Man (2008)
-9672,186587,Rampage (2018)
-3069,4121,Innerspace (1987)
-7409,80219,Machete (2010)
-5774,31367,"Chase, The (1994)"
-3731,5171,"Time Machine, The (2002)"
-5259,8633,"Last Starfighter, The (1984)"
-5911,33679,Mr. & Mrs. Smith (2005)
-8686,122900,Ant-Man (2015)
-3608,4956,"Stunt Man, The (1980)"
-2765,3703,"Road Warrior, The (Mad Max 2) (1981)"
-8911,135569,Star Trek Beyond (2016)
-1346,1831,Lost in Space (1998)
-3409,4638,Jurassic Park III (2001)
-2953,3959,"Time Machine, The (1960)"
-8689,122906,Black Panther (2017)
-7052,69278,Land of the Lost (2009)
-8808,130842,Power/Rangers (2015)
-6825,61210,Mutant Chronicles (2008)
-615,780,Independence Day (a.k.a. ID4) (1996)
-8685,122898,Justice League (2017)
-9031,141544,Turbo Kid (2015)
-9376,164226,Maximum Ride (2016)
-1986,2640,Superman (1978)
-9462,169982,Power Rangers (2017)
-1044,1356,Star Trek: First Contact (1996)
-2861,3827,Space Cowboys (2000)
-2764,3702,Mad Max (1979)
-9064,142509,Hardcore Henry (2015)
-9425,167370,Assassin's Creed (2016)
-1692,2275,Six-String Samurai (1998)
-632,804,She's the One (1996)
-8950,136800,Robot Overlords (2014)
-1158,1527,"Fifth Element, The (1997)"
-3599,4941,Flash Gordon (1980)
-4306,6294,Bulletproof Monk (2003)
-8489,113345,Jupiter Ascending (2015)
-1904,2528,Logan's Run (1976)
-4619,6882,Returner (Ritaanaa) (2002)
-1164,1544,"Lost World: Jurassic Park, The (1997)"
-6681,58025,Jumper (2008)
-68,76,Screamers (1995)
-6094,42015,Casanova (2005)
-1988,2642,Superman III (1983)
-6791,60514,Journey to the Center of the Earth (2008)
-6330,48774,Children of Men (2006)
-8956,136859,The Lovers (2015)
-4425,6537,Terminator 3: Rise of the Machines (2003)
-3105,4168,Get Over It (2001)
-2425,3225,Down to You (2000)
-1870,2485,She's All That (1999)
-3927,5523,"Adventures of Pluto Nash, The (2002)"
-8589,117529,Jurassic World (2015)
-8910,135567,Independence Day: Resurgence (2016)
-6070,40962,"Yours, Mine and Ours (2005)"
-4409,6503,Charlie's Angels: Full Throttle (2003)
-5161,8361,"Day After Tomorrow, The (2004)"
-8458,112370,Transformers: Age of Extinction (2014)
-8684,122892,Avengers: Age of Ultron (2015)
-2766,3704,Mad Max Beyond Thunderdome (1985)
-2327,3082,"World Is Not Enough, The (1999)"
-7620,87232,X-Men: First Class (2011)
-6894,63433,Farscape: The Peacekeeper Wars (2004)
-479,547,Surviving the Game (1994)
-152,180,Mallrats (1995)
-1171,1552,Con Air (1997)
+,movie_id,title,score_recomendacao
+4986,7669,Pride and Prejudice (1995),0.6844548673645338
+5593,26887,"Langoliers, The (1995)",0.6396024569046409
+5586,26849,"Stand, The (1994)",0.5534493536020826
+7972,96520,Prime Suspect: The Lost Child (1995),0.5022439728695502
+126,153,Batman Forever (1995),0.4668684089831382
+253,292,Outbreak (1995),0.46409690282126104
+145,173,Judge Dredd (1995),0.45500829383923047
+7938,95738,"Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper (1995)",0.4251539109091329
+19,20,Money Train (1995),0.4236379213185214
+167,198,Strange Days (1995),0.41621474662217595
+133,160,Congo (1995),0.41153344844891754
+5,6,Heat (1995),0.409412362782153
+46,50,"Usual Suspects, The (1995)",0.40080596574121713
+1555,2092,"Return of Jafar, The (1994)",0.39758405036255584
+118,145,Bad Boys (1995),0.3929145930629103
+274,315,"Specialist, The (1994)",0.39179984699934856
+10,11,"American President, The (1995)",0.39006857973717524
+20,21,Get Shorty (1995),0.3897129101650405
+322,364,"Lion King, The (1994)",0.3889883922577678
+142,170,Hackers (1995),0.38606768602347746
+4,5,Father of the Bride Part II (1995),0.384151317945001
+70,78,"Crossing Guard, The (1995)",0.38192985671894797
+364,420,Beverly Hills Cop III (1994),0.38164608827380203
+80,89,Nick of Time (1995),0.38102675901383565
+40,44,Mortal Kombat (1995),0.38065822629178847
+44,48,Pocahontas (1995),0.3801944243261116
+6,7,Sabrina (1995),0.38018537573727873
+285,327,Tank Girl (1995),0.3789225073007686
+0,1,Toy Story (1995),0.3786864058617057
+156,185,"Net, The (1995)",0.37832854142844113
+328,370,Naked Gun 33 1/3: The Final Insult (1994),0.37819510052992145
+21,22,Copycat (1995),0.37701530991179
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.37563056355519686
+172,204,Under Siege 2: Dark Territory (1995),0.3749503059047938
+422,485,Last Action Hero (1993),0.3743418153134558
+123,150,Apollo 13 (1995),0.37256126532443945
+2,3,Grumpier Old Men (1995),0.3725565907726395
+152,180,Mallrats (1995),0.3724254253009188
+124,151,Rob Roy (1995),0.3721688266507083
+334,377,Speed (1994),0.3710718758374888
+271,312,Stuart Saves His Family (1995),0.36978771817811923
+140,168,First Knight (1995),0.36831300124391264
+22,23,Assassins (1995),0.3654907511179218
+599,745,Wallace & Gromit: A Close Shave (1995),0.3638498168490649
+43,47,Seven (a.k.a. Se7en) (1995),0.3634868346675921
+276,317,"Santa Clause, The (1994)",0.3614238571885994
+406,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)",0.3611027786407013
+117,144,"Brothers McMullen, The (1995)",0.3610197643530746
+8,9,Sudden Death (1995),0.35983805310476874
+400,459,"Getaway, The (1994)",0.3595840785420964
+1,2,Jumanji (1995),0.3586108512695748
+409,471,"Hudsucker Proxy, The (1994)",0.3579032658553766
+144,172,Johnny Mnemonic (1995),0.35715681310232655
+15,16,Casino (1995),0.3567255719055068
+191,224,Don Juan DeMarco (1995),0.3545889266311474
+311,353,"Crow, The (1994)",0.35318767815455354
+221,257,Just Cause (1995),0.3521571212416567
+52,58,"Postman, The (Postino, Il) (1994)",0.35165478247695725
+136,163,Desperado (1995),0.35134958093361546
+35,39,Clueless (1995),0.3508865179115566
+53,60,"Indian in the Cupboard, The (1995)",0.3500325751375657
+1164,1544,"Lost World: Jurassic Park, The (1997)",0.3489844935118508
+330,372,Reality Bites (1994),0.34876867696177066
+28,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",0.3453703951930581
+939,1240,"Terminator, The (1984)",0.3452640062052597
+24,25,Leaving Las Vegas (1995),0.34483059231439006
+175,207,"Walk in the Clouds, A (1995)",0.34429326208764466
+166,196,Species (1995),0.34396515414200707
+793,1036,Die Hard (1988),0.34349219752701265
+287,329,Star Trek: Generations (1994),0.34290248619304653
+336,379,Timecop (1994),0.3428611916561095
+197,231,Dumb & Dumber (Dumb and Dumber) (1994),0.34285587439611165
+68,76,Screamers (1995),0.34262916605733573
+307,349,Clear and Present Danger (1994),0.3420678815472342
+489,562,Welcome to the Dollhouse (1995),0.34190374361515696
+217,253,Interview with the Vampire: The Vampire Chronicles (1994),0.34059450095295396
+93,105,"Bridges of Madison County, The (1995)",0.3394399971283427
+249,288,Natural Born Killers (1994),0.3384912580783559
+229,266,Legends of the Fall (1994),0.33848061864375373
+33,36,Dead Man Walking (1995),0.33824365522966315
+201,235,Ed Wood (1994),0.337856543781241
+4425,6537,Terminator 3: Rise of the Machines (2003),0.33677754996912745
+17,18,Four Rooms (1995),0.3366665712127281
+238,276,Milk Money (1994),0.3349064503656204
+73,81,Things to Do in Denver When You're Dead (1995),0.33199720013132167
+130,157,Canadian Bacon (1995),0.331964753074652
+134,161,Crimson Tide (1995),0.3311447762530457
+61,69,Friday (1995),0.33037240552212643
+449,514,"Ref, The (1994)",0.3284180010262543
+1053,1370,Die Hard 2 (1990),0.32761391955663866
+224,260,Star Wars: Episode IV - A New Hope (1977),0.3273313294095931
+2299,3046,"Incredibly True Adventure of Two Girls in Love, The (1995)",0.32730664585188657
+220,256,Junior (1994),0.3270047165075599
+876,1170,Best of the Best 3: No Turning Back (1995),0.3268487219662237
+243,281,Nobody's Fool (1994),0.32615666640643454
+32,34,Babe (1995),0.32581134912106763
+615,780,Independence Day (a.k.a. ID4) (1996),0.32573158943429714
+120,147,"Basketball Diaries, The (1995)",0.3255015509849808
+624,791,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1994)",0.32501839794233983
+23,24,Powder (1995),0.32368832006212733

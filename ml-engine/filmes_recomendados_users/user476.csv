@@ -1,101 +1,101 @@
-,movieId,titulo_movie_lens
-1273,1688,Anastasia (1997)
-786,1029,Dumbo (1941)
-2016,2687,Tarzan (1999)
-618,783,"Hunchback of Notre Dame, The (1996)"
-1390,1907,Mulan (1998)
-1555,2092,"Return of Jafar, The (1994)"
-511,594,Snow White and the Seven Dwarfs (1937)
-26,27,Now and Then (1995)
-1596,2138,Watership Down (1978)
-1597,2139,"Secret of NIMH, The (1982)"
-2106,2800,Little Nemo: Adventures in Slumberland (1992)
-534,631,All Dogs Go to Heaven 2 (1996)
-8977,138702,Feast (2014)
-790,1033,"Fox and the Hound, The (1981)"
-1493,2018,Bambi (1942)
-780,1022,Cinderella (1950)
-498,577,Andre (1994)
-2077,2761,"Iron Giant, The (1999)"
-7207,72737,"Princess and the Frog, The (2009)"
-6626,56152,Enchanted (2007)
-789,1032,Alice in Wonderland (1951)
-488,558,"Pagemaster, The (1994)"
-981,1282,Fantasia (1940)
-2549,3412,"Bear, The (Ours, L') (1988)"
-8895,134853,Inside Out (2015)
-1170,1551,Buddy (1997)
-6014,37857,MirrorMask (2005)
-7181,72294,"Christmas Carol, A (2009)"
-207,241,Fluke (1995)
-1372,1881,Quest for Camelot (1998)
-5546,26662,Kiki's Delivery Service (Majo no takkyûbin) (1989)
-396,455,Free Willy (1993)
-5160,8360,Shrek 2 (2004)
-2539,3400,We're Back! A Dinosaur's Story (1993)
-205,239,"Goofy Movie, A (1995)"
-4236,6170,"Black Stallion, The (1979)"
-551,661,James and the Giant Peach (1996)
-5533,26590,G.I. Joe: The Movie (1987)
-141,169,Free Willy 2: The Adventure Home (1995)
-7467,81847,Tangled (2010)
-3336,4519,"Land Before Time, The (1988)"
-5620,27155,"Batman/Superman Movie, The (1998)"
-812,1064,Aladdin and the King of Thieves (1996)
-8720,126482,Strange Magic (2015)
-1545,2081,"Little Mermaid, The (1989)"
-1167,1547,Shiloh (1997)
-7069,69644,Ice Age: Dawn of the Dinosaurs (2009)
-9196,151687,Risen (2016)
-4383,6427,"Railway Children, The (1970)"
-3896,5472,1776 (1972)
-1505,2033,"Black Cauldron, The (1985)"
-1786,2384,Babe: Pig in the City (1998)
-1550,2087,Peter Pan (1953)
-7240,73854,"Rudolph, the Red-Nosed Reindeer (1964)"
-2160,2876,Thumbelina (1994)
-7161,71745,Where the Wild Things Are (2009)
-1177,1566,Hercules (1997)
-1544,2080,Lady and the Tramp (1955)
-2304,3054,Pokémon: The First Movie (1998)
-6903,63859,Bolt (2008)
-3697,5099,Heidi (1937)
-9210,152081,Zootopia (2016)
-9351,162578,Kubo and the Two Strings (2016)
-9138,147380,Doctor Who: The Next Doctor (2008)
-1822,2422,"Karate Kid, Part III, The (1989)"
-4151,5971,My Neighbor Totoro (Tonari no Totoro) (1988)
-5228,8534,Two Brothers (Deux frères) (2004)
-1829,2430,Mighty Joe Young (1949)
-7907,95170,Beauty and the Beast: The Enchanted Christmas (1997)
-783,1025,"Sword in the Stone, The (1963)"
-8349,108540,Ernest & Célestine (Ernest et Célestine) (2012)
-6685,58105,"Spiderwick Chronicles, The (2008)"
-699,917,"Little Princess, The (1939)"
-12,13,Balto (1995)
-9137,147378,Doctor Who: Planet of the Dead (2009)
-8792,130073,Cinderella (2015)
-5087,8015,"Phantom Tollbooth, The (1970)"
-2287,3034,Robin Hood (1973)
-671,885,Bogus (1996)
-4014,5672,Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie) (2002)
-3230,4366,Atlantis: The Lost Empire (2001)
-773,1015,Homeward Bound: The Incredible Journey (1993)
-1800,2400,Prancer (1989)
-1584,2123,All Dogs Go to Heaven (1989)
-6047,40339,Chicken Little (2005)
-483,551,"Nightmare Before Christmas, The (1993)"
-6194,45074,"Wild, The (2006)"
-578,709,Oliver & Company (1988)
-9581,176621,Boniface's Holiday (1965)
-2403,3189,My Dog Skip (1999)
-3568,4886,"Monsters, Inc. (2001)"
-5901,33615,Madagascar (2005)
-7587,86298,Rio (2011)
-8411,110655,Rio 2 (2014)
-4269,6232,Born Free (1966)
-1543,2078,"Jungle Book, The (1967)"
-6486,53121,Shrek the Third (2007)
-7302,76093,How to Train Your Dragon (2010)
-8219,103755,Turbo (2013)
-9267,157865,Ratchet & Clank (2016)
+,movie_id,title,score_recomendacao
+5586,26849,"Stand, The (1994)",0.45632437534883474
+4986,7669,Pride and Prejudice (1995),0.44704122965952137
+1555,2092,"Return of Jafar, The (1994)",0.41886093365410937
+5593,26887,"Langoliers, The (1995)",0.37429897313538363
+1545,2081,"Little Mermaid, The (1989)",0.371142887514587
+0,1,Toy Story (1995),0.3646434889045068
+780,1022,Cinderella (1950),0.3519904852012765
+253,292,Outbreak (1995),0.3508174185282651
+3194,4306,Shrek (2001),0.34657919854631175
+337,380,True Lies (1994),0.3428258746085697
+97,110,Braveheart (1995),0.3426989429129439
+53,60,"Indian in the Cupboard, The (1995)",0.34032618974239814
+325,367,"Mask, The (1994)",0.33383902644471136
+483,551,"Nightmare Before Christmas, The (1993)",0.33032129886465667
+126,153,Batman Forever (1995),0.32817984717018023
+257,296,Pulp Fiction (1994),0.3264984504556161
+498,577,Andre (1994),0.32579792654500006
+277,318,"Shawshank Redemption, The (1994)",0.32392901671874946
+8303,106696,Frozen (2013),0.32380289661364975
+1559,2096,Sleeping Beauty (1959),0.32331397988512306
+52,58,"Postman, The (Postino, Il) (1994)",0.3199234362475789
+229,266,Legends of the Fall (1994),0.3196925214843439
+1786,2384,Babe: Pig in the City (1998),0.3170716654168428
+551,661,James and the Giant Peach (1996),0.3151840381351293
+320,362,"Jungle Book, The (1994)",0.31242205483458113
+217,253,Interview with the Vampire: The Vampire Chronicles (1994),0.3123649452620479
+981,1282,Fantasia (1940),0.30902470221907896
+5160,8360,Shrek 2 (2004),0.3085185423498354
+422,485,Last Action Hero (1993),0.30680162978045866
+287,329,Star Trek: Generations (1994),0.30598291841809666
+599,745,Wallace & Gromit: A Close Shave (1995),0.30199555410128764
+10,11,"American President, The (1995)",0.2999500812513086
+6626,56152,Enchanted (2007),0.2995060169730168
+330,372,Reality Bites (1994),0.2985902831224428
+192,225,Disclosure (1994),0.29820125005189735
+276,317,"Santa Clause, The (1994)",0.2969240555221853
+461,527,Schindler's List (1993),0.29590500178871393
+275,316,Stargate (1994),0.2957199192058493
+140,168,First Knight (1995),0.2956657757773382
+334,377,Speed (1994),0.29540619956148906
+1493,2018,Bambi (1942),0.29489846810512305
+7039,68954,Up (2009),0.2942174037427072
+46,50,"Usual Suspects, The (1995)",0.2941696530699781
+28,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",0.29390134406858237
+12,13,Balto (1995),0.29389499163757443
+5917,33794,Batman Begins (2005),0.2938349385069686
+511,594,Snow White and the Seven Dwarfs (1937),0.29365930651927347
+1164,1544,"Lost World: Jurassic Park, The (1997)",0.2928640711352047
+7972,96520,Prime Suspect: The Lost Child (1995),0.2928354885096577
+701,919,"Wizard of Oz, The (1939)",0.2928179503446344
+618,783,"Hunchback of Notre Dame, The (1996)",0.2927419161946926
+18,19,Ace Ventura: When Nature Calls (1995),0.29272509450957274
+964,1265,Groundhog Day (1993),0.2926881846784817
+1550,2087,Peter Pan (1953),0.2917835845659145
+939,1240,"Terminator, The (1984)",0.29170839990112596
+376,432,City Slickers II: The Legend of Curly's Gold (1994),0.2898131626069958
+1543,2078,"Jungle Book, The (1967)",0.2896094143737605
+899,1197,"Princess Bride, The (1987)",0.2890752088863998
+157,186,Nine Months (1995),0.28835640944220375
+145,173,Judge Dredd (1995),0.28790390864335585
+4425,6537,Terminator 3: Rise of the Machines (2003),0.28701138564877504
+812,1064,Aladdin and the King of Thieves (1996),0.28658333320330254
+5605,26999,"Lion King II: Simba's Pride, The (1998)",0.2862936470334406
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.28536644758295393
+355,410,Addams Family Values (1993),0.2850277186874674
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.2845466439147547
+93,105,"Bridges of Madison County, The (1995)",0.2833890798624403
+398,457,"Fugitive, The (1993)",0.2830579203674378
+503,585,"Brady Bunch Movie, The (1995)",0.28298507724108724
+307,349,Clear and Present Danger (1994),0.2817972394612461
+396,455,Free Willy (1993),0.2808232025878552
+5374,8961,"Incredibles, The (2004)",0.2807509218943281
+201,235,Ed Wood (1994),0.2797026092777465
+20,21,Get Shorty (1995),0.27934549621736193
+326,368,Maverick (1994),0.2793024823108891
+308,350,"Client, The (1994)",0.2791980347282318
+7938,95738,"Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper (1995)",0.278686884591227
+138,165,Die Hard: With a Vengeance (1995),0.2784039298318735
+7207,72737,"Princess and the Frog, The (2009)",0.27829434289004773
+3640,4995,"Beautiful Mind, A (2001)",0.27813610692610724
+409,471,"Hudsucker Proxy, The (1994)",0.27809775099343703
+436,500,Mrs. Doubtfire (1993),0.277795832021845
+1390,1907,Mulan (1998),0.27765213359751345
+497,575,"Little Rascals, The (1994)",0.2773900730997881
+133,160,Congo (1995),0.27710295281563213
+1730,2324,Life Is Beautiful (La Vita è bella) (1997),0.27649967688556276
+197,231,Dumb & Dumber (Dumb and Dumber) (1994),0.2760076522613171
+238,276,Milk Money (1994),0.27598588627843557
+5227,8533,"Notebook, The (2004)",0.2758140292022023
+510,593,"Silence of the Lambs, The (1991)",0.2753904071614519
+313,355,"Flintstones, The (1994)",0.2752487801943339
+239,277,Miracle on 34th Street (1994),0.2752058073935237
+385,442,Demolition Man (1993),0.27438534440654644
+109,126,"NeverEnding Story III, The (1994)",0.27372387479012994
+249,288,Natural Born Killers (1994),0.27303654289390455
+24,25,Leaving Las Vegas (1995),0.27283020926307816
+224,260,Star Wars: Episode IV - A New Hope (1977),0.27282370550451035
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.27278810175104384
+2418,3213,Batman: Mask of the Phantasm (1993),0.27190636039119964
+302,344,Ace Ventura: Pet Detective (1994),0.27186656386627944
