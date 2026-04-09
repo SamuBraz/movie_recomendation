@@ -34,28 +34,44 @@ def build_pop_score():
     return (log_r - log_r.min()) / (log_r.max() - log_r.min())
 
 
-def recomendar_perfil(user_id, movies_df, cosine_sim, pop_score, k, df_training):
-    df_user = df_training[df_training["userId"] == user_id]
-    list_ids = df_user["movieId"].tolist()
-    id_col = "movie_id" if "movie_id" in movies_df.columns else "movieId"
-    indices = movies_df[movies_df[id_col].isin(list_ids)].index.tolist()
-    if not indices:
+def recomendar_filmes_perfil(user_id, movies_df, cosine_sim_matrix, pop_score, n_recomendacoes=50, df_traing_path='data_spliting/traing.csv'):
+
+    # 1. Carregar o histórico de treino do usuário
+    df_traing = pd.read_csv(df_traing_path)
+
+    # 2. Identificar os IDs dos filmes que o usuário já assistiu
+    df_user = df_traing.loc[df_traing['userId'] == user_id]
+    list_id_movies = df_user['movieId'].to_list()
+
+    # 3. Mapear esses IDs para os índices numéricos
+    indices_usuario = movies_df[movies_df['movie_id'].isin(list_id_movies)].index.tolist()
+
+    if not indices_usuario:
         return pd.DataFrame()
 
-    sim_scores = np.mean(cosine_sim[indices], axis=0)
-    max_sim = sim_scores.max()
+    # 4. Cálculo da Recomendação por Perfil (Similaridade Média)
+    sim_scores_total = np.mean(cosine_sim_matrix[indices_usuario], axis=0)
+
+    # Normalização para aplicar o popularity bias
+    max_sim = sim_scores_total.max()
     if max_sim > 0:
-        sim_scores = sim_scores / max_sim
+        sim_scores_total = sim_scores_total / max_sim
 
-    score_hibrido = sim_scores * 0.8 + pop_score * 0.2
-    ranked = sorted(enumerate(score_hibrido), key=lambda x: x[1], reverse=True)
-    filtered = [s for s in ranked if s[0] not in indices][:k]
+    peso_conteudo = 0.8
+    peso_pop = 0.2
+    score_hibrido = (sim_scores_total * peso_conteudo) + (pop_score * peso_pop)
 
-    indices_top = [i[0] for i in filtered]
-    rec = movies_df.iloc[indices_top][[id_col]].copy()
-    rec.columns = ["movie_id"]
-    rec["score"] = [i[1] for i in filtered]
-    return rec
+    sim_scores = list(enumerate(score_hibrido))
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
+    sim_scores_filtrados = [s for s in sim_scores if s[0] not in indices_usuario]
+
+    top_sim_scores = sim_scores_filtrados[:n_recomendacoes]
+    filme_indices = [i[0] for i in top_sim_scores]
+
+    recomendacoes = movies_df.iloc[filme_indices][['movie_id', 'title']].copy()
+    recomendacoes['score_recomendacao'] = [i[1] for i in top_sim_scores]
+
+    return recomendacoes
 
 
 def validar_modelo_completo(movies_df, cosine_sim, pop_score, df_training, df_testing, k, csv_label):
@@ -66,7 +82,7 @@ def validar_modelo_completo(movies_df, cosine_sim, pop_score, df_training, df_te
     user_recs = {}
     for user_id in usuarios:
         filmes_reais = set(df_testing[df_testing["userId"] == user_id]["movieId"])
-        rec_df = recomendar_perfil(user_id, movies_df, cosine_sim, pop_score, k, df_training)
+        rec_df = recomendar_filmes_perfil(user_id, movies_df, cosine_sim, pop_score, n_recomendacoes=k, df_traing_path=str(SPLIT_DIR / "traing.csv"))
         if rec_df.empty:
             continue
         recomendados = set(rec_df["movie_id"])
