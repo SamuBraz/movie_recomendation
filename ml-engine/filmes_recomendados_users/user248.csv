@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.9972393901936547
-4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.9972084878450762
-224,260,Star Wars: Episode IV - A New Hope (1977),0.99610630407911
-2836,3793,X-Men (2000),0.9948187062216729
-4351,6365,"Matrix Reloaded, The (2003)",0.9939946435929131
-4639,6934,"Matrix Revolutions, The (2003)",0.9930057684384014
-7693,89745,"Avengers, The (2012)",0.9928924598269468
-3819,5349,Spider-Man (2002),0.9924495261639885
-8475,112852,Guardians of the Galaxy (2014),0.9914091470951794
-7372,79132,Inception (2010),0.9901421508034611
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.9974196538936959
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.9971260815822003
+224,260,Star Wars: Episode IV - A New Hope (1977),0.9956839719818706
+7693,89745,"Avengers, The (2012)",0.9953646477132263
+4351,6365,"Matrix Reloaded, The (2003)",0.995143180881747
+2836,3793,X-Men (2000),0.9949886691388546
+4639,6934,"Matrix Revolutions, The (2003)",0.9948547589616812
+8475,112852,Guardians of the Galaxy (2014),0.9947259991759374
+8688,122904,Deadpool (2016),0.9927585496497735
+7324,77561,Iron Man 2 (2010),0.9927224969097652

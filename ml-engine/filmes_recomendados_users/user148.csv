@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-1005,1307,When Harry Met Sally... (1989),0.9940873506386487
-701,919,"Wizard of Oz, The (1939)",0.9940873506386486
-512,595,Beauty and the Beast (1991),0.9936238154099711
-5374,8961,"Incredibles, The (2004)",0.9935414091470952
-6522,54001,Harry Potter and the Order of the Phoenix (2007),0.9920271940667491
-224,260,Star Wars: Episode IV - A New Hope (1977),0.9913267408323032
-3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.9904614750721056
-4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.9903996703749486
-4137,5952,"Lord of the Rings: The Two Towers, The (2002)",0.9893592913061393
-506,588,Aladdin (1992),0.9891429748660898
+1005,1307,When Harry Met Sally... (1989),0.9957560774618872
+6522,54001,Harry Potter and the Order of the Phoenix (2007),0.9956015657189946
+701,919,"Wizard of Oz, The (1939)",0.9953955500618048
+5374,8961,"Incredibles, The (2004)",0.9937319736299959
+512,595,Beauty and the Beast (1991),0.9934126493613515
+6075,41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",0.9905850844664195
+7302,76093,How to Train Your Dragon (2010),0.9905850844664195
+1545,2081,"Little Mermaid, The (1989)",0.9904975278121138
+224,260,Star Wars: Episode IV - A New Hope (1977),0.9903069633292131
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.9895344046147507

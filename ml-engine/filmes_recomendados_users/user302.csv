@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.9983518747424805
-911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.9980222496909766
-922,1221,"Godfather: Part II, The (1974)",0.9967758549649773
-939,1240,"Terminator, The (1984)",0.9964256283477545
-902,1200,Aliens (1986),0.9958899876390606
-990,1291,Indiana Jones and the Last Crusade (1989),0.9957869798104656
-1576,2115,Indiana Jones and the Temple of Doom (1984),0.9956427688504328
-31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.9944993819530284
-15,16,Casino (1995),0.9936959208899876
-706,924,2001: A Space Odyssey (1968),0.9935723114956737
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.998300370828183
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.9980325504738361
+922,1221,"Godfather: Part II, The (1974)",0.9973063452822415
+939,1240,"Terminator, The (1984)",0.9968737124021426
+1576,2115,Indiana Jones and the Temple of Doom (1984),0.9965337865677792
+902,1200,Aliens (1986),0.9963483724763083
+990,1291,Indiana Jones and the Last Crusade (1989),0.9959878450762258
+15,16,Casino (1995),0.9954573547589616
+1164,1544,"Lost World: Jurassic Park, The (1997)",0.9950401730531521
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.9942109600329625

@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-0,1,Toy Story (1995),0.9980428512566956
-3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.9973217964565307
-4076,5816,Harry Potter and the Chamber of Secrets (2002),0.9968582612278534
-6062,40815,Harry Potter and the Goblet of Fire (2005),0.99446847960445
-1005,1307,When Harry Met Sally... (1989),0.9933456942727648
-701,919,"Wizard of Oz, The (1939)",0.992686444169757
-2355,3114,Toy Story 2 (1999),0.992604037906881
-6522,54001,Harry Potter and the Order of the Phoenix (2007),0.992109600329625
-7078,69844,Harry Potter and the Half-Blood Prince (2009),0.9920271940667491
-3009,4025,Miss Congeniality (2000),0.9919138854552947
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.9984548825710753
+4076,5816,Harry Potter and the Chamber of Secrets (2002),0.9981201071281418
+0,1,Toy Story (1995),0.9979398434281006
+6062,40815,Harry Potter and the Goblet of Fire (2005),0.9969767202307376
+6522,54001,Harry Potter and the Order of the Phoenix (2007),0.9956942727647301
+7078,69844,Harry Potter and the Half-Blood Prince (2009),0.9956015657189946
+1005,1307,When Harry Met Sally... (1989),0.994921714050268
+3009,4025,Miss Congeniality (2000),0.9947208487845076
+7644,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),0.9945148331273177
+7355,78499,Toy Story 3 (2010),0.9943448702101361

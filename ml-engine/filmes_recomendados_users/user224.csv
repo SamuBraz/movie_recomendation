@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-922,1221,"Godfather: Part II, The (1974)",0.9944684796044501
-472,539,Sleepless in Seattle (1993),0.9941388545529461
-505,587,Ghost (1990),0.9927482488669139
-512,595,Beauty and the Beast (1991),0.9923053152039555
-276,317,"Santa Clause, The (1994)",0.9918726823238567
-1486,2011,Back to the Future Part II (1989),0.9916048619695098
-2039,2717,Ghostbusters II (1989),0.9870313143798929
-3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.9866913885455295
-483,551,"Nightmare Before Christmas, The (1993)",0.9861969509682736
-2605,3481,High Fidelity (2000),0.9860630407911002
+472,539,Sleepless in Seattle (1993),0.9949062628759786
+922,1221,"Godfather: Part II, The (1974)",0.9947105480016482
+276,317,"Santa Clause, The (1994)",0.993464153275649
+505,587,Ghost (1990),0.9930778739184178
+1486,2011,Back to the Future Part II (1989),0.9928667078697981
+512,595,Beauty and the Beast (1991),0.9919293366295838
+2039,2717,Ghostbusters II (1989),0.9916100123609395
+809,1059,William Shakespeare's Romeo + Juliet (1996),0.9890142150803461
+1178,1569,My Best Friend's Wedding (1997),0.987891429748661
+1947,2581,Never Been Kissed (1999),0.9875309023485785

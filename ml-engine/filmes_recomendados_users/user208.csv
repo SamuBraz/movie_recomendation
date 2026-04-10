@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-224,260,Star Wars: Episode IV - A New Hope (1977),0.9990729295426453
-898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.9986814997939844
-939,1240,"Terminator, The (1984)",0.9973320972393902
-31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.9970539761021838
-922,1221,"Godfather: Part II, The (1974)",0.9970230737536053
-1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.9967758549649774
-2226,2959,Fight Club (1999),0.996168108776267
-4351,6365,"Matrix Reloaded, The (2003)",0.9959723939019366
-914,1213,Goodfellas (1990),0.9955603625875566
-4639,6934,"Matrix Revolutions, The (2003)",0.994736299958797
+224,260,Star Wars: Episode IV - A New Hope (1977),0.9990214256283478
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.9986711990111248
+939,1240,"Terminator, The (1984)",0.9978934899052329
+922,1221,"Godfather: Part II, The (1974)",0.997584466419448
+4351,6365,"Matrix Reloaded, The (2003)",0.9973681499793985
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.9971003296250516
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.9970848784507622
+4639,6934,"Matrix Revolutions, The (2003)",0.9968016069221262
+914,1213,Goodfellas (1990),0.9959775442933663
+2226,2959,Fight Club (1999),0.9958178821590441

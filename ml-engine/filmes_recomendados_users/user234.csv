@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-0,1,Toy Story (1995),0.9922744128553771
-5374,8961,"Incredibles, The (2004)",0.9901627523691802
-939,1240,"Terminator, The (1984)",0.9887618459002885
-5896,33493,Star Wars: Episode III - Revenge of the Sith (2005),0.9864338689740421
-1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.9859806345282243
-1164,1544,"Lost World: Jurassic Park, The (1997)",0.9858570251339103
-615,780,Independence Day (a.k.a. ID4) (1996),0.9856613102595797
-4639,6934,"Matrix Revolutions, The (2003)",0.9854243922538114
-483,551,"Nightmare Before Christmas, The (1993)",0.984713638236506
-322,364,"Lion King, The (1994)",0.9840131850020601
+0,1,Toy Story (1995),0.9914503502266172
+5374,8961,"Incredibles, The (2004)",0.9899309847548414
+939,1240,"Terminator, The (1984)",0.9882519571487433
+1164,1544,"Lost World: Jurassic Park, The (1997)",0.987623609394314
+5896,33493,Star Wars: Episode III - Revenge of the Sith (2005),0.9875
+4639,6934,"Matrix Revolutions, The (2003)",0.9863257107540173
+559,673,Space Jam (1996),0.9861351462711166
+7355,78499,Toy Story 3 (2010),0.985166872682324
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.9849557066337042
+483,551,"Nightmare Before Christmas, The (1993)",0.9847857437165225

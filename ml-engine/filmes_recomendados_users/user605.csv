@@ -1,11 +1,11 @@
 ,movie_id,title,score_recomendacao
-898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.9961269056448291
-4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.9960857025133911
-3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.9938607334157397
-4076,5816,Harry Potter and the Chamber of Secrets (2002),0.9933971981870623
-3194,4306,Shrek (2001),0.9924289245982695
-6062,40815,Harry Potter and the Goblet of Fire (2005),0.990512978986403
-701,919,"Wizard of Oz, The (1939)",0.9901318500206017
-1979,2628,Star Wars: Episode I - The Phantom Menace (1999),0.9893592913061393
-5160,8360,Shrek 2 (2004),0.988978162340338
-5735,30793,Charlie and the Chocolate Factory (2005),0.988504326328801
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",0.9959311907704986
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.9957972805933251
+3574,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),0.9945611866501853
+4076,5816,Harry Potter and the Chamber of Secrets (2002),0.9942264112072519
+6062,40815,Harry Potter and the Goblet of Fire (2005),0.9925267820354348
+3194,4306,Shrek (2001),0.9919396374124434
+5735,30793,Charlie and the Chocolate Factory (2005),0.9912134322208488
+6522,54001,Harry Potter and the Order of the Phoenix (2007),0.9911516275236918
+7644,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),0.9910846724351051
+701,919,"Wizard of Oz, The (1939)",0.9909456118665019
