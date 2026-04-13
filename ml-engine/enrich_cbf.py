@@ -88,7 +88,6 @@ def build_geral(row: pd.Series) -> str:
     """
     parts = [
         str(row.get("title", "")),
-        str(row.get("year", "")),
         str(row.get("genres", "")).replace("|", " "),
         str(row.get("overview", "")),
         str(row.get("tagline", "")),
